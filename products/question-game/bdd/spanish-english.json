@@ -1,0 +1,230 @@
+[
+    {
+        "question":"¿Cómo se dice rojo en inglés?",
+        "answer":"red"
+    },
+    {
+        "question":"¿Cómo se dice azul en inglés?",
+        "answer":"blue"
+    },
+    {
+        "question":"¿Cómo se dice amarillo en inglés?",
+        "answer":"yellow"
+    },
+    {
+        "question":"¿Cómo se dice verde en inglés?",
+        "answer":"green"
+    },
+    {
+        "question":"¿Cómo se dice rosa en inglés?",
+        "answer":"pink"
+    },
+    {
+        "question":"¿Cómo se dice naranja en inglés?",
+        "answer":"orange"
+    },
+    {
+        "question":"¿Cómo se dice el color negro en inglés?",
+        "answer":"black"
+    },
+    {
+        "question":"¿Cómo se dice blanco en inglés?",
+        "answer":"white"
+    },
+    {
+        "question":"¿Cómo se dice gris en inglés?",
+        "answer":"grey"
+    },
+    {
+        "question":"¿Cómo se dice morado en inglés?",
+        "answer":"purple"
+    },
+    {
+        "question":"¿Cómo se dice papá en inglés?",
+        "answer":"dad"
+    },
+    {
+        "question":"¿Cómo se dice mamá en inglés?",
+        "answer":"mum"
+    },
+    {
+        "question":"¿Cómo se dice abuelo en inglés?",
+        "answer":"grandpa"
+    },
+    {
+        "question":"¿Cómo se dice abuela en inglés?",
+        "answer":"granny"
+    },
+    {
+        "question":"¿Cómo se dice primo en inglés?",
+        "answer":"cousin"
+    },
+    {
+        "question":"¿Cómo se dice hermana en inglés?",
+        "answer":"sister"
+    },
+    {
+        "question":"¿Cómo se dice hermano en inglés?",
+        "answer":"brother"
+    },
+    {
+        "question":"¿Cómo se dice tito en inglés?",
+        "answer":"uncle"
+    },
+    {
+        "question":"¿Cómo se dice tita en inglés?",
+        "answer":"aunt"
+    },
+    {
+        "question":"¿Cómo se dice caballo en inglés?",
+        "answer":"horse"
+    },
+    {
+        "question":"¿Cómo se dice gracias en inglés?",
+        "answer":"thank you"
+    },
+    {
+        "question":"¿Cómo se dice 'por favor' en inglés?",
+        "answer":"please"
+    },
+    {
+        "question":"¿Cómo se dice perro en inglés?",
+        "answer":"dog"
+    },
+    {
+        "question":"¿Cómo se dice gato en inglés?",
+        "answer":"cat"
+    },
+    {
+        "question":"¿Cómo se dice árbol en inglés?",
+        "answer":"tree"
+    },
+    {
+        "question":"¿Cómo se dice regla en inglés?",
+        "answer":"rule"
+    },
+    {
+        "question":"¿Cómo se dice arcoíris en inglés?",
+        "answer":"rainbow"
+    },
+    {
+        "question":"¿Cómo se dice uno en inglés?",
+        "answer":"one"
+    },
+    {
+        "question":"¿Cómo se dice dos en inglés?",
+        "answer":"two"
+    },
+    {
+        "question":"¿Cómo se dice tres en inglés?",
+        "answer":"three"
+    },
+    {
+        "question":"¿Cómo se dice cuatro en inglés?",
+        "answer":"four"
+    },
+    {
+        "question":"¿Cómo se dice cinco en inglés?",
+        "answer":"five"
+    },
+    {
+        "question":"¿Cómo se dice seis en inglés?",
+        "answer":"six"
+    },
+    {
+        "question":"¿Cómo se dice siete en inglés?",
+        "answer":"seven"
+    },
+    {
+        "question":"¿Cómo se dice ocho en inglés?",
+        "answer":"eight"
+    },
+    {
+        "question":"¿Cómo se dice nueve en inglés?",
+        "answer":"nive"
+    },
+    {
+        "question":"¿Cómo se dice diez en inglés?",
+        "answer":"ten"
+    },
+    {
+        "question":"¿Cómo se dice once en inglés?",
+        "answer":"eleven"
+    },
+    {
+        "question":"¿Cómo se dice doce en inglés?",
+        "answer":"twelve"
+    },
+    {
+        "question":"¿Cómo se dice trece en inglés?",
+        "answer":"thirteen"
+    },
+    {
+        "question":"¿Cómo se dice catorce en inglés?",
+        "answer":"fouteen"
+    },
+    {
+        "question":"¿Cómo se dice quince en inglés?",
+        "answer":"fiveteen"
+    },
+    {
+        "question":"¿Cómo se dice veinte en inglés?",
+        "answer":"twenty"
+    },
+    {
+        "question":"¿Cómo se dice treinta en inglés?",
+        "answer":"thirty"
+    },
+    {
+        "question":"¿Cómo se dice cuarenta en inglés?",
+        "answer":"forty"
+    },
+    {
+        "question":"¿Cómo se dice cincuenta en inglés?",
+        "answer":"fifty"
+    },
+    {
+        "question":"¿Cómo se dice sesenta en inglés?",
+        "answer":"sixty"
+    },
+    {
+        "question":"¿Cómo se dice setenta en inglés?",
+        "answer":"seventy"
+    },
+    {
+        "question":"¿Cómo se dice ochenta en inglés?",
+        "answer":"eighty"
+    },
+    {
+        "question":"¿Cómo se dice noventa en inglés?",
+        "answer":"ninety"
+    },
+    {
+        "question":"¿Cómo se dice cien en inglés?",
+        "answer":"one hundred"
+    },
+    {
+        "question":"¿Cómo se dice mil en inglés?",
+        "answer":"one thousand"
+    },
+    {
+        "question":"¿Cómo se dice tres mil en inglés?",
+        "answer":"three thousand"
+    },
+    {
+        "question":"¿Cómo se dice desayuno en inglés?",
+        "answer":"breakfast"
+    },
+    {
+        "question":"¿Cómo se dice almuerzo en inglés?",
+        "answer":"lunch"
+    },
+    {
+        "question":"¿Cómo se dice cena en inglés?",
+        "answer":"dinner"
+    },
+    {
+        "question":"How many meals are at a day?",
+        "answer":"3, breakfast, lunch and dinner"
+    }
+]
