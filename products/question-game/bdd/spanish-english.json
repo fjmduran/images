@@ -101,7 +101,7 @@
     },
     {
         "question":"¿Cómo se dice regla en inglés?",
-        "answer":"rule"
+        "answer":"ruler"
     },
     {
         "question":"¿Cómo se dice arcoíris en inglés?",
@@ -141,7 +141,7 @@
     },
     {
         "question":"¿Cómo se dice nueve en inglés?",
-        "answer":"nive"
+        "answer":"nine"
     },
     {
         "question":"¿Cómo se dice diez en inglés?",
@@ -161,56 +161,32 @@
     },
     {
         "question":"¿Cómo se dice catorce en inglés?",
-        "answer":"fouteen"
+        "answer":"fourteen"
     },
     {
         "question":"¿Cómo se dice quince en inglés?",
         "answer":"fiveteen"
     },
     {
+        "question":"¿Cómo se dice dieciseis en inglés?",
+        "answer":"sixteen"
+    },
+    {
+        "question":"¿Cómo se dice diecisiete en inglés?",
+        "answer":"seventeen"
+    },
+    {
+        "question":"¿Cómo se dice dieciocho en inglés?",
+        "answer":"eighteen"
+    },
+    {
+        "question":"¿Cómo se dice diecinueve en inglés?",
+        "answer":"nineteen"
+    },
+    {
         "question":"¿Cómo se dice veinte en inglés?",
         "answer":"twenty"
-    },
-    {
-        "question":"¿Cómo se dice treinta en inglés?",
-        "answer":"thirty"
-    },
-    {
-        "question":"¿Cómo se dice cuarenta en inglés?",
-        "answer":"forty"
-    },
-    {
-        "question":"¿Cómo se dice cincuenta en inglés?",
-        "answer":"fifty"
-    },
-    {
-        "question":"¿Cómo se dice sesenta en inglés?",
-        "answer":"sixty"
-    },
-    {
-        "question":"¿Cómo se dice setenta en inglés?",
-        "answer":"seventy"
-    },
-    {
-        "question":"¿Cómo se dice ochenta en inglés?",
-        "answer":"eighty"
-    },
-    {
-        "question":"¿Cómo se dice noventa en inglés?",
-        "answer":"ninety"
-    },
-    {
-        "question":"¿Cómo se dice cien en inglés?",
-        "answer":"one hundred"
-    },
-    {
-        "question":"¿Cómo se dice mil en inglés?",
-        "answer":"one thousand"
-    },
-    {
-        "question":"¿Cómo se dice tres mil en inglés?",
-        "answer":"three thousand"
-    },
+    },  
     {
         "question":"¿Cómo se dice desayuno en inglés?",
         "answer":"breakfast"
@@ -226,5 +202,45 @@
     {
         "question":"How many meals are at a day?",
         "answer":"3, breakfast, lunch and dinner"
+    },
+    {
+        "question":"Cómo se dice libro en inglés?",
+        "answer":"book"
+    },
+    {
+        "question":"Cómo se dice sacapuntas en inglés?",
+        "answer":"sharpener"
+    },
+    {
+        "question":"Cómo se dice cera (cera de color) en inglés?",
+        "answer":"crayon"
+    },
+    {
+        "question":"Cómo se dice estuche en inglés?",
+        "answer":"pencil case"
+    },
+    {
+        "question":"Cómo se dice goma de borrar en inglés?",
+        "answer":"rubber"
+    },
+    {
+        "question":"Cómo se dice pegamento en inglés?",
+        "answer":"glue"
+    },
+    {
+        "question":"Cómo se dice mochila en inglés?",
+        "answer":"school bag"
+    },
+    {
+        "question":"Cómo se dice estrella en inglés?",
+        "answer":"star"
+    },
+    {
+        "question":"Cómo se dice árbol de Navidad en inglés?",
+        "answer":"Christmas tree"
+    },
+    {
+        "question":"Cómo se dice regalo en inglés?",
+        "answer":"present"
     }
 ]
