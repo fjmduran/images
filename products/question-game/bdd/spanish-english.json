@@ -242,5 +242,33 @@
     {
         "question":"Cómo se dice regalo en inglés?",
         "answer":"present"
+    },
+    {
+        "question":"Cómo se dice mascota en inglés?",
+        "answer":"pet"
+    },
+    {
+        "question":"Cómo se dice araña en inglés?",
+        "answer":"spider"
+    },
+    {
+        "question":"Cómo se dice ratón en inglés?",
+        "answer":"mouse"
+    },
+    {
+        "question":"Cómo se dice loro en inglés?",
+        "answer":"parrot"
+    },
+    {
+        "question":"Cómo se dice conejo en inglés?",
+        "answer":"rabbit"
+    },
+    {
+        "question":"Cómo se dice serpiente en inglés?",
+        "answer":"snake"
+    },
+    {
+        "question":"Cómo se dice pez en inglés?",
+        "answer":"fish"
     }
 ]
