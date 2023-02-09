@@ -270,5 +270,33 @@
     {
         "question":"Cómo se dice pez en inglés?",
         "answer":"fish"
+    },
+    {
+        "question":"Cómo se dice muñeca en inglés?",
+        "answer":"doll"
+    },
+    {
+        "question":"Cómo se dice patinete en inglés?",
+        "answer":"scooter"
+    },
+    {
+        "question":"Cómo se dice coche en inglés?",
+        "answer":"car"
+    },
+    {
+        "question":"Cómo se dice osito de peluche en inglés?",
+        "answer":"teddy"
+    },
+    {
+        "question":"Cómo se dice robot en inglés?",
+        "answer":"robot"
+    },
+    {
+        "question":"Cómo se dice avión en inglés?",
+        "answer":"plane"
+    },
+    {
+        "question":"Cómo se dice pelota en inglés?",
+        "answer":"ball"
     }
 ]
