@@ -1929,5 +1929,33 @@
       "img": "https://github.com/fjmduran/images/blob/master/blog/hexadecimalSystem/cover.jpg?raw=true",
       "description": "¿Has visto alguna vez palabras del tipo 0xDEADBEEF?¿Quieres saber qué son?"
     }
+  },
+  {
+    "id": "angular_iis_subruta",
+    "title": "Desplegar aplicación Angular en subruta del IIS (Internet Information Service) 👨‍💻",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/deploy-angular-iis/cover.jpg?raw=true",
+    "description": "Te enseño a desplegar tu aplicación de Angular en una carpeta distinta a la principal en Internet Information Services (IIS)",
+    "tags": ["Angular", "IIS"],
+    "date": "2023-03-19T19:08:54.511Z",
+    "html": "/blog/angular_iis_subruta",
+    "metaTags": {
+      "title": "Desplegar aplicación Angular en subruta del IIS (Internet Information Service) 👨‍💻",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/deploy-angular-iis/cover.jpg?raw=true",
+      "description": "Te enseño a desplegar tu aplicación de Angular en una carpeta distinta a la principal en Internet Information Services (IIS)"
+    }
+  },
+  {
+    "id": "que_es_graphql",
+    "title": "¿Qué es GraphQL? 🤯",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/deploy-angular-iis/cover.jpg?raw=true",
+    "description": "Te cuento qué es GraphQL y por qué para mí ha desbancado a API REST 📄",
+    "tags": ["GraphQL"],
+    "date": "2023-03-20T19:08:54.511Z",
+    "html": "/blog/que_es_graphql",
+    "metaTags": {
+      "title": "¿Qué es GraphQL? 🤯",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/deploy-angular-iis/cover.jpg?raw=true",
+    "description": "Te cuento qué es GraphQL y por qué para mí ha desbancado a API REST 📄"
+    }
   }
 ]
