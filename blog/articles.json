@@ -142,14 +142,14 @@
   {
     "id": "codigos-estado-http",
     "title": "Códigos de estado de respuestas HTTP",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2FstatusCodeHTTP.webp?alt=media&token=9ed2a061-ee9b-415d-a7e3-2bc8daf39571",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/httpCodes/cover.jpg?raw=true",
     "description": "En este artículo te explicaré qué son y cómo interpretar los códigos de estado de respuesta HTTP.",
     "tags": ["Informática"],
     "date": "2020-10-10T20:31:43.511Z",
     "html": "/blog/codigos-estado-http",
     "metaTags": {
       "title": "Conoce qué son los códigos de estado de respuesta HTTP cuál es el significado de cada uno de ellos y aprende a interpretarlos",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2FstatusCodeHTTP.webp?alt=media&token=9ed2a061-ee9b-415d-a7e3-2bc8daf39571",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/httpCodes/cover.jpg?raw=true",
       "description": "Conoce qué son los códigos de estado de respuesta HTTP cuál es el significado de cada uno de ellos y aprende a interpretarlos"
     }
   },
@@ -802,7 +802,7 @@
     "title": "¿Qué es la recursividad?",
     "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Frecursividad.webp?alt=media&token=329efad2-aa6f-4574-b9dd-78c7843dd421",
     "description": "Comprende de una vez qué es la recursividad",
-    "tags": ["Angular"],
+    "tags": ["Desarrollo de software"],
     "date": "2021-09-11T07:32:23.511Z",
     "html": "/blog/que-es-la-recursividad",
     "metaTags": {
@@ -1768,7 +1768,7 @@
     "title": "Descubre cómo te puede ayudar una inteligencia artificial HOY 🤖 ChatGPT",
     "img": "https://github.com/fjmduran/images/blob/master/blog/what-is-chatgpt/cover.jpg?raw=true",
     "description": "Te enseño cómo utilizar ChatGPT de forma rápida y sencilla, sin \"chau-chau\" 🚫",
-    "tags": ["Angular"],
+    "tags": ["Informática","Ciencía y tecnología"],
     "date": "2022-12-10T16:53:42.511Z",
     "html": "/blog/que-es-chatgpt",
     "metaTags": {
@@ -1928,6 +1928,20 @@
       "title": "¿Qué es el sistema o código hexadecimal?",
       "img": "https://github.com/fjmduran/images/blob/master/blog/hexadecimalSystem/cover.jpg?raw=true",
       "description": "¿Has visto alguna vez palabras del tipo 0xDEADBEEF?¿Quieres saber qué son?"
+    }
+  },
+  {
+    "id": "que_es_graphql",
+    "title": "¿Qué es GraphQL? 🤯 Programar un servidor GraphQL con Deno",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/graphql/cover.jpg?raw=true",
+    "description": "Te cuento qué es GraphQL y por qué para mí ha desbancado a API REST 📄. Además montamos un servidor GraphQL con Deno",
+    "tags": ["GraphQL"],
+    "date": "2023-03-19T19:08:54.511Z",
+    "html": "/blog/que_es_graphql",
+    "metaTags": {
+      "title": "¿Qué es GraphQL? 🤯 Programar un servidor GraphQL con Deno",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/graphql/cover.jpg?raw=true",
+    "description": "Te cuento qué es GraphQL y por qué para mí ha desbancado a API REST 📄. Además montamos un servidor GraphQL con Deno"
     }
   }
 ]
