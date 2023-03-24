@@ -100,28 +100,28 @@
   {
     "id": "angular10a11",
     "title": "Migrar proyecto de Angular 10 a Angular 11",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fangular10a11.png?alt=media&token=199c43ce-c233-4648-99c0-576f3a9e03ea",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
     "description": "En este artículo te explicaré cómo migrar tus proyectos de Angular 10 a Angular 11 con los mínimos pasos posibles y te contaré qué trae de nuevo Angular 11.",
     "tags": ["Angular"],
     "date": "2020-11-15T17:47:43.511Z",
     "html": "/blog/angular10a11",
     "metaTags": {
       "title": "Migrar proyecto de Angular 10 a Angular 11",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fangular10a11.png?alt=media&token=199c43ce-c233-4648-99c0-576f3a9e03ea",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
       "description": "En este artículo te explicaré cómo migrar tus proyectos de Angular 10 a Angular 11 con los mínimos pasos posibles y te contaré qué trae de nuevo Angular 11."
     }
   },
   {
     "id": "custom-material",
     "title": "Personaliza el estilo de Angular Material",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fcustom_material.png?alt=media&token=28e5e3c1-6462-4845-933b-963bda9d1880",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angularMaterial/cover.jpg?raw=true",
     "description": "En este artículo te explicaré cómo cambiar los colores predeterminados de un tema de Angular Material e incluso definir un tema personalizado",
     "tags": ["Angular"],
     "date": "2020-11-07T11:03:43.511Z",
     "html": "/blog/custom-material",
     "metaTags": {
       "title": "Personaliza el estilo de Angular Material",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fcustom_material.png?alt=media&token=28e5e3c1-6462-4845-933b-963bda9d1880",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angularMaterial/cover.jpg?raw=true",
       "description": "En este artículo te explicaré cómo cambiar los colores predeterminados de un tema de Angular Material e incluso definir un tema personalizado"
     }
   },
@@ -254,14 +254,14 @@
   {
     "id": "git_github",
     "title": "Git y GitHub",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fgit_github.png?alt=media&token=6678eeda-a2ba-47b4-8cb6-ed3c8e6a10fd",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/git/cover.jpg?raw=true",
     "description": "En este artículo recojo algunos conceptos e instrucciones de Git y GitHub",
     "tags": ["Desarrollo web"],
     "date": "2021-01-10T08:16:42.511Z",
     "html": "/blog/git_github",
     "metaTags": {
       "title": "Git y GitHub",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fgit_github.png?alt=media&token=6678eeda-a2ba-47b4-8cb6-ed3c8e6a10fd",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/git/cover.jpg?raw=true",
       "description": "En este artículo recojo algunos conceptos e instrucciones de Git y GitHub"
     }
   },
@@ -282,28 +282,28 @@
   {
     "id": "headers_asp",
     "title": "Mitigar los problemas de ciberseguridad de los custom headers en ASP.NET",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fasp_headers.jpg?alt=media&token=d1bea9fe-ee01-4a3e-a31e-25410a7a7788",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/aspHeaders/cover.jpg?raw=true",
     "description": "En este artículo te explicaré cómo mitigar los problemas de ciberseguridad de los custom headers en tu aplicación realizada con ASP.NET",
     "tags": ["Ciberseguridad"],
     "date": "2021-01-16T15:54:42.511Z",
     "html": "/blog/headers_asp",
     "metaTags": {
       "title": "Mitigar los problemas de ciberseguridad de los custom headers en ASP.NET",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fasp_headers.jpg?alt=media&token=d1bea9fe-ee01-4a3e-a31e-25410a7a7788",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/aspHeaders/cover.jpg?raw=true",
       "description": "En este artículo te explicaré cómo mitigar los problemas de ciberseguridad de los custom headers en tu aplicación realizada con ASP.NET"
     }
   },
   {
     "id": "leer-json-angular",
     "title": "Leer fichero JSON con Angular",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fangular-json.jpg?alt=media&token=9dafa1b4-b371-4a92-bcbc-b9e34771245d",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angularJSON/cover.jpg?raw=true",
     "description": "En este artículo te explicaré cómo leer ficheros locales JSON con Angular",
     "tags": ["Angular"],
     "date": "2021-01-23T12:58:42.511Z",
     "html": "/blog/leer-json-angular",
     "metaTags": {
       "title": "Leer fichero JSON con Angular",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fangular-json.jpg?alt=media&token=9dafa1b4-b371-4a92-bcbc-b9e34771245d",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angularJSON/cover.jpg?raw=true",
       "description": "En este artículo te explicaré cómo leer ficheros locales JSON con Angular"
     }
   },
@@ -814,14 +814,14 @@
   {
     "id": "angular-google-adsense",
     "title": "Integra Google AdSense en tu proyecto de Angular",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fangular-adsense.webp?alt=media&token=b365da87-0d69-40bf-ba99-f1c852bcc1da",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/adsense/cover.jpg?raw=true",
     "description": "Aprende a integrar Google AdSense en un proyecto de Angular",
     "tags": ["Angular"],
     "date": "2021-09-18T15:58:23.511Z",
     "html": "/blog/angular-google-adsense",
     "metaTags": {
       "title": "Integra Google AdSense en tu proyecto de Angular",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fangular-adsense.webp?alt=media&token=b365da87-0d69-40bf-ba99-f1c852bcc1da",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/adsense/cover.jpg?raw=true",
       "description": "Aprende a integrar Google AdSense en un proyecto de Angular"
     }
   },
@@ -1957,6 +1957,20 @@
       "title": "Servidor HTTP con Deno 💻",
       "img": "https://github.com/fjmduran/images/blob/master/blog/deno_cover.jpg?raw=true",
       "description": "Programo un servidor HTTP básico con peticiones POST"
+    }
+  },
+  {
+    "id": "entrevista_angular_parte05",
+    "title": "Preguntas comunes en entrevistas Angular 🅰 Quinta parte",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+    "description": "¿Quieres prepararte una entrevista para desarrollador frontend Angular? Aquí la quinta parte.",
+    "tags": ["Angular"],
+    "date": "2023-04-02T21:07:54.511Z",
+    "html": "/blog/entrevista_angular_parte05",
+    "metaTags": {
+      "title": "Preguntas comunes en entrevistas Angular 🅰 Quinta parte",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+      "description": "¿Quieres prepararte una entrevista para desarrollador frontend Angular? Aquí la quinta parte."
     }
   }
 ]
