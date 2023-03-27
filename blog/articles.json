@@ -1972,5 +1972,33 @@
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
       "description": "¿Quieres prepararte una entrevista para desarrollador frontend Angular? Aquí la quinta parte."
     }
+  },
+  {
+    "id": "angular_iis_subruta",
+    "title": "Desplegar aplicación Angular en subruta del IIS (Internet Information Service) 👨‍💻",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/deploy-angular-iis/cover.jpg?raw=true",
+    "description": "Te enseño a desplegar tu aplicación de Angular en una carpeta distinta a la principal en Internet Information Services (IIS)",
+    "tags": ["Angular", "IIS"],
+    "date": "2023-04-09T19:08:54.511Z",
+    "html": "/blog/angular_iis_subruta",
+    "metaTags": {
+      "title": "Desplegar aplicación Angular en subruta del IIS (Internet Information Service) 👨‍💻",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/deploy-angular-iis/cover.jpg?raw=true",
+      "description": "Te enseño a desplegar tu aplicación de Angular en una carpeta distinta a la principal en Internet Information Services (IIS)"
+    }
+  },
+  {
+    "id": "generador-contrasena-segura",
+    "title": "Generador de contraseñas seguras aleatorias 🔐",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/passwordGenerator/cover.jpg?raw=true",
+    "description": "Selecciona la longitud de tu contraseña y elige las opciones por las que quieres que esté formada, números, letras, símbolos o híbrida",
+    "tags": ["Recursos web"],
+    "date": "2023-04-16T14:52:23.511Z",
+    "html": "/generador-contrasena-segura",
+    "metaTags": {
+      "title": "Generador de contraseñas seguras aleatorias 🔐",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/passwordGenerator/cover.jpg?raw=true",
+      "description": "Selecciona la longitud de tu contraseña y elige las opciones por las que quieres que esté formada, números, letras, símbolos o híbrida"
+    }
   }
 ]
