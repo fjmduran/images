@@ -128,14 +128,14 @@
   {
     "id": "fotos-google",
     "title": "Usa tus fotos de Google como recurso web",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fgoogle_fotos.png?alt=media&token=83139a8e-d6c4-4d10-b0d0-319baa58e04b",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/google_fotos/cover.jpg?raw=true",
     "description": "En este artículo te explicaré cómo usar las fotos de tu Google Fotos como un recurso web.",
     "tags": ["Recursos web"],
     "date": "2020-01-12T08:57:43.511Z",
     "html": "/blog/fotos-google",
     "metaTags": {
       "title": "Usa tus fotos de Google como recurso web. Te enseñaré como usar fotos de Google Fotos como un recurso web. Usa Google Fotos como un servidor de fotos para tu web",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fgoogle_fotos.png?alt=media&token=83139a8e-d6c4-4d10-b0d0-319baa58e04b",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/google_fotos/cover.jpg?raw=true",
       "description": "Usa tus fotos de Google como recurso web. Te enseñaré como usar fotos de Google Fotos como un recurso web. Usa Google Fotos como un servidor de fotos para tu web"
     }
   },
@@ -156,56 +156,56 @@
   {
     "id": "hosting-free",
     "title": "Hosting gratuito para tus pruebas",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fhosting_free.png?alt=media&token=1366bc71-72ae-455e-bb0e-c9750f727eda",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/hosting/cover.jpg?raw=true",
     "description": "En este artículo te diré los hosting gratuitos que he usado para mis despliegues de prueba",
     "tags": ["Recursos web"],
     "date": "2020-08-22T14:43:43.511Z",
     "html": "/blog/hosting-free",
     "metaTags": {
       "title": "Hosting gratuitos para hacer despliegues para lo que necesites, pruebas, enseñar un producto a un cliente...",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fhosting_free.png?alt=media&token=1366bc71-72ae-455e-bb0e-c9750f727eda",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/hosting/cover.jpg?raw=true",
       "description": "Hosting gratuitos para hacer despliegues para lo que necesites, pruebas, enseñar un producto a un cliente..."
     }
   },
   {
     "id": "node_ts",
     "title": "Iniciar Node.js con TypeScript",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fnode_ts.png?alt=media&token=2f2503f1-9057-40cb-b08e-3e253e8201b9",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/node_ts/cover.jpg?raw=true",
     "description": "En este artículo te contaré cómo iniciar un proyecto de Node.js con TypeScript",
     "tags": ["TypeScript", "Nodejs"],
     "date": "2020-11-29T18:03:43.511Z",
     "html": "/blog/node_ts",
     "metaTags": {
       "title": "Iniciar proyecto de Node.js con TypeScript. Haremos un proyecto desde 0 y haremos un Hola Mundo",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fnode_ts.png?alt=media&token=2f2503f1-9057-40cb-b08e-3e253e8201b9",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/node_ts/cover.jpg?raw=true",
       "description": "Iniciar proyecto de Node.js con TypeScript. Haremos un proyecto desde 0 y haremos un Hola Mundo"
     }
   },
   {
     "id": "metodos-arrays-javascript",
     "title": "Métodos de array en JavaScript",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fjs-arrays.png?alt=media&token=c7975e62-df4d-4a4f-964f-3e63226c6ab5",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
     "description": "En este artículo te enumeraré los métodos más utilizados con los array en JavaScript",
     "tags": ["JavaScript"],
     "date": "2020-12-13T18:03:43.511Z",
     "html": "/blog/metodos-arrays-javascript",
     "metaTags": {
       "title": "En este artículo te enumeraré los métodos más utilizados con los array en JavaScript",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fjs-arrays.png?alt=media&token=c7975e62-df4d-4a4f-964f-3e63226c6ab5",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
       "description": "En este artículo te enumeraré los métodos más utilizados con los array en JavaScript"
     }
   },
   {
     "id": "html_tags",
     "title": "Etiquetas HTML 5",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fhtml5.png?alt=media&token=4ce772f3-2bb8-4e15-b9bf-36e3981a8dd2",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/html5.jpg?raw=true",
     "description": "En este artículo te enumeraré las etiquetas HTML5",
     "tags": ["HTML", "Recursos web"],
     "date": "2020-12-25T20:22:43.511Z",
     "html": "/blog/html_tags",
     "metaTags": {
       "title": "En este artículo te enumeraré las etiquetas HTML5",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fhtml5.png?alt=media&token=4ce772f3-2bb8-4e15-b9bf-36e3981a8dd2",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/html5.jpg?raw=true",
       "description": "En este artículo te enumeraré las etiquetas HTML5"
     }
   },
@@ -226,14 +226,14 @@
   {
     "id": "qr",
     "title": "¿Qué son los códigos QR?",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fqr.PNG?alt=media&token=6f9f3139-4f52-4564-843c-49ed0bdb1888",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/qr/cover.jpg?raw=true",
     "description": "En este artículo te explicaré qué son los código QR y como generarlos gratuitamente",
     "tags": ["Informática"],
     "date": "2021-01-05T20:13:42.511Z",
     "html": "/blog/qr",
     "metaTags": {
       "title": "¿Qué son los códigos QR?",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fqr.PNG?alt=media&token=6f9f3139-4f52-4564-843c-49ed0bdb1888",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/qr/cover.jpg?raw=true",
       "description": "En este artículo te explicaré qué son los código QR y como generarlos gratuitamente"
     }
   },
@@ -268,14 +268,14 @@
   {
     "id": "lazy_load_angular",
     "title": "Lazy loading en Angular",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Flazy_loading.png?alt=media&token=b7b46ebe-7b2b-413e-a729-29ebcb68d8b2",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
     "description": "En este artículo te cuento cómo realizar lazy load o carga asíncrona, diferida o perezosa con Angular",
     "tags": ["Angular"],
     "date": "2021-01-13T05:42:42.511Z",
     "html": "/blog/lazy_load_angular",
     "metaTags": {
       "title": "Lazy loading en Angular",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Flazy_loading.png?alt=media&token=b7b46ebe-7b2b-413e-a729-29ebcb68d8b2",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
       "description": "En este artículo te cuento cómo realizar lazy load o carga asíncrona, diferida o perezosa con Angular"
     }
   },
@@ -310,14 +310,14 @@
   {
     "id": "sincronizar-hora-windows",
     "title": "Sincronizar la hora de Windows",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fwin_sync_ntp.png?alt=media&token=994e2212-0fe3-43c2-9652-fbc7d702e9c3",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/windows_sync_ntp/cover.jpg?raw=true",
     "description": "En este artículo te explicaré cómo sincronizar la hora de tu sistema operativo Windows con un servidor horario NTP",
     "tags": ["Informática"],
     "date": "2021-01-30T10:49:42.511Z",
     "html": "/blog/sincronizar-hora-windows",
     "metaTags": {
       "title": "Sincronizar la hora de Windows",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fwin_sync_ntp.png?alt=media&token=994e2212-0fe3-43c2-9652-fbc7d702e9c3",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/windows_sync_ntp/cover.jpg?raw=true",
       "description": "En este artículo te explicaré cómo sincronizar la hora de tu sistema operativo Windows con un servidor horario NTP"
     }
   },
@@ -352,28 +352,28 @@
   {
     "id": "rxjs",
     "title": "Acerca de RXJS",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Frxjs.jpg?alt=media&token=1311db4c-8a15-4de7-b787-8832d93a38fc",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/rxjs.jpg?raw=true",
     "description": "En este artículo te explicaré qué es y cómo usar RXJS",
     "tags": ["JavaScript"],
     "date": "2021-02-06T15:47:42.511Z",
     "html": "/blog/rxjs",
     "metaTags": {
       "title": "Acerca de RXJS",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Frxjs.jpg?alt=media&token=1311db4c-8a15-4de7-b787-8832d93a38fc",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/rxjs.jpg?raw=true",
       "description": "En este artículo te explicaré qué es y cómo usar RXJS"
     }
   },
   {
     "id": "desestructuracion-em6",
     "title": "Desestructuración en JavaScript",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fdesestructuracion.jpg?alt=media&token=149c0ed3-fa10-490f-b590-5a38e63078ca",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
     "description": "Desectructurar arrays y objetos en JavaScript",
     "tags": ["JavaScript"],
     "date": "2021-02-07T15:42:42.511Z",
     "html": "/blog/desestructuracion-em6",
     "metaTags": {
       "title": "Desestructuración en JavaScript",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fdesestructuracion.jpg?alt=media&token=149c0ed3-fa10-490f-b590-5a38e63078ca",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
       "description": "Desectructurar arrays y objetos en JavaScript"
     }
   },
@@ -408,14 +408,14 @@
   {
     "id": "aprende-javascript-gratis-castellano",
     "title": "Aprende JavaScript gratis y en castellano",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2FaprendeJS.jpg?alt=media&token=60857e22-fc80-43a9-ae01-f37c1642e6de",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
     "description": "Recursos on-line para aprender JavaScript",
     "tags": ["JavaScript"],
     "date": "2021-03-06T09:27:42.511Z",
     "html": "/blog/aprende-javascript-gratis-castellano",
     "metaTags": {
       "title": "Aprende JavaScript gratis y en castellano",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2FaprendeJS.jpg?alt=media&token=60857e22-fc80-43a9-ae01-f37c1642e6de",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
       "description": "Recursos on-line para aprender JavaScript"
     }
   },
@@ -898,14 +898,14 @@
   {
     "id": "copia-clona-objeto-javascript",
     "title": "Copia o clona objetos y arrays en JavaScript",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fjs.webp?alt=media&token=975014ea-b530-41f7-92cb-0e4b5341758e",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
     "description": "Aprenderás a cómo copiar variables y objetos en JavaScript tanto por referencia como por valor",
     "tags": ["JavaScript"],
     "date": "2021-10-30T16:35:23.511Z",
     "html": "/blog/copia-clona-objeto-javascript",
     "metaTags": {
       "title": "Copia o clona objetos y arrays en JavaScript",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fjs.webp?alt=media&token=975014ea-b530-41f7-92cb-0e4b5341758e",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
       "description": "Aprenderás a cómo copiar variables y objetos en JavaScript tanto por referencia como por valor"
     }
   },
@@ -926,14 +926,14 @@
   {
     "id": "optional-chaining-nullish-coalescing",
     "title": "Optional chaining y nullish coalescing en JS2020",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fjs.webp?alt=media&token=975014ea-b530-41f7-92cb-0e4b5341758e",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
     "description": "Comprenderás de una vez qué son el operador optional chaining y el nullish coalescing",
     "tags": ["JavaScript"],
     "date": "2021-11-12T21:07:42.511Z",
     "html": "/blog/optional-chaining-nullish-coalescing",
     "metaTags": {
       "title": "Optional chaining y nullish coalescing en JS2020",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fjs.webp?alt=media&token=975014ea-b530-41f7-92cb-0e4b5341758e",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
       "description": "Comprenderás de una vez qué son el operador optional chaining y el nullish coalescing"
     }
   },
@@ -968,14 +968,14 @@
   {
     "id": "metodo-sort-javascript",
     "title": "¿Cómo funciona el método sort de arrays en JavaScript?",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fjs.webp?alt=media&token=975014ea-b530-41f7-92cb-0e4b5341758e",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
     "description": "Comprende de una vez cómo funciona el método sort",
     "tags": ["JavaScript"],
     "date": "2021-11-27T17:36:42.511Z",
     "html": "/blog/metodo-sort-javascript",
     "metaTags": {
       "title": "¿Cómo funciona el método sort de arrays en JavaScript?",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fjs.webp?alt=media&token=975014ea-b530-41f7-92cb-0e4b5341758e",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
       "description": "Comprende de una vez cómo funciona el método sort"
     }
   },
@@ -1066,14 +1066,14 @@
   {
     "id": "efecto-matrix-javascript",
     "title": "Efecto Matrix",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fjs.webp?alt=media&token=975014ea-b530-41f7-92cb-0e4b5341758e",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
     "description": "Crea el famoso efecto de la película de Matrix de lluvia de caracteres aleatorios con JavaScript",
     "tags": ["JavaScript"],
     "date": "2022-01-15T13:20:42.511Z",
     "html": "/blog/efecto-matrix-javascript",
     "metaTags": {
       "title": "Efecto Matrix",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fjs.webp?alt=media&token=975014ea-b530-41f7-92cb-0e4b5341758e",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
       "description": "Crea el famoso efecto de la película de Matrix de lluvia de caracteres aleatorios con JavaScript"
     }
   },
@@ -1178,14 +1178,14 @@
   {
     "id": "que-es-un-polyfill",
     "title": "¿Qué es un Polyfill?",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fjs.webp?alt=media&token=975014ea-b530-41f7-92cb-0e4b5341758e",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
     "description": "¿Te han preguntado alguna vez en una entrevista técnica qué es un Polyfill?",
     "tags": ["JavaScript"],
     "date": "2022-03-05T11:39:42.511Z",
     "html": "/blog/que-es-un-polyfill",
     "metaTags": {
       "title": "¿Qué es un Polyfill?",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fjs.webp?alt=media&token=975014ea-b530-41f7-92cb-0e4b5341758e",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
       "description": "¿Te han preguntado alguna vez en una entrevista técnica qué es un Polyfill?"
     }
   },
@@ -1206,14 +1206,14 @@
   {
     "id": "super-array-length",
     "title": "Array.length es más de lo que piensas",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fjs.webp?alt=media&token=975014ea-b530-41f7-92cb-0e4b5341758e",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
     "description": "Conoce los súper poderes del Array.length 💪",
     "tags": ["JavaScript", "TypeScript"],
     "date": "2022-03-19T13:00:42.511Z",
     "html": "/blog/super-array-length",
     "metaTags": {
       "title": "Array.length es más de lo que piensas",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fjs.webp?alt=media&token=975014ea-b530-41f7-92cb-0e4b5341758e",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
       "description": "Conoce los súper poderes del Array.length 💪"
     }
   },
@@ -1234,14 +1234,14 @@
   {
     "id": "promesas-serie-paralelo-javascript",
     "title": "Promesas en serie y en paralelo en JavaScript",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fjs.webp?alt=media&token=975014ea-b530-41f7-92cb-0e4b5341758e",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
     "description": "¿Cómo y cuando debo de usar promesas en serie o en paralelo? 🤔",
     "tags": ["JavaScript", "TypeScript"],
     "date": "2022-04-02T11:21:42.511Z",
     "html": "/blog/promesas-serie-paralelo-javascript",
     "metaTags": {
       "title": "Promesas en serie y en paralelo en JavaScript",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fjs.webp?alt=media&token=975014ea-b530-41f7-92cb-0e4b5341758e",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
       "description": "¿Cómo y cuando debo de usar promesas en serie o en paralelo? 🤔"
     }
   },
