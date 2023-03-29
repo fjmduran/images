@@ -2,28 +2,28 @@
   {
     "id": "algoritmia-fizzbuzz",
     "title": "Algoritmo 'Fizz Buzz'",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
     "description": "Explicación del típico ejercicio de algoritmia 'Fizz Buzz'",
     "tags": ["Algoritmia"],
     "date": "2019-09-28T09:19:23.511Z",
     "html": "/blog/algoritmia-fizzbuzz",
     "metaTags": {
       "title": "Algoritmo 'Fizz Buzz'",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
       "description": "Explicación del típico ejercicio de algoritmia 'Fizz Buzz'"
     }
   },
   {
     "id": "algoritmia-stack-parentesis",
     "title": "Algoritmo paréntesis válidos",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
     "description": "Explicación del típico ejercicio de algoritmia de validación de paréntesis solicitado en muchas entrevistas para desarrollador de software",
     "tags": ["Algoritmia"],
     "date": "2019-10-05T09:10:23.511Z",
     "html": "/blog/algoritmia-stack-parentesis",
     "metaTags": {
       "title": "Algoritmo paréntesis válidos",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
       "description": "Explicación del típico ejercicio de algoritmia de validación de paréntesis solicitado en muchas entrevistas para desarrollador de software"
     }
   },
@@ -72,28 +72,28 @@
   {
     "id": "recursos_imagenes",
     "title": "Herramientas gratuitas para trabajar con imágenes",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fimagenes.jpg?alt=media&token=cc1662e7-5409-413c-96bf-7def40a17b74",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/imageResources/cover.jpg?raw=true",
     "description": "Varios sitios para que obtengas imágenes libres de derechos de autor, puedas comprimir tus imágenes y eliminar el fondo de las mismas. Todo ello gratis.",
     "tags": ["Recursos web"],
     "date": "2020-09-05T21:22:33.511Z",
     "html": "/blog/recursos_imagenes",
     "metaTags": {
       "title": "Herramientas gratuitas para trabajar con imágenes",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fimagenes.jpg?alt=media&token=cc1662e7-5409-413c-96bf-7def40a17b74",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/imageResources/cover.jpg?raw=true",
       "description": "Varios sitios para que obtengas imágenes libres de derechos de autor, puedas comprimir tus imágenes y eliminar el fondo de las mismas. Todo ello gratis."
     }
   },
   {
     "id": "meta_tags",
     "title": "Domina los Meta Tags en las RRSS",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2FmetaTags.png?alt=media&token=c5e2f313-c756-462f-8c96-10e05658360c",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/metatags/cover.jpg?raw=true",
     "description": "En este artículo te enseñaré cómo manejar los Meta Tags. Importantísimo para el SEO y una correcta visualización en las redes sociales para mejorar su viralización",
     "tags": ["Recursos web"],
     "date": "2020-07-12T17:47:43.511Z",
     "html": "/blog/meta_tags",
     "metaTags": {
       "title": "Domina los Meta Tags en las RRSS",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2FmetaTags.png?alt=media&token=c5e2f313-c756-462f-8c96-10e05658360c",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/metatags/cover.jpg?raw=true",
       "description": "En este artículo te enseñaré cómo manejar los Meta Tags. Importantísimo para el SEO y una correcta visualización en las redes sociales para mejorar su viralización"
     }
   },
@@ -394,14 +394,14 @@
   {
     "id": "migrar-tslint-eslint-angular",
     "title": "Migrar TSLINT a ESLINT en Agular",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2FtslintToEslint.jpg?alt=media&token=ffed4d88-0902-4964-91ed-d35f8a2d25b3",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
     "description": "Te enseñaré como migrar de TSLINT a ESLINT en Angular de manera muy fácil, con sólo 3 comandos",
     "tags": ["Angular"],
     "date": "2021-02-14T09:54:42.511Z",
     "html": "/blog/migrar-tslint-eslint-angular",
     "metaTags": {
       "title": "Migrar TSLINT a ESLINT en Agular",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2FtslintToEslint.jpg?alt=media&token=ffed4d88-0902-4964-91ed-d35f8a2d25b3",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
       "description": "Te enseñaré como migrar de TSLINT a ESLINT en Angular de manera muy fácil, con sólo 3 comandos"
     }
   },
@@ -450,14 +450,14 @@
   {
     "id": "sitios-practicar-algoritmia",
     "title": "Sitios en Internet para practicar algoritmia",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
     "description": "Entrena algoritmos en Internet",
     "tags": ["Algoritmia"],
     "date": "2021-03-27T11:00:42.511Z",
     "html": "/blog/sitios-practicar-algoritmia",
     "metaTags": {
       "title": "Sitios en Internet para practicar algoritmia",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
       "description": "Entrena algoritmos en Internet"
     }
   },
@@ -618,14 +618,14 @@
   {
     "id": "algoritmia-ordenar-digitos",
     "title": "Algoritmo ordenar dígitos",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
     "description": "Explicación del típico ejercicio de algoritmia de ordenar dígitos",
     "tags": ["Algoritmia"],
     "date": "2021-06-26T10:13:23.511Z",
     "html": "/blog/algoritmia-ordenar-digitos",
     "metaTags": {
       "title": "Algoritmo ordenar dígitos",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
       "description": "Explicación del típico ejercicio de algoritmia de ordenar dígitos"
     }
   },
@@ -744,14 +744,14 @@
   {
     "id": "algoritmia-palindromo",
     "title": "Algoritmo palíndromo",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
     "description": "Típico algoritmo en entrevistas de desarrollador de software",
     "tags": ["Algoritmia"],
     "date": "2021-06-04T13:22:23.511Z",
     "html": "/blog/algoritmia-palindromo",
     "metaTags": {
       "title": "Algoritmo palíndromo",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
       "description": "Típico algoritmo en entrevistas de desarrollador de software"
     }
   },
@@ -842,14 +842,14 @@
   {
     "id": "algoritmia-programa-tu-propio-ordenar-array",
     "title": "Algoritmo para ordenar array",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
     "description": "Crea tu propio algoritmo para ordenar un array",
     "tags": ["Algoritmia"],
     "date": "2021-10-02T17:17:23.511Z",
     "html": "/blog/algoritmia-programa-tu-propio-ordenar-array",
     "metaTags": {
       "title": "Algoritmo para ordenar array",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
       "description": "Crea tu propio algoritmo para ordenar un array"
     }
   },
@@ -870,28 +870,28 @@
   {
     "id": "algoritmo-quick-sort",
     "title": "Algoritmo QuickSort",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
     "description": "Te explico cómo funciona el algoritmo QuickSort, el algoritmo más eficiente y rápido de ordenación",
     "tags": ["Algoritmia"],
     "date": "2021-10-15T21:27:23.511Z",
     "html": "/blog/algoritmo-quick-sort",
     "metaTags": {
       "title": "Algoritmo QuickSort",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
       "description": "Te explico cómo funciona el algoritmo QuickSort, el algoritmo más eficiente y rápido de ordenación"
     }
   },
   {
     "id": "adivina-numero-aleatorio",
     "title": "Adivina un número aleatorio",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
     "description": "Haremos un programa para adivinar un número aleatorio. Suele ser típico en las pruebas técnicas",
     "tags": ["Algoritmia"],
     "date": "2021-10-23T11:29:23.511Z",
     "html": "/blog/adivina-numero-aleatorio",
     "metaTags": {
       "title": "Adivina un número aleatorio",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
       "description": "Haremos un programa para adivinar un número aleatorio. Suele ser típico en las pruebas técnicas"
     }
   },
@@ -1304,14 +1304,14 @@
   {
     "id": "paradoja-monty-hall",
     "title": "La paradoja de Monty Hall 🤯",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
     "description": "Explicación matemática de la paradoja de Monty Hall 🤔",
     "tags": ["Algoritmia"],
     "date": "2022-05-07T09:40:42.511Z",
     "html": "/blog/paradoja-monty-hall",
     "metaTags": {
       "title": "La paradoja de Monty Hall 🤯",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
       "description": "Explicación matemática de la paradoja de Monty Hall 🤔"
     }
   },
@@ -1332,14 +1332,14 @@
   {
     "id": "algoritmia-fibonacci",
     "title": "Serie de Fibonacci 👨‍💻",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
     "description": "Devuelve n elementos de la serie de Fibonacci",
     "tags": ["Algoritmia"],
     "date": "2022-05-21T10:46:42.511Z",
     "html": "/blog/algoritmia-fibonacci",
     "metaTags": {
       "title": "Serie de Fibonacci 👨‍💻",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
       "description": "Devuelve n elementos de la serie de Fibonacci"
     }
   },
@@ -1388,14 +1388,14 @@
   {
     "id": "que-es-nft",
     "title": "¿Qué es un NFT? 🤔",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fnft.jpg?alt=media&token=68599606-8a2a-4225-b2de-d61d481fb7b0",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/nft/cover.jpg?raw=true",
     "description": "Algun@s dicen que los NFT son una estafa, otr@s que es el futuro. Comprende qué es un NFT y decídelo por tí mismo.",
     "tags": ["Ciencía y tecnología"],
     "date": "2022-06-11T11:23:42.511Z",
     "html": "/blog/que-es-nft",
     "metaTags": {
       "title": "¿Qué es un NFT? 🤔",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fnft.jpg?alt=media&token=68599606-8a2a-4225-b2de-d61d481fb7b0",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/nft/cover.jpg?raw=true",
       "description": "Algun@s dicen que los NFT son una estafa, otr@s que es el futuro. Comprende qué es un NFT y decídelo por tí mismo."
     }
   },
@@ -1472,14 +1472,14 @@
   {
     "id": "algoritmia-prueba-tecnica-160k",
     "title": "Resuelvo una prueba técnica para un puesto de 160.000$ anuales 🤑",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
     "description": "Un salario de 160k anuales full-remote suena muy bien 🤪",
     "tags": ["TypeScript", "Algoritmia"],
     "date": "2022-07-23T15:39:42.511Z",
     "html": "/blog/algoritmia-prueba-tecnica-160k",
     "metaTags": {
       "title": "Resuelvo una prueba técnica para un puesto de 160.000$ anuales 🤑",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
       "description": "Un salario de 160k anuales full-remote suena muy bien 🤪"
     }
   },
@@ -1528,14 +1528,14 @@
   {
     "id": "algoritmia-inner-join",
     "title": "Resuelvo una prueba en la que solicitan un INNER JOIN 👨‍💻",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
     "description": "Te enseñaré a crear una función que hará un INNER JOIN de dos arrays de objetos JSON.",
     "tags": ["TypeScript", "Algoritmia"],
     "date": "2022-08-21T10:44:42.511Z",
     "html": "/blog/algoritmia-inner-join",
     "metaTags": {
       "title": "Resuelvo una prueba en la que solicitan un INNER JOIN 👨‍💻",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
       "description": "Te enseñaré a crear una función que hará un INNER JOIN de dos arrays de objetos JSON."
     }
   },
@@ -1710,14 +1710,14 @@
   {
     "id": "algoritmo-conjetura-collatz",
     "title": "Programando 👨‍💻 un algoritmo para contradecir la conjetura de Collatz",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
     "description": "Programo con TypeScript un algoritmo para encontrar un número que desmonte la conjetura de Collatz",
     "tags": ["Algoritmia"],
     "date": "2022-11-19T21:45:42.511Z",
     "html": "/blog/algoritmo-conjetura-collatz",
     "metaTags": {
       "title": "Programando 👨‍💻 un algoritmo para contradecir la conjetura de Collatz",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Falgoritmia.jpg?alt=media&token=a3563f5a-7c3d-413a-a4fe-a9e897ada2f9",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
       "description": "Programo con TypeScript un algoritmo para encontrar un número que desmonte la conjetura de Collatz"
     }
   },
