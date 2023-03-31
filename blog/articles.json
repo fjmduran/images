@@ -674,14 +674,14 @@
   {
     "id": "tareas-repetitivas-cron-job",
     "title": "Crear tareas repetitivas",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fcron-job.webp?alt=media&token=5e0d52dc-a44d-4f59-987e-20e3cdd93b64",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/cronJob/cover.jpg?raw=true",
     "description": "Crear tareas repetitivas o cron jobs",
     "tags": ["Desarrollo de software", "Firebase"],
     "date": "2021-07-17T17:48:23.511Z",
     "html": "/blog/tareas-repetitivas-cron-job",
     "metaTags": {
       "title": "Crear tareas repetitivas",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fcron-job.webp?alt=media&token=5e0d52dc-a44d-4f59-987e-20e3cdd93b64",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/cronJob/cover.jpg?raw=true",
       "description": "Crear tareas repetitivas o cron jobs"
     }
   },
@@ -786,14 +786,14 @@
   {
     "id": "google-calendar-cada-ultimo-dia-mes",
     "title": "Repetir evento el último día de cada mes en Google Calendar",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fgoogle-calendar.jpg?alt=media&token=36fc0436-5620-48ae-bcb9-ae5d75372159",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/googleCalendar/cover.jpg?raw=true",
     "description": "Te enseñaré a programar en Google Calendar un evento que se repita el último día de todos los meses",
     "tags": ["Recursos web"],
     "date": "2021-08-28T08:30:23.511Z",
     "html": "/blog/google-calendar-cada-ultimo-dia-mes",
     "metaTags": {
       "title": "Repetir evento el último día de cada mes en Google Calendar",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fgoogle-calendar.jpg?alt=media&token=36fc0436-5620-48ae-bcb9-ae5d75372159",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/googleCalendar/cover.jpg?raw=true",
       "description": "Te enseñaré a programar en Google Calendar un evento que se repita el último día de todos los meses"
     }
   },
@@ -1038,14 +1038,14 @@
   {
     "id": "editando-path-windows",
     "title": "Editando el Path de Windows",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fwindows.webp?alt=media&token=1dc2217e-7ec1-4ab8-bcae-f05061eb9124",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/windows.jpg?raw=true",
     "description": "Aumenta tu eficiencia con la consola en Windows incluyendo programas habituales en su Path",
     "tags": ["Windows", "Informática"],
     "date": "2021-12-26T08:23:42.511Z",
     "html": "/blog/editando-path-windows",
     "metaTags": {
       "title": "Editando el Path de Windows",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fwindows.webp?alt=media&token=1dc2217e-7ec1-4ab8-bcae-f05061eb9124",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/windows.jpg?raw=true",
       "description": "Aumenta tu eficiencia con la consola en Windows incluyendo programas habituales en su Path"
     }
   },
@@ -1206,14 +1206,14 @@
   {
     "id": "angular-debug",
     "title": "Depurando un proyecto de Angular",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angularDebug/angular.jpg?raw=true",
     "description": "Ve más allá del siempre confiable console.log",
     "tags": ["Angular"],
     "date": "2022-03-12T16:08:42.511Z",
     "html": "/blog/angular-debug",
     "metaTags": {
       "title": "Depurando un proyecto de Angular",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angularDebug/angular.jpg?raw=true",
       "description": "Ve más allá del siempre confiable console.log"
     }
   },
