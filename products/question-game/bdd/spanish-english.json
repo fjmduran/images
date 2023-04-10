@@ -298,5 +298,37 @@
     {
         "question":"Cómo se dice pelota en inglés?",
         "answer":"ball"
+    },   
+    {
+        "question":"Cómo se dice pies en inglés?",
+        "answer":"feet"
+    },
+    {
+        "question":"Cómo se dice pie en inglés?",
+        "answer":"foot"
+    },
+    {
+        "question":"Cómo se dice dedos de los pies en inglés?",
+        "answer":"toes"
+    },
+    {
+        "question":"Cómo se dice rodilla en inglés?",
+        "answer":"knee"
+    },
+    {
+        "question":"Cómo se dice nariz en inglés?",
+        "answer":"nose"
+    },
+    {
+        "question":"Cómo se dice brazo en inglés?",
+        "answer":"arm"
+    },
+    {
+        "question":"Cómo se dice mano en inglés?",
+        "answer":"hand"
+    },
+    {
+        "question":"Cómo se dice cabeza en inglés?",
+        "answer":"head"
     }
 ]
