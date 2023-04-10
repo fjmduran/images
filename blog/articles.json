@@ -646,14 +646,14 @@
   {
     "id": "seguridad-contrasenas",
     "title": "¿Cómo de segura es tu contraseña?",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fseguridad-contrasena.webp?alt=media&token=951ab7f6-535e-4d60-97f3-5e5b9d828043",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/safe_password/cover.jpg?raw=true",
     "description": "Te cuento cómo de segura son tus contraseñas",
     "tags": ["Ciberseguridad"],
     "date": "2021-07-03T10:15:23.511Z",
     "html": "/blog/seguridad-contrasenas",
     "metaTags": {
       "title": "¿Cómo de segura es tu contraseña?",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fseguridad-contrasena.webp?alt=media&token=951ab7f6-535e-4d60-97f3-5e5b9d828043",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/safe_password/cover.jpg?raw=true",
       "description": "Te cuento cómo de segura son tus contraseñas"
     }
   },
@@ -1206,14 +1206,14 @@
   {
     "id": "angular-debug",
     "title": "Depurando un proyecto de Angular",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/angularDebug/angular.jpg?raw=true",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angularDebug/cover.jpg?raw=true",
     "description": "Ve más allá del siempre confiable console.log",
     "tags": ["Angular"],
     "date": "2022-03-12T16:08:42.511Z",
     "html": "/blog/angular-debug",
     "metaTags": {
       "title": "Depurando un proyecto de Angular",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/angularDebug/angular.jpg?raw=true",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angularDebug/cover.jpg?raw=true",
       "description": "Ve más allá del siempre confiable console.log"
     }
   },
