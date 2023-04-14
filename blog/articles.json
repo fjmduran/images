@@ -2014,5 +2014,19 @@
       "img": "https://github.com/fjmduran/images/blob/master/blog/passwordGenerator/cover.jpg?raw=true",
       "description": "Selecciona la longitud de tu contraseña y elige las opciones por las que quieres que esté formada, números, letras, símbolos o híbrida"
     }
+  },
+  {
+    "id": "bajo_coste_alto_rendimiento_firestore",
+    "title": "Cachea Firestore 🔥 ahorrando mucho dinero y disparando el rendimiento",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angularFire.jpg?raw=true",
+    "description": "Si usas Firestore como base de datos vas a ahorrar muchísimas lecturas de documentos ahorrando mucho dinero y aumentando el rendimiento de tu APP",
+    "tags": ["Angular","Firebase","Bases de datos"],
+    "date": "2023-04-23T21:47:23.511Z",
+    "html": "/blog/bajo_coste_alto_rendimiento_firestore",
+    "metaTags": {
+      "title": "Cachea Firestore 🔥 ahorrando mucho dinero y disparando el rendimiento",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angularFire.jpg?raw=true",
+      "description": "Si usas Firestore como base de datos vas a ahorrar muchísimas lecturas de documentos ahorrando mucho dinero y aumentando el rendimiento de tu APP"
+    }
   }
 ]
