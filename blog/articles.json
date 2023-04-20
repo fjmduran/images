@@ -2019,14 +2019,29 @@
     "id": "bajar_coste_subir_rendimiento_firestore",
     "title": "Cachea Firestore 🔥 y baja los costes 💸 disparando el rendimiento ✅",
     "img": "https://github.com/fjmduran/images/blob/master/blog/angularFire.jpg?raw=true",
-    "description": "Si usas Firestore como base de datos vas a ahorrar muchísimas lecturas de documentos ahorrando mucho dinero y aumentando el rendimiento de tu APP",
-    "tags": ["Angular","Firebase","Bases de datos"],
+    "description": "Si usas Firestore como base de datos vas a disminuir muchísimas lecturas de documentos del servidor ahorrando mucho dinero y aumentando el rendimiento de tu APP",
+    "tags": ["Angular", "Firebase", "Bases de datos"],
     "date": "2023-04-23T21:47:23.511Z",
     "html": "/blog/bajar_coste_subir_rendimiento_firestore",
     "metaTags": {
       "title": "Cachea Firestore 🔥 y baja los costes 💸 disparando el rendimiento ✅",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angularFire.jpg?raw=true",
-      "description": "Si usas Firestore como base de datos vas a ahorrar muchísimas lecturas de documentos ahorrando mucho dinero y aumentando el rendimiento de tu APP"
+      "description": "Si usas Firestore como base de datos vas a disminuir muchísimas lecturas de documentos del servidor ahorrando mucho dinero y aumentando el rendimiento de tu APP"
+    }
+  },
+  {
+    "id": "que_es_red_neuronal",
+    "title": "¿Qué es una red neuronal? 🤖",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/what-is-chatgpt/cover.jpg?raw=true",
+    "description": "Las inteligencias artificiales como chatGPT están de moda. Te cuento qué son las redes neuronales, uno de sus pilares.",
+    "tags": ["Ciencía y tecnología", "Informática"],
+    "date": "2023-04-30T20:34:23.511Z",
+    "html": "/blog/que_es_red_neuronal",
+    "metaTags": {
+      "id": "que_es_red_neuronal",
+      "title": "¿Qué es una red neuronal? 🤖",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/what-is-chatgpt/cover.jpg?raw=true",
+      "description": "Las inteligencias artificiales como chatGPT están de moda. Te cuento qué son las redes neuronales, uno de sus pilares."
     }
   }
 ]
