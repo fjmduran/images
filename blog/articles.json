@@ -2043,5 +2043,19 @@
       "img": "https://github.com/fjmduran/images/blob/master/blog/what-is-chatgpt/cover.jpg?raw=true",
       "description": "Las inteligencias artificiales como chatGPT están de moda. Te cuento qué son las redes neuronales, uno de sus pilares."
     }
+  }, 
+  {
+    "id": "wcf_windows_communication_foundation",
+    "title": "Errores con Windows Communication Foundation (WCF)",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/wcf/cover.jpg?raw=true",
+    "description": "Recojo errores con los que he sudado sangre 🩸 con WCF de Microsoft",
+    "tags": ["Informática","TypeScript"],
+    "date": "2023-05-07T18:12:54.511Z",
+    "html": "/blog/wcf_windows_communication_foundation",
+    "metaTags": {
+      "title": "Errores con Windows Communication Foundation (WCF)",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/wcf/cover.jpg?raw=true",
+      "description": "Recojo errores con los que he sudado sangre 🩸 con WCF de Microsoft"
+    }
   }
 ]
