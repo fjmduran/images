@@ -2043,19 +2043,47 @@
       "img": "https://github.com/fjmduran/images/blob/master/blog/what-is-chatgpt/cover.jpg?raw=true",
       "description": "Las inteligencias artificiales como chatGPT están de moda. Te cuento qué son las redes neuronales, uno de sus pilares."
     }
-  }, 
+  },
   {
     "id": "wcf_windows_communication_foundation",
     "title": "Errores con Windows Communication Foundation (WCF)",
     "img": "https://github.com/fjmduran/images/blob/master/blog/wcf/cover.jpg?raw=true",
     "description": "Recojo errores con los que he sudado sangre 🩸 con WCF de Microsoft",
-    "tags": ["Informática","TypeScript"],
+    "tags": ["Informática", "TypeScript"],
     "date": "2023-05-07T18:12:54.511Z",
     "html": "/blog/wcf_windows_communication_foundation",
     "metaTags": {
       "title": "Errores con Windows Communication Foundation (WCF)",
       "img": "https://github.com/fjmduran/images/blob/master/blog/wcf/cover.jpg?raw=true",
       "description": "Recojo errores con los que he sudado sangre 🩸 con WCF de Microsoft"
+    }
+  },
+  {
+    "id": "patron_factory",
+    "title": "¿Qué es el patrón de diseño factory? 🦺",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/factory-pattern/cover.jpg?raw=true",
+    "description": "Te explico el patrón de diseño factory con una analogía y ejemplos",
+    "tags": ["Informática", "Desarrollo de software"],
+    "date": "2023-05-14T19:01:54.511Z",
+    "html": "/blog/patron_factory",
+    "metaTags": {
+      "title": "¿Qué es el patrón de diseño factory? 🦺",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/factory-pattern/cover.jpg?raw=true",
+      "description": "Te explico el patrón de diseño factory con una analogía y ejemplos"
+    }
+  },
+  {
+    "id": "angular_16",
+    "title": "Angular 16, una super versión 🦸‍♂️",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+    "description": "¿Por qué para mí Angular 16 es una super versión?, ¿Quieres instalar Angular 16?, ¿quieres actualizar o migrar a Angular 16?, ¿quieres saber qué trae esta súper versión de Angular?",
+    "tags": ["Angular"],
+    "date": "2023-11-25T05:42:43.511Z",
+    "html": "/blog/angular_16",
+    "metaTags": {
+      "title": "Angular 16, una super versión 🦸‍♂️",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+      "description": "¿Por qué para mí Angular 16 es una super versión?, ¿Quieres instalar Angular 16?, ¿quieres actualizar o migrar a Angular 16?, ¿quieres saber qué trae esta súper versión de Angular?"
     }
   }
 ]
