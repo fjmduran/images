@@ -3,21 +3,19 @@
     "id": "comunidad",
     "title": "Comunidad de vecinos",
     "html": "https://comunidad-vecinos.com",
-    "icon":"https://micomunidad.web.app/assets/icons/icon-144x144.png",
+    "icon": "https://micomunidad.web.app/assets/icons/icon-144x144.png",
     "img": "https://github.com/fjmduran/images/blob/master/products/comunidad-vecinos/abstract-condominium-architecture.jpg?raw=true",
     "metaTags": {
       "title": "Aplicación para la gestión de comunidades de vecinos. Controla el acceso con códigos QR, facilita el acceso a la documentación (contrato con proveedores, actas...), control el aforo de zonas comunes...",
       "img": "https://micomunidad.web.app/assets/icons/icon-144x144.png",
       "description": "Aplicación para la gestión de comunidades de vecinos. Controla el acceso con códigos QR, facilita el acceso a la documentación (contrato con proveedores, actas...), control el aforo de zonas comunes..."
     },
-    "description": 
-      "Digitaliza tu comunidad de vecinos y dótala de mayor transparencia.",
+    "description": "Digitaliza tu comunidad de vecinos y dótala de mayor transparencia.",
     "date": "2020-10-18T18:25:43.511Z",
-    "featuresText":[
-      "Digitaliza tu comunidad de vecinos. Dótala de mayor transparencia.",
-      "Evita gestionar carnets físicos, utilizada nuestros QR de acceso a piscina, pistas...",
-      "Gestiona las reservas y pagos de las zonas comunes.",
-      "Ahorra tiempo y dinero evitando imprimir circulares, estado de cuentas de resultados."
+    "featuresText": [
+      "Gestiona las reservas, aforo, uso y pagos de las zonas comunes.",
+      "Utiliza nuestros QR de acceso a piscina...",
+      "Ahorra tiempo y dinero imprimiendo circulares o enviando emails."
     ],
     "features": [
       {
@@ -54,19 +52,17 @@
     "id": "restaurante",
     "title": "Hostelería",
     "html": "https://comemosapp.com",
-    "icon":"https://comemosapp.web.app/assets/icons/icon-144x144.png",
+    "icon": "https://comemosapp.web.app/assets/icons/icon-144x144.png",
     "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Productos%2FRestaurante%2Fpizza.jpg?alt=media&token=decc0dd1-5d32-43a2-a2e3-032cb0af35d3",
-    "description": [
-      "Todo lo que tu negocio de hostelería necesita.",
-      "✅ Comandas digitales.",
-      "✅ Recibe pedidos online.",
-      "✅ Informa de tus ofertas y promociones.",
-      "✅ Cierre de caja y recibos digitales.",
-      "✅ Gestiona tus negocio desde cualquier parte del mundo.",
-      "✅ Gestiona tu stock.",
-      "✅ Carta digital totalmente gratuita con fotografías de alta resolución."      
-    ],
+    "description": "Todo lo que tu negocio de hostelería necesita",
     "date": "2020-10-18T18:25:43.511Z",
+    "featuresText": [
+      "Comandas digitales",
+      "Pedidos online",
+      "TPV",
+      "Gestión de stock",
+      "Gestiona tus negocio desde cualquier parte del mundo."
+    ],
     "features": [
       {
         "icon": "beach_access",
@@ -123,20 +119,20 @@
     "id": "gestionar-padel-tenis",
     "title": "Pista de pádel",
     "html": "https://reserva-pista-padel.comunidad-vecinos.com/",
-    "icon":"https://marcador-padel-tenis.web.app/assets/icons/icon-144x144.png",
+    "icon": "https://marcador-padel-tenis.web.app/assets/icons/icon-144x144.png",
     "img": "https://github.com/fjmduran/images/blob/master/products/padel/cover.jpg?raw=true",
-    "description": [
-      "Gestiona las reservas y automatiza tu pista de pádel:",
-      "✅ Los usuarios podrán pagar con VISA, Mastercard o American Express.",
-      "✅ Acceso a las pistas sólo si está reservada.",
-      "✅ Podrás configurar el encendido y apagado de luces a la hora de reserva."
-    ],
+    "description": "Gestiona las reservas y automatiza tus pistas de pádel y tenis",
     "metaTags": {
       "title": "Pista de pádel",
       "img": "https://reserva-pista-padel.comunidad-vecinos.com/dist/cover.jpg",
       "description": "Reserva hora de tu pista de pádel con esta APP y automatiza el acceso y el encedido de luces."
     },
     "date": "2020-10-17T09:06:43.511Z",
+    "featuresText": [
+      "Los usuarios pagarán con VISA, Mastercard o American Express.",
+      "Acceso a las pistas con la APP.",
+      "Configura el encendido y apagado de luces a la hora de reserva."
+    ],
     "features": [
       {
         "icon": "vpn_key",
@@ -164,21 +160,20 @@
     "id": "apertura-puerta-remoto",
     "title": "Acceso a propiedades",
     "html": "https://abre-puerta-con-movil.fjmduran.com/",
-    "icon":"https://my-iot-528f0.web.app/assets/icons/icon-144x144.png",
+    "icon": "https://my-iot-528f0.web.app/assets/icons/icon-144x144.png",
     "img": "https://github.com/fjmduran/images/blob/master/products/iot/cover.jpg?raw=true",
-    "description": [
-      "Gestiona el acceso a tus propiedades. Si eres propietario de vivienda turística, trasteros, garages...",
-      "✅ Concede y revoca acceso a tus propiedades con tu móvil",
-      "✅ Programa caducidades de acceso",
-      "✅ Acceso para tus clientes desde APP o con código QR",
-      "✅ Evita quedar con tus huéspedes para darle las llaves."
-    ],
+    "description": "Gestiona el acceso a tus propiedades (vivienda turística, trastero, garage...)",
     "metaTags": {
       "title": "Gestiona el acceso a tus propiedades",
       "img": "https://my-iot-528f0.web.app/assets/icons/icon-144x144.png",
-      "description": "Eres propiertario de una vivienda turística, trasteros, garages...? Concede y revoca acceso."
+      "description": "¿Eres propiertario de una vivienda turística, trastero, garage...?"
     },
     "date": "2020-10-17T09:06:43.511Z",
+    "featuresText": [
+      "Concede y revoca acceso a tus propiedades con tu móvil",
+      "Programa caducidades de acceso",
+      "Evita quedar con tus huéspedes para darle las llaves."
+    ],
     "features": [
       {
         "icon": "vpn_key",
@@ -206,22 +201,21 @@
     "id": "negocio-local",
     "title": "Negocio local",
     "html": "https://www.youtube.com/watch?v=aUDDWwkESjM",
-    "icon":"https://https://app-negocio-local.web.app/app/assets/icons/icon-144x144.png",
+    "icon": "https://https://app-negocio-local.web.app/app/assets/icons/icon-144x144.png",
     "img": "https://github.com/fjmduran/images/blob/master/products/local-bussiness/cover.jpg?raw=true",
-    "description": [
-      "Gestiona tu negocio con una sóla herramienta:",
-      "✅ Escaparate virtual 🎁",
-      "✅ TPV",
-      "✅ Venta por internet",
-      "✅ Gestión de stock",
-      "✅ Gestión de productos (caducidad, proveedores...)"
-    ],
+    "description": "Gestiona tu negocio con una sóla herramienta:",
     "metaTags": {
       "title": "Gestiona el acceso a tus propiedades",
       "img": "https://app.negocio-local.com/assets/icons/icon-144x144.png",
       "description": "Eres propiertario de una vivienda turística, trasteros, garages...? Concede y revoca acceso."
     },
     "date": "2020-10-17T09:06:43.511Z",
+    "featuresText": [
+      "Escaparate virtual",
+      "TPV",
+      "Venta por internet",
+      "Gestión de productos (stock, caducidad, proveedores...)"
+    ],
     "features": [
       {
         "icon": "vpn_key",
@@ -249,18 +243,16 @@
     "id": "marcador-padel-tenis",
     "title": "Marcador para pádel y tenis",
     "html": "https://marcador-padel-tenis-info.fjmduran.com/",
-    "icon":"https://marcador-padel-tenis.web.app/assets/icons/icon-144x144.png",
+    "icon": "https://marcador-padel-tenis.web.app/assets/icons/icon-144x144.png",
     "img": "https://github.com/fjmduran/images/blob/master/products/padel-scoreboard/cover.jpg?raw=true",
-    "description": [
-      "🎁 GRATIS",
-      "Que la memoria no sea un problema en el puntaje de tus partidos."
-    ],
+    "description": "Que la memoria no sea un problema en el puntaje de tus partidos.",
     "metaTags": {
       "title": "Marcador para pádel y tenis",
       "img": "https://github.com/fjmduran/images/blob/master/products/padel-scoreboard/metaTag.jpg?raw=true",
       "description": "Que la memoria no sea un problema en el puntaje de tus partidos."
     },
     "date": "2020-10-17T09:06:43.511Z",
+    "featuresText": ["Local", "Conectado a la nube"],
     "features": [
       {
         "icon": "beach_access",
@@ -271,16 +263,17 @@
   {
     "id": "cliente-mqtt",
     "title": "Cliente MQTT",
-    "icon":"https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
+    "icon": "https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
     "img": "https://github.com/fjmduran/images/blob/master/products/mqtt/cover.jpg?raw=true",
     "html": "https://cliente-mqtt.fjmduran.com",
-    "description": ["🎁 GRATIS", "Cliente MQTT gratuito para tus pruebas"],
+    "description": "Cliente MQTT gratuito para tus pruebas",
     "metaTags": {
       "title": "Cliente MQTT",
       "img": "https://cliente-mqtt.fjmduran.com/assets/screenshots/1.png",
       "description": "Cliente MQTT gratuito para tus pruebas"
     },
     "date": "2020-10-18T18:20:43.511Z",
+    "featuresText": ["Local", "Conectado a la nube"],
     "features": [
       {
         "icon": "beach_access",
@@ -292,18 +285,16 @@
     "id": "torre-hanoi",
     "title": "Torres de Hanoi",
     "html": "/torre-hanoi",
-    "icon":"https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
+    "icon": "https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
     "img": "https://github.com/fjmduran/images/blob/master/blog/hanoi-create/torre-de-hanoi.jpg?raw=true",
-    "description": [
-      "🎁 GRATIS",
-      "Juega resolviendo el puzzle de las torres de Hanoi"
-    ],
+    "description": "Juega gratis resolviendo el puzzle de las torres de Hanoi",
     "metaTags": {
       "title": "Torre de Hanoi",
       "img": "https://github.com/fjmduran/images/blob/master/blog/hanoi-create/torre-de-hanoi.jpg?raw=true",
       "description": "Juega resolviendo el puzzle de las torres de Hanoi"
     },
     "date": "2020-10-16T18:20:43.511Z",
+    "featuresText": ["Diviérte gratis"],
     "features": [
       {
         "icon": "beach_access",
@@ -315,18 +306,16 @@
     "id": "juego-preguntas",
     "title": "Juego de preguntas",
     "html": "/juego-preguntas",
-    "icon":"https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
+    "icon": "https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
     "img": "https://github.com/fjmduran/images/blob/master/products/question-game/cover.jpg?raw=true",
-    "description": [
-      "🎁 GRATIS",
-      "Juego de preguntas para motivar a mi hija Adriana 🥰"
-    ],
+    "description": "Juego de preguntas para motivar a mi hija Adriana 🥰",
     "metaTags": {
       "title": "Juego de preguntas",
       "img": "https://github.com/fjmduran/images/blob/master/products/question-game/cover.jpg?raw=true",
       "description": "Juego de preguntas para motivar a mi hija Adriana 🥰"
     },
     "date": "2020-10-16T18:20:43.511Z",
+    "featuresText": ["Diviérte gratis"],
     "features": [
       {
         "icon": "beach_access",
@@ -338,18 +327,16 @@
     "id": "generador-contrasena-segura",
     "title": "Generador de contraseñas seguras 🔐",
     "html": "/generador-contrasena-segura",
-    "icon":"https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
+    "icon": "https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
     "img": "https://github.com/fjmduran/images/blob/master/products/password-generator/cover.jpg?raw=true",
-    "description": [
-      "🎁 GRATIS",
-      "Generador de contraseñas seguras"
-    ],
+    "description": "Generador de contraseñas seguras",
     "metaTags": {
       "title": "Generador de contraseñas seguras 🔐",
       "img": "https://github.com/fjmduran/images/blob/master/products/password-generator/cover.jpg?raw=true",
       "description": "Generador de contraseñas seguras"
     },
     "date": "2020-10-16T18:20:43.511Z",
+    "featuresText": ["Letras", "Números", "Símbolos", "Híbrido"],
     "features": [
       {
         "icon": "beach_access",
@@ -361,19 +348,16 @@
     "id": "cesta",
     "title": "Cesta supermercado",
     "html": "/productos/cesta",
-    "icon":"https://mcesta.web.app/assets/icons/icon-144x144.png",
+    "icon": "https://mcesta.web.app/assets/icons/icon-144x144.png",
     "img": "https://github.com/fjmduran/images/blob/master/products/mcesta/cover.jpg?raw=true",
-    "description": [
-      "🎁 GRATIS",
-      "¿Te has olvidado algunas vez la lista de la compra en la cocina, en el imán de la nevera?¿Se te ha olvidad apuntar algo en la lista porque no la tenías a mano?",
-      "Evítalo usando la APP gratuita mcesta"
-    ],
+    "description": "¿Te has olvidado algunas vez la lista de la compra en la cocina, en el imán de la nevera?¿Se te ha olvidad apuntar algo en la lista porque no la tenías a mano?",
     "metaTags": {
       "title": "Aplicación gratuita cesta de la compra. ¿Te has olvidado algunas vez la lista de la compra en la cocina, en el imán de la nevera?¿Se te ha olvidad apuntar algo en la lista porque no la tenías a mano?",
       "img": "https://mcesta.web.app/assets/icons/icon-144x144.png",
       "description": "Aplicación gratis para para llevar la lista de la compra en tu móvil. ¿Te has olvidado algunas vez la lista de la compra en la cocina, en el imán de la nevera?¿Se te ha olvidad apuntar algo en la lista porque no la tenías a mano?"
     },
     "date": "2020-10-17T18:25:43.511Z",
+    "featuresText": ["GRATIS"],
     "features": [
       {
         "icon": "vpn_key",
@@ -397,18 +381,19 @@
     "id": "qr",
     "title": "Generador de QR",
     "html": "/qr-generator",
-    "icon":"https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
+    "icon": "https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
     "img": "https://github.com/fjmduran/images/blob/master/products/qr/cover.jpg?raw=true",
-    "description": [
-      "🎁 GRATIS",
-      "Crea y personaliza tus propios códigos QR gratis, sin publicidad, sin marcas de agua y sin compromiso"
-    ],
+    "description": 
+      "Crea y personaliza tus propios códigos QR gratis, sin publicidad, sin marcas de agua y sin compromiso",
     "metaTags": {
       "title": "Generador de códigos QR gratis",
       "img": "https://github.com/fjmduran/images/blob/master/products/qr/cover.jpg?raw=true",
       "description": "Crea y personaliza tus propios códigos QR gratis, sin publicidad, marcas de agua y sin compromiso"
     },
     "date": "2020-10-17T18:25:43.511Z",
+    "featuresText": [
+      "GRATIS"
+    ],
     "features": [
       {
         "icon": "beach_access",
@@ -424,18 +409,20 @@
     "id": "descargar-youtube",
     "title": "Descarga GRATIS música MP3 y vídeos desde YOUTUBE",
     "html": "/youtube-downloader",
-    "icon":"https://descarga-mp3-video-gratis-yutube.web.app/assets/icons/icon-144x144.png",
+    "icon": "https://descarga-mp3-video-gratis-yutube.web.app/assets/icons/icon-144x144.png",
     "img": "https://github.com/fjmduran/images/blob/master/products/youtubeDownloader/metaTag.jpg?raw=true",
-    "description": [
-      "🎁 GRATIS",
-      "Baja GRATIS música y vídeo desde YOUTUBE. Sin virus ni publicidad."
-    ],
+    "description": "Descarga GRATIS música y vídeo desde YOUTUBE. Sin virus ni publicidad.",
     "metaTags": {
       "title": "Descarga GRATIS música MP3 y vídeos desde YOUTUBE",
       "img": "https://github.com/fjmduran/images/blob/master/products/youtubeDownloader/cover.jpg?raw=true",
-      "description": "Baja GRATIS desde YOUTUBE música en MP3 y vídeo sin virus ni publicidad."
+      "description": "Descarga GRATIS música y vídeo desde YOUTUBE. Sin virus ni publicidad."
     },
     "date": "2020-10-17T18:30:43.511Z",
+    "featuresText": [
+      "GRATIS",
+      "MP3",
+      "MP4"
+    ],
     "features": [
       {
         "icon": "beach_access",
@@ -447,18 +434,18 @@
     "id": "calculadora-riego",
     "title": "Calculadora de riego",
     "html": "/calculadora-riego",
-    "icon":"https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
+    "icon": "https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
     "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Productos%2Fcalculadora-riego%2Friego-index.webp?alt=media&token=29e88443-2f41-4973-9a04-245be280ef7b",
-    "description": [
-      "🎁 GRATIS",
-      "Ajusta y estima tus riegos en función a tu cuota. Confederación ha asignado una cuota de riego en función de tus hectáreas de cultivo. Ajusta y no te quedes sin agua cuando más falta te hace."
-    ],
+    "description": "Ajusta y estima tus riegos en función a tu cuota. Confederación ha asignado una cuota de riego en función de tus hectáreas de cultivo. Ajusta y no te quedes sin agua cuando más falta te hace.",
     "metaTags": {
       "title": "Calculadora de riego",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Productos%2Fcalculadora-riego%2Friego-meta-tag.webp?alt=media&token=b151c729-43ed-465a-b994-74dc408bb774",
       "description": "Ajusta y estima tus riegos en función a tu cuota. Confederación ha asignado una cuota de riego en función de tus hectáreas de cultivo. Ajusta y no te quedes sin agua cuando más falta te hace."
     },
     "date": "2020-10-17T09:06:43.511Z",
+    "featuresText": [
+      "GRATIS"      
+    ],
     "features": [
       {
         "icon": "beach_access",
@@ -470,18 +457,18 @@
     "id": "covid19",
     "title": "Datos COVID 19",
     "html": "https://covid19.fjmduran.com",
-    "icon":"https://covid-19-fjmduran.web.app/assets/icons/icon-144x144.png",
+    "icon": "https://covid-19-fjmduran.web.app/assets/icons/icon-144x144.png",
     "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Productos%2Fcovid19%2Fcovid19_producto.jpg?alt=media&token=ba9a57a2-c06d-465a-ae2e-e2da5a66041c",
-    "description": [
-      "🎁 GRATIS",
-      "Datos oficiales de la Junta de Andalucía sobre COVID-19"
-    ],
+    "description": "Datos oficiales de la Junta de Andalucía sobre COVID-19",
     "metaTags": {
       "title": "Datos COVID-19",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Productos%2Fyoutube-downloader%2FyoutubeDw.webp?alt=media&token=16671cc7-f6f1-4a9a-96b0-f447ab005a14",
       "description": "Datos oficiales de la Junta de Andalucía sobre COVID-19"
     },
     "date": "2020-10-16T18:20:43.511Z",
+    "featuresText": [
+      "GRATIS"      
+    ],
     "features": [
       {
         "icon": "beach_access",
