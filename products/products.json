@@ -10,13 +10,15 @@
       "img": "https://micomunidad.web.app/assets/icons/icon-144x144.png",
       "description": "Aplicación para la gestión de comunidades de vecinos. Controla el acceso con códigos QR, facilita el acceso a la documentación (contrato con proveedores, actas...), control el aforo de zonas comunes..."
     },
-    "description": [
-      "✅ Digitaliza tu comunidad de vecinos. Dótala de mayor transparencia.",
-      "✅ Evita gestionar carnets físicos, utilizada nuestros QR de acceso a piscina, pistas...",
-      "✅ Gestiona las reservas y pagos de las zonas comunes.",
-      "✅ Ahorra tiempo y dinero evitando imprimir circulares, estado de cuentas de resultados."
-    ],
+    "description": 
+      "Digitaliza tu comunidad de vecinos y dótala de mayor transparencia.",
     "date": "2020-10-18T18:25:43.511Z",
+    "featuresText":[
+      "Digitaliza tu comunidad de vecinos. Dótala de mayor transparencia.",
+      "Evita gestionar carnets físicos, utilizada nuestros QR de acceso a piscina, pistas...",
+      "Gestiona las reservas y pagos de las zonas comunes.",
+      "Ahorra tiempo y dinero evitando imprimir circulares, estado de cuentas de resultados."
+    ],
     "features": [
       {
         "icon": "vpn_key",
@@ -121,7 +123,7 @@
     "id": "gestionar-padel-tenis",
     "title": "Pista de pádel",
     "html": "https://reserva-pista-padel.comunidad-vecinos.com/",
-    "icon":"https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
+    "icon":"https://marcador-padel-tenis.web.app/assets/icons/icon-144x144.png",
     "img": "https://github.com/fjmduran/images/blob/master/products/padel/cover.jpg?raw=true",
     "description": [
       "Gestiona las reservas y automatiza tu pista de pádel:",
