@@ -13,9 +13,9 @@
     "description": "Digitaliza tu comunidad de vecinos y dótala de mayor transparencia.",
     "date": "2020-10-18T18:25:43.511Z",
     "featuresText": [
-      "Gestiona las reservas, aforo, uso y pagos de las zonas comunes.",
+      "Gestiona las reservas, aforo, uso y pagos de las zonas comunes",
       "Utiliza nuestros QR de acceso a piscina...",
-      "Ahorra tiempo y dinero imprimiendo circulares o enviando emails."
+      "La documentación de tu comunidad en la nube"
     ],
     "features": [
       {
@@ -129,8 +129,7 @@
     "date": "2020-10-17T09:06:43.511Z",
     "featuresText": [
       "Los usuarios pagarán con VISA, Mastercard o American Express.",
-      "Acceso a las pistas con la APP.",
-      "Configura el encendido y apagado de luces a la hora de reserva."
+      "Acceso a las pistas y encendido de luces con la APP."      
     ],
     "features": [
       {
@@ -152,6 +151,10 @@
       {
         "icon": "vpn_lock",
         "text": "Módulo privado"
+      },
+      {
+        "icon": "business_center",
+        "text": "Zona premium"
       }
     ]
   },
@@ -193,6 +196,10 @@
       {
         "icon": "vpn_lock",
         "text": "Módulo privado"
+      },
+      {
+        "icon": "business_center",
+        "text": "Zona premium"
       }
     ]
   },
@@ -235,6 +242,10 @@
       {
         "icon": "vpn_lock",
         "text": "Módulo privado"
+      },
+      {
+        "icon": "business_center",
+        "text": "Zona premium"
       }
     ]
   },
@@ -262,7 +273,7 @@
   {
     "id": "descargar-youtube",
     "title": "Descarga GRATIS música MP3 y vídeos desde YOUTUBE",
-    "html": "https:fjmduran.com/youtube-downloader",
+    "html": "descargagratismusicayoutube.quiero1app.com",
     "icon": "https://descarga-mp3-video-gratis-yutube.web.app/assets/icons/icon-144x144.png",
     "img": "https://github.com/fjmduran/images/blob/master/products/youtubeDownloader/metaTag.jpg?raw=true",
     "description": "Descarga GRATIS música y vídeo desde YOUTUBE.",
@@ -273,9 +284,7 @@
     },
     "date": "2020-10-17T18:30:43.511Z",
     "featuresText": [
-      "GRATIS",
-      "MP3",
-      "MP4"
+      "GRATIS - MP3 - MP4"
     ],
     "features": [
       {
@@ -318,7 +327,7 @@
       "description": "Juega resolviendo el puzzle de las torres de Hanoi"
     },
     "date": "2020-10-16T18:20:43.511Z",
-    "featuresText": ["Diviérte gratis"],
+    "featuresText": ["Diviértete gratis"],
     "features": [
       {
         "icon": "beach_access",
@@ -339,7 +348,7 @@
       "description": "Juego de preguntas para motivar a mi hija Adriana 🥰"
     },
     "date": "2020-10-16T18:20:43.511Z",
-    "featuresText": ["Diviérte gratis"],
+    "featuresText": ["Diviértete GRATIS 🎁"],
     "features": [
       {
         "icon": "beach_access",
@@ -360,7 +369,7 @@
       "description": "Generador de contraseñas seguras"
     },
     "date": "2020-10-16T18:20:43.511Z",
-    "featuresText": ["Letras", "Números", "Símbolos", "Híbrido"],
+    "featuresText": ["Letras, número y símbolos","GRATIS 🎁"],
     "features": [
       {
         "icon": "beach_access",
@@ -381,7 +390,7 @@
       "description": "Aplicación gratis para para llevar la lista de la compra en tu móvil. ¿Te has olvidado algunas vez la lista de la compra en la cocina, en el imán de la nevera?¿Se te ha olvidad apuntar algo en la lista porque no la tenías a mano?"
     },
     "date": "2020-10-17T18:25:43.511Z",
-    "featuresText": ["GRATIS"],
+    "featuresText": ["GRATIS 🎁"],
     "features": [
       {
         "icon": "vpn_key",
@@ -416,7 +425,7 @@
     },
     "date": "2020-10-17T18:25:43.511Z",
     "featuresText": [
-      "GRATIS"
+      "GRATIS 🎁"
     ],
     "features": [
       {
@@ -443,7 +452,7 @@
     },
     "date": "2020-10-17T09:06:43.511Z",
     "featuresText": [
-      "GRATIS"      
+      "GRATIS 🎁"
     ],
     "features": [
       {
@@ -466,7 +475,7 @@
     },
     "date": "2020-10-16T18:20:43.511Z",
     "featuresText": [
-      "GRATIS"      
+      "GRATIS 🎁"
     ],
     "features": [
       {
