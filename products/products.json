@@ -317,7 +317,7 @@
   {
     "id": "torre-hanoi",
     "title": "Torres de Hanoi",
-    "html": "/torre-hanoi",
+    "html": "https://fjmduran.com/torre-hanoi",
     "icon": "https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
     "img": "https://github.com/fjmduran/images/blob/master/blog/hanoi-create/torre-de-hanoi.jpg?raw=true",
     "description": "Juega gratis resolviendo el puzzle de las torres de Hanoi",
@@ -338,7 +338,7 @@
   {
     "id": "juego-preguntas",
     "title": "Juego de preguntas",
-    "html": "/juego-preguntas",
+    "html": "https://fjmduran.com/juego-preguntas",
     "icon": "https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
     "img": "https://github.com/fjmduran/images/blob/master/products/question-game/cover.jpg?raw=true",
     "description": "Juego de preguntas para motivar a mi hija Adriana 🥰",
@@ -359,7 +359,7 @@
   {
     "id": "generador-contrasena-segura",
     "title": "Generador de contraseñas seguras 🔐",
-    "html": "/generador-contrasena-segura",
+    "html": "https://fjmduran.com/generador-contrasena-segura",
     "icon": "https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
     "img": "https://github.com/fjmduran/images/blob/master/products/password-generator/cover.jpg?raw=true",
     "description": "Generador de contraseñas seguras",
@@ -380,7 +380,7 @@
   {
     "id": "cesta",
     "title": "Cesta supermercado",
-    "html": "/productos/cesta",
+    "html": "https://fjmduran.com/productos/cesta",
     "icon": "https://mcesta.web.app/assets/icons/icon-144x144.png",
     "img": "https://github.com/fjmduran/images/blob/master/products/mcesta/cover.jpg?raw=true",
     "description": "¿Te has olvidado algunas vez la lista de la compra en la cocina, en el imán de la nevera?",
@@ -413,7 +413,7 @@
   {
     "id": "qr",
     "title": "Generador de QR",
-    "html": "/qr-generator",
+    "html": "https://fjmduran.com/qr-generator",
     "icon": "https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
     "img": "https://github.com/fjmduran/images/blob/master/products/qr/cover.jpg?raw=true",
     "description": 
@@ -441,7 +441,7 @@
   {
     "id": "calculadora-riego",
     "title": "Calculadora de riego",
-    "html": "/calculadora-riego",
+    "html": "https://fjmduran.com/calculadora-riego",
     "icon": "https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
     "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Productos%2Fcalculadora-riego%2Friego-index.webp?alt=media&token=29e88443-2f41-4973-9a04-245be280ef7b",
     "description": "Ajusta y estima tus riegos en función a tu cuota. Confederación ha asignado una cuota de riego en función de tus hectáreas de cultivo. Ajusta y no te quedes sin agua cuando más falta te hace.",
