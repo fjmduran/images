@@ -2059,32 +2059,45 @@
     }
   },
   {
-    "id": "patron_factory",
-    "title": "¿Qué es el patrón de diseño factory? 🦺",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/factory-pattern/cover.jpg?raw=true",
-    "description": "Te explico el patrón de diseño factory con una analogía y ejemplos",
-    "tags": ["Informática", "Desarrollo de software"],
-    "date": "2023-05-14T19:01:54.511Z",
-    "html": "/blog/patron_factory",
+    "id": "replicando_datos_postgresql",
+    "title": "Replicando datos con PostgreSQL 🐘",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/postgreSync/cover.jpg?raw=true",
+    "description": "Replica datos de forma nativa con PostgreSQL, sin aplicaciones de terceros",
+    "tags": ["Bases de datos", "PostgreSQL"],
+    "date": "2023-05-14T19:51:54.511Z",
+    "html": "/blog/replicando_datos_postgresql",
     "metaTags": {
-      "title": "¿Qué es el patrón de diseño factory? 🦺",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/factory-pattern/cover.jpg?raw=true",
-      "description": "Te explico el patrón de diseño factory con una analogía y ejemplos"
+      "title": "Replicando datos con PostgreSQL 🐘",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/postgreSync/cover.jpg?raw=true",
+      "description": "Replica datos de forma nativa con PostgreSQL, sin aplicaciones de terceros"
     }
   },
-  
   {
     "id": "wcf_windows_communication_foundation",
     "title": "Errores con Windows Communication Foundation (WCF)",
     "img": "https://github.com/fjmduran/images/blob/master/blog/wcf/cover.jpg?raw=true",
     "description": "Recojo errores con los que he sudado sangre 🩸 con WCF de Microsoft",
     "tags": ["Informática", "TypeScript"],
-    "date": "2023-05-21T18:12:54.511Z",
+    "date": "2023-05-21T19:12:54.511Z",
     "html": "/blog/wcf_windows_communication_foundation",
     "metaTags": {
       "title": "Errores con Windows Communication Foundation (WCF)",
       "img": "https://github.com/fjmduran/images/blob/master/blog/wcf/cover.jpg?raw=true",
       "description": "Recojo errores con los que he sudado sangre 🩸 con WCF de Microsoft"
+    }
+  },
+  {
+    "id": "patron_factory",
+    "title": "¿Qué es el patrón de diseño factory? 🦺",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/factory-pattern/cover.jpg?raw=true",
+    "description": "Te explico el patrón de diseño factory con una analogía y ejemplos",
+    "tags": ["Informática", "Desarrollo de software"],
+    "date": "2023-05-28T19:01:54.511Z",
+    "html": "/blog/patron_factory",
+    "metaTags": {
+      "title": "¿Qué es el patrón de diseño factory? 🦺",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/factory-pattern/cover.jpg?raw=true",
+      "description": "Te explico el patrón de diseño factory con una analogía y ejemplos"
     }
   }
 ]
