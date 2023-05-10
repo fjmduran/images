@@ -2099,5 +2099,19 @@
       "img": "https://github.com/fjmduran/images/blob/master/blog/factory-pattern/cover.jpg?raw=true",
       "description": "Te explico el patrón de diseño factory con una analogía y ejemplos"
     }
+  },
+  {
+    "id": "conectar_postgresql_opc_hda",
+    "title": "Crea un servidor OPC 💻 de históricos con PostgreSQL 🐘",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/opc_hda_postgresql/cover.jpg?raw=true",
+    "description": "Te explico cómo crear un servidor OPC de históricos (HDA) tomando como fuente de datos un PostgreSQL",
+    "tags": ["PostgreSQL", "OPC"],
+    "date": "2024-06-04T19:01:54.511Z",
+    "html": "/blog/conectar_postgresql_opc_hda",
+    "metaTags": {
+      "title": "Crea un servidor OPC 💻 de históricos con PostgreSQL 🐘",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/opc_hda_postgresql/cover.jpg?raw=true",
+      "description": "Te explico cómo crear un servidor OPC de históricos (HDA) tomando como fuente de datos un PostgreSQL"
+    }
   }
 ]
