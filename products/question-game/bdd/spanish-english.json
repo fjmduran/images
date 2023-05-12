@@ -330,5 +330,37 @@
     {
         "question":"Cómo se dice cabeza en inglés?",
         "answer":"head"
+    },
+    {
+        "question":"Cómo se dice pelo?",
+        "answer":"hair"
+    },
+    {
+        "question":"Cómo se dice boca?",
+        "answer":"mouth"
+    },
+    {
+        "question":"Cómo se dice ojos?",
+        "answer":"eyes"
+    },
+    {
+        "question":"Cómo se dice orejas?",
+        "answer":"ears"
+    },
+    {
+        "question":"Cómo se dice saltar a la comba?",
+        "answer":"to skip a rope"
+    },
+    {
+        "question":"Cómo se dice caminar?",
+        "answer":"to walk"
+    },
+    {
+        "question":"Cómo se dice saltar (botar)?",
+        "answer":"to hop"
+    },
+    {
+        "question":"Cómo se dice saltar (dar un salto)?",
+        "answer":"to jump"
     }
 ]
