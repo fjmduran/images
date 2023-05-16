@@ -700,13 +700,13 @@
     }
   },
   {
-    "id": "markdown",
+    "id": "http://localhost:3000/blog/markdown-style-guide/",
     "title": "Markdown",
     "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fmarkdown.webp?alt=media&token=a35747b5-861c-4760-b3cc-1c9679b4d124",
     "description": "Ayuda rápida para escribir con Markdown",
     "tags": ["Recursos web"],
     "date": "2021-07-31T19:16:23.511Z",
-    "html": "/blog/markdown",
+    "html": "http://localhost:3000/blog/markdown-style-guide/",
     "metaTags": {
       "title": "Markdown",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fmarkdown.webp?alt=media&token=a35747b5-861c-4760-b3cc-1c9679b4d124",
@@ -2078,7 +2078,7 @@
     "img": "https://github.com/fjmduran/images/blob/master/blog/wcf/cover.jpg?raw=true",
     "description": "Recojo errores con los que he sudado sangre 🩸 con WCF de Microsoft",
     "tags": ["Informática", "TypeScript"],
-    "date": "2024-05-21T19:12:54.511Z",
+    "date": "2023-05-21T19:12:54.511Z",
     "html": "/blog/wcf_windows_communication_foundation",
     "metaTags": {
       "title": "Errores con Windows Communication Foundation (WCF)",
