@@ -700,16 +700,16 @@
     }
   },
   {
-    "id": "http://localhost:3000/blog/markdown-style-guide/",
+    "id": "markdown",
     "title": "Markdown",
-    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fmarkdown.webp?alt=media&token=a35747b5-861c-4760-b3cc-1c9679b4d124",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/markdown.jpg?raw=true",
     "description": "Ayuda rápida para escribir con Markdown",
     "tags": ["Recursos web"],
     "date": "2021-07-31T19:16:23.511Z",
     "html": "http://localhost:3000/blog/markdown-style-guide/",
     "metaTags": {
       "title": "Markdown",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fmarkdown.webp?alt=media&token=a35747b5-861c-4760-b3cc-1c9679b4d124",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/markdown.jpg?raw=true",
       "description": "Ayuda rápida para escribir con Markdown"
     }
   },
