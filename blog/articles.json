@@ -2065,7 +2065,7 @@
     "description": "Replica datos de forma nativa con PostgreSQL. Sin aplicaciones de terceros 🔥",
     "tags": ["Bases de datos", "PostgreSQL"],
     "date": "2023-05-14T19:51:54.511Z",
-    "html": "/blog/replicando_datos_postgresql",
+    "html": "https://quierounaapp.web.app/blog/replicando_datos_postgresql",
     "metaTags": {
       "title": "Replicando datos con PostgreSQL 🐘",
       "img": "https://github.com/fjmduran/images/blob/master/blog/postgreSync/cover.jpg?raw=true",
