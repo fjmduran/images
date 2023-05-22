@@ -316,51 +316,115 @@
         "answer":"knee"
     },
     {
-        "question":"Cómo se dice nariz en inglés?",
+        "question":"¿Cómo se dice nariz en inglés?",
         "answer":"nose"
     },
     {
-        "question":"Cómo se dice brazo en inglés?",
+        "question":"¿Cómo se dice brazo en inglés?",
         "answer":"arm"
     },
     {
-        "question":"Cómo se dice mano en inglés?",
+        "question":"¿Cómo se dice mano en inglés?",
         "answer":"hand"
     },
     {
-        "question":"Cómo se dice cabeza en inglés?",
+        "question":"¿Cómo se dice cabeza en inglés?",
         "answer":"head"
     },
     {
-        "question":"Cómo se dice pelo?",
+        "question":"¿Cómo se dice pelo en inglés?",
         "answer":"hair"
     },
     {
-        "question":"Cómo se dice boca?",
+        "question":"¿Cómo se dice boca en inglés?",
         "answer":"mouth"
     },
     {
-        "question":"Cómo se dice ojos?",
+        "question":"¿Cómo se dice ojos en inglés?",
         "answer":"eyes"
     },
     {
-        "question":"Cómo se dice orejas?",
+        "question":"¿Cómo se dice orejas en inglés?",
         "answer":"ears"
     },
     {
-        "question":"Cómo se dice saltar a la comba?",
+        "question":"¿Cómo se dice saltar a la comba en inglés?",
         "answer":"to skip a rope"
     },
     {
-        "question":"Cómo se dice caminar?",
+        "question":"¿Cómo se dice caminar en inglés?",
         "answer":"to walk"
     },
     {
-        "question":"Cómo se dice saltar (botar)?",
+        "question":"¿Cómo se dice saltar (botar) en inglés?",
         "answer":"to hop"
     },
     {
-        "question":"Cómo se dice saltar (dar un salto)?",
+        "question":"¿Cómo se dice saltar (dar un salto) en inglés?",
         "answer":"to jump"
+    },
+    {
+        "question":"¿Cómo se dice sopa en inglés?",
+        "answer":"soup"
+    },
+    {
+        "question":"¿Cómo se dice queso en inglés?",
+        "answer":"cheese"
+    },
+    {
+        "question":"¿Cómo se dice pescado en inglés?",
+        "answer":"fish"
+    },
+    {
+        "question":"¿Cómo se dice yogurt en inglés?",
+        "answer":"yogurt"
+    },
+    {
+        "question":"¿Cómo se dice fruta en inglés?",
+        "answer":"fruit"
+    },
+    {
+        "question":"¿Cómo se dice pollo en inglés?",
+        "answer":"chicken"
+    },
+    {
+        "question":"¿Cómo se dice ensalada en inglés?",
+        "answer":"salad"
+    },
+    {
+        "question":"¿Cómo se dice carne en inglés?",
+        "answer":"meat"
+    },
+    {
+        "question":"¿Cómo se dice tarta en inglés?",
+        "answer":"cake"
+    },
+    {
+        "question":"¿Cómo se dice leche en inglés?",
+        "answer":"milk"
+    },
+    {
+        "question":"¿Cómo se dice fresas en inglés?",
+        "answer":"strawberries"
+    },
+    {
+        "question":"¿Cómo se dice manzanas en inglés?",
+        "answer":"apples"
+    },
+    {
+        "question":"¿Cómo se dice peras en inglés?",
+        "answer":"soup"
+    },
+    {
+        "question":"¿Cómo se dice naranjas en inglés?",
+        "answer":"oranges"
+    },
+    {
+        "question":"¿Cómo se dice mangos en inglés?",
+        "answer":"mangoes"
+    },
+    {
+        "question":"¿Cómo se dice plátanos en inglés?",
+        "answer":"bananas"
     }
 ]
