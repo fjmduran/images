@@ -426,5 +426,17 @@
     {
         "question":"¿Cómo se dice plátanos en inglés?",
         "answer":"bananas"
+    },
+    {
+        "question":"¿Cómo se dice zumo en inglés?",
+        "answer":"juice"
+    },
+    {
+        "question":"¿Cómo se dice champiñones en inglés?",
+        "answer":"mushrooms"
+    },
+    {
+        "question":"¿Cómo se dice macarrones en inglés?",
+        "answer":"macarroni"
     }
 ]
