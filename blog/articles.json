@@ -2087,31 +2087,31 @@
     }
   },
   {
-    "id": "patron_factory",
-    "title": "¿Qué es el patrón de diseño factory? 🦺",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/factory-pattern/cover.jpg?raw=true",
-    "description": "Te explico el patrón de diseño factory con una analogía y ejemplos",
-    "tags": ["Informática", "Desarrollo de software"],
-    "date": "2024-05-28T19:01:54.511Z",
-    "html": "https://quiero1app.com/blog/patron_factory",
-    "metaTags": {
-      "title": "¿Qué es el patrón de diseño factory? 🦺",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/factory-pattern/cover.jpg?raw=true",
-      "description": "Te explico el patrón de diseño factory con una analogía y ejemplos"
-    }
-  },
-  {
     "id": "conectar_postgresql_opc_hda",
     "title": "Crea un servidor OPC 💻 de históricos con PostgreSQL 🐘",
     "img": "https://github.com/fjmduran/images/blob/master/blog/opc_hda_postgresql/cover.jpg?raw=true",
     "description": "Te explico cómo crear un servidor OPC de históricos (HDA) tomando como fuente de datos un PostgreSQL",
     "tags": ["PostgreSQL", "OPC"],
-    "date": "2024-06-04T19:01:54.511Z",
-    "html": "/blog/conectar_postgresql_opc_hda",
+    "date": "2024-05-28T19:01:54.511Z",
+    "html": "https://quiero1app.com/blog/conectar_postgresql_opc_hda",
     "metaTags": {
       "title": "Crea un servidor OPC 💻 de históricos con PostgreSQL 🐘",
       "img": "https://github.com/fjmduran/images/blob/master/blog/opc_hda_postgresql/cover.jpg?raw=true",
       "description": "Te explico cómo crear un servidor OPC de históricos (HDA) tomando como fuente de datos un PostgreSQL"
+    }
+  },
+  {
+    "id": "patron_factory",
+    "title": "¿Qué es el patrón de diseño factory? 🦺",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/factory-pattern/cover.jpg?raw=true",
+    "description": "Te explico el patrón de diseño factory con una analogía y ejemplos",
+    "tags": ["Informática", "Desarrollo de software"],
+    "date": "2025-05-28T19:01:54.511Z",
+    "html": "https://quiero1app.com/blog/patron_factory",
+    "metaTags": {
+      "title": "¿Qué es el patrón de diseño factory? 🦺",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/factory-pattern/cover.jpg?raw=true",
+      "description": "Te explico el patrón de diseño factory con una analogía y ejemplos"
     }
   }
 ]
