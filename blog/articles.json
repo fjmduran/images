@@ -1288,13 +1288,13 @@
     }
   },
   {
-    "id": "controlar-gasto-firebase",
+    "id": "controlar_gasto_firebase",
     "title": "Controla los gastos de tu proyecto de Firebase 🔥",
     "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Ffirebase.webp?alt=media&token=21981d62-cc58-4e98-850e-4e04d8da5ca8",
     "description": "Evita sorpresas desagradables por abusos en tu proyecto de Firebase 😨",
     "tags": ["Firebase"],
     "date": "2022-04-23T11:58:42.511Z",
-    "html": "/blog/controlar-gasto-firebase",
+    "html": "https://quiero1app.com/blog/controlar_gasto_firebase",
     "metaTags": {
       "title": "Controla los gastos de tu proyecto de Firebase 🔥",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Ffirebase.webp?alt=media&token=21981d62-cc58-4e98-850e-4e04d8da5ca8",
@@ -1994,7 +1994,7 @@
     "description": "Te enseño a desplegar tu aplicación de Angular en una carpeta distinta a la principal en Internet Information Services (IIS)",
     "tags": ["Angular", "IIS"],
     "date": "2023-04-09T19:08:54.511Z",
-    "html": "/blog/angular_iis_subruta",
+    "html": "https://quiero1app.com/blog/angular_iis_subruta",
     "metaTags": {
       "title": "Desplegar aplicación Angular en subruta del IIS (Internet Information Service) 👨‍💻",
       "img": "https://github.com/fjmduran/images/blob/master/blog/deploy-angular-iis/cover.jpg?raw=true",
@@ -2022,7 +2022,7 @@
     "description": "Si usas Firestore como base de datos vas a disminuir muchísimas lecturas de documentos del servidor ahorrando mucho dinero y aumentando el rendimiento de tu APP",
     "tags": ["Angular", "Firebase", "Bases de datos"],
     "date": "2023-04-23T21:47:23.511Z",
-    "html": "/blog/bajar_coste_subir_rendimiento_firestore",
+    "html": "https://quiero1app.com/blog/bajar_coste_subir_rendimiento_firestore",
     "metaTags": {
       "title": "Cachea Firestore 🔥 y baja los costes 💸 disparando el rendimiento ✅",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angularFire.jpg?raw=true",
