@@ -1966,7 +1966,7 @@
     "description": "Programo un servidor HTTP básico con peticiones POST",
     "tags": ["TypeScript", "Deno"],
     "date": "2023-03-26T19:25:42.511Z",
-    "html": "/blog/http_servidor_deno",
+    "html": "https://quiero1app.com/blog/http_servidor_deno",
     "metaTags": {
       "title": "Servidor HTTP con Deno 💻",
       "img": "https://github.com/fjmduran/images/blob/master/blog/deno_cover.jpg?raw=true",
