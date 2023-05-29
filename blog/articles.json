@@ -2101,12 +2101,26 @@
     }
   },
   {
+    "id": "angular_senales_signals",
+    "title": "Angular se pone en forma. Señales en Angular 🅰",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+    "description": "Te cuento cómo Angular se ha puesto en forma con las señales. Te enseño a acceder a ellas, modificarlas...",
+    "tags": ["Angular"],
+    "date": "2023-06-04T20:39:54.511Z",
+    "html": "https://quiero1app.com/blog/angular_senales_signals",
+    "metaTags": {
+      "title": "Angular se pone en forma. Señales en Angular 🅰",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+      "description": "Te cuento cómo Angular se ha puesto en forma con las señales. Te enseño a acceder a ellas, modificarlas..."
+    }
+  },
+  {
     "id": "patron_factory",
     "title": "¿Qué es el patrón de diseño factory? 🦺",
     "img": "https://github.com/fjmduran/images/blob/master/blog/factory-pattern/cover.jpg?raw=true",
     "description": "Te explico el patrón de diseño factory con una analogía y ejemplos",
     "tags": ["Informática", "Desarrollo de software"],
-    "date": "2025-05-28T19:01:54.511Z",
+    "date": "2024-06-04T20:46:54.511Z",
     "html": "https://quiero1app.com/blog/patron_factory",
     "metaTags": {
       "title": "¿Qué es el patrón de diseño factory? 🦺",
