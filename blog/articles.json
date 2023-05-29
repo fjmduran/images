@@ -2092,7 +2092,7 @@
     "img": "https://github.com/fjmduran/images/blob/master/blog/opc_hda_postgresql/cover.jpg?raw=true",
     "description": "Te explico cómo crear un servidor OPC de históricos (HDA) tomando como fuente de datos un PostgreSQL",
     "tags": ["PostgreSQL", "OPC"],
-    "date": "2024-05-28T19:01:54.511Z",
+    "date": "2023-05-28T19:01:54.511Z",
     "html": "https://quiero1app.com/blog/conectar_postgresql_opc_hda",
     "metaTags": {
       "title": "Crea un servidor OPC 💻 de históricos con PostgreSQL 🐘",
