@@ -2103,14 +2103,14 @@
   {
     "id": "angular_senales_signals",
     "title": "Angular se pone en forma. Señales en Angular 🅰",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angularSignals/cover.jpg?raw=true",
     "description": "Te cuento cómo Angular se ha puesto en forma con las señales. Te enseño a acceder a ellas, modificarlas...",
     "tags": ["Angular"],
     "date": "2023-06-04T20:39:54.511Z",
     "html": "https://quiero1app.com/blog/angular_senales_signals",
     "metaTags": {
       "title": "Angular se pone en forma. Señales en Angular 🅰",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angularSignals/cover.jpg?raw=true",
       "description": "Te cuento cómo Angular se ha puesto en forma con las señales. Te enseño a acceder a ellas, modificarlas..."
     }
   },
