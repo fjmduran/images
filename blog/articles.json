@@ -2115,6 +2115,20 @@
     }
   },
   {
+    "id": "punto_net7_minimal_api",
+    "title": "Minimal API con C# en .NET 7, filtros y Swagger",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/minimalAPI-NET6/cover.jpg?raw=true",
+    "description": "Te explico cómo crear una aplicación API REST con C# en .NET 7 implementando filtros y documentando con Swagger",
+    "tags": ["C#", ".NET"],
+    "date": "2023-06-11T20:02:43.511Z",
+    "html": "https://quiero1app.com/blog/punto_net7_minimal_api",
+    "metaTags": {
+      "title": "Minimal API con C# en .NET 7, filtros y Swagger",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/minimalAPI-NET6/cover.jpg?raw=true",
+      "description": "Te explico cómo crear una aplicación API REST con C# en .NET 7 implementando filtros y documentando con Swagger"
+    }
+  },
+  {
     "id": "patron_factory",
     "title": "¿Qué es el patrón de diseño factory? 🦺",
     "img": "https://github.com/fjmduran/images/blob/master/blog/factory-pattern/cover.jpg?raw=true",
