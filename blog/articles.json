@@ -2128,6 +2128,34 @@
       "description": "Te explico cómo crear una aplicación API REST con C# en .NET 7 implementando filtros y documentando con Swagger"
     }
   },
+   {
+    "id": "punto_net7_minimal_api_corrigiendo_cors",
+    "title": "Corrigiendo el error de CORS en una minimal API de .NET 7 🚑",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/cors_dotnet7/cover.jpg?raw=true",
+    "description": "Te explico cómo configurar correctamente las políticas de CORS en tu minimal API de .NET 7",
+    "tags": ["C#", ".NET"],
+    "date": "2023-06-18T21:08:43.511Z",
+    "html": "https://quiero1app.com/blog/punto_net7_minimal_api_corrigiendo_cors",
+    "metaTags": {
+      "title": "Corrigiendo el error de CORS en una minimal API de .NET 7 🚑",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/cors_dotnet7/cover.jpg?raw=true",
+    "description": "Te explico cómo configurar correctamente las políticas de CORS en tu minimal API de .NET 7"
+    }
+  },
+  {
+    "id": "procedimientos_almacenados_sql",
+    "title": "Procedimientos almacenados en SQL",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/storeProcedure/cover.jpg?raw=true",
+    "description": "¿Qué ventajas y desventajes tienen los procedimientos almacenados en SQL?",
+    "tags": ["Bases de datos", "PostgreSQL"],
+    "date": "2024-06-18T21:26:43.511Z",
+    "html": "https://quiero1app.com/blog/procedimientos_almacenados_sql",
+    "metaTags": {
+      "title": "Procedimientos almacenados en SQL",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/storeProcedure/cover.jpg?raw=true",
+    "description": "¿Qué ventajas y desventajes tienen los procedimientos almacenados en SQL?"
+    }
+  },
   {
     "id": "patron_factory",
     "title": "¿Qué es el patrón de diseño factory? 🦺",
