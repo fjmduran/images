@@ -2144,16 +2144,30 @@
   },
   {
     "id": "patron_factory",
-    "title": "¿Qué es el patrón de diseño factory? 🦺",
+    "title": "¿Qué es el patrón de diseño Factory? 🦺",
     "img": "https://github.com/fjmduran/images/blob/master/blog/factory-pattern/cover.jpg?raw=true",
-    "description": "Te explico el patrón de diseño factory con una analogía y ejemplos",
+    "description": "Te explico el patrón de diseño Factory con una analogía y ejemplos",
     "tags": ["Informática", "Desarrollo de software"],
     "date": "2023-06-25T20:37:54.511Z",
     "html": "https://quiero1app.com/blog/patron_factory",
     "metaTags": {
-      "title": "¿Qué es el patrón de diseño factory? 🦺",
+      "title": "¿Qué es el patrón de diseño Factory? 🦺",
       "img": "https://github.com/fjmduran/images/blob/master/blog/factory-pattern/cover.jpg?raw=true",
-      "description": "Te explico el patrón de diseño factory con una analogía y ejemplos"
+      "description": "Te explico el patrón de diseño Factory con una analogía y ejemplos"
+    }
+  },
+  {
+    "id": "concatenando_observables",
+    "title": "Concatenando observables en RXJS 🧵",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/rxjs.jpg?raw=true",
+    "description": "Te cuento cómo concatenar observables según tu necesidad",
+    "tags": ["Angular","TypeScript"],
+    "date": "2023-07-02T20:56:54.511Z",
+    "html": "https://quiero1app.com/blog/concatenando_observables",
+    "metaTags": {
+      "title": "Concatenando observables en RXJS 🧵",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/rxjs.jpg?raw=true",
+      "description": "Te cuento cómo concatenar observables según tu necesidad"
     }
   },
   {
