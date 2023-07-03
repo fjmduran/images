@@ -2147,7 +2147,7 @@
     "title": "¿Qué es el patrón de diseño Factory? 🦺",
     "img": "https://github.com/fjmduran/images/blob/master/blog/factory-pattern/cover.jpg?raw=true",
     "description": "Te explico el patrón de diseño Factory con una analogía y ejemplos",
-    "tags": ["Informática", "Desarrollo de software"],
+    "tags": ["Informática", "Desarrollo de software", "Patrones de diseño"],
     "date": "2023-06-25T20:37:54.511Z",
     "html": "https://quiero1app.com/blog/patron_factory",
     "metaTags": {
@@ -2168,6 +2168,20 @@
       "title": "Concatenando observables en RXJS 🧵",
       "img": "https://github.com/fjmduran/images/blob/master/blog/rxjs.jpg?raw=true",
       "description": "Te cuento cómo concatenar observables según tu necesidad"
+    }
+  },
+  {
+    "id": "patron_builder",
+    "title": "¿Qué es el patrón de diseño Builder? 👷",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/builder_pattern/cover.jpg?raw=true",
+    "description": "Te explico el patrón de diseño Builder",
+    "tags": ["Informática", "Desarrollo de software", "Patrones de diseño"],
+    "date": "2023-07-09T20:03:54.511Z",
+    "html": "https://quiero1app.com/blog/patron_builder",
+    "metaTags": {
+      "title": "¿Qué es el patrón de diseño Builder? 👷",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/builder_pattern/cover.jpg?raw=true",
+      "description": "Te explico el patrón de diseño Builder"
     }
   },
   {
