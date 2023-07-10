@@ -2128,7 +2128,7 @@
       "description": "Te explico cómo crear una aplicación API REST con C# en .NET 7 implementando filtros y documentando con Swagger"
     }
   },
-   {
+  {
     "id": "punto_net7_minimal_api_corrigiendo_cors",
     "title": "Corrigiendo el error de CORS en una minimal API de .NET 7 🚑",
     "img": "https://github.com/fjmduran/images/blob/master/blog/cors_dotnet7/cover.jpg?raw=true",
@@ -2138,8 +2138,8 @@
     "html": "https://quiero1app.com/blog/punto_net7_minimal_api_corrigiendo_cors",
     "metaTags": {
       "title": "Corrigiendo el error de CORS en una minimal API de .NET 7 🚑",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/cors_dotnet7/cover.jpg?raw=true",
-    "description": "Te explico cómo configurar correctamente las políticas de CORS en tu minimal API de .NET 7"
+      "img": "https://github.com/fjmduran/images/blob/master/blog/cors_dotnet7/cover.jpg?raw=true",
+      "description": "Te explico cómo configurar correctamente las políticas de CORS en tu minimal API de .NET 7"
     }
   },
   {
@@ -2161,7 +2161,7 @@
     "title": "Concatenando observables en RXJS 🧵",
     "img": "https://github.com/fjmduran/images/blob/master/blog/rxjs.jpg?raw=true",
     "description": "Te cuento cómo concatenar observables según tu necesidad",
-    "tags": ["Angular","TypeScript"],
+    "tags": ["Angular", "TypeScript"],
     "date": "2023-07-02T20:56:54.511Z",
     "html": "https://quiero1app.com/blog/concatenando_observables",
     "metaTags": {
@@ -2185,6 +2185,20 @@
     }
   },
   {
+    "id": "especificidad_css",
+    "title": "¿Qué es la especificidad en CSS? 🕵️‍♀️",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/css.jpg?raw=true",
+    "description": "Te explico cómo se asignan los estilos CSS a los elementos cuando existen varios estilos compitiendo por asignarse a un mismo elemento, la clave es la especificidad.",
+    "tags": ["CSS"],
+    "date": "2023-07-16T19:56:54.511Z",
+    "html": "https://quiero1app.com/blog/especificidad_css",
+    "metaTags": {
+      "title": "¿Qué es la especificidad en CSS? 🕵️‍♀️",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/css.jpg?raw=true",
+      "description": "Te explico cómo se asignan los estilos CSS a los elementos cuando existen varios estilos compitiendo por asignarse a un mismo elemento, la clave es la especificidad."
+    }
+  },
+  {
     "id": "procedimientos_almacenados_sql",
     "title": "Procedimientos almacenados en SQL",
     "img": "https://github.com/fjmduran/images/blob/master/blog/storeProcedure/cover.jpg?raw=true",
@@ -2194,8 +2208,8 @@
     "html": "https://quiero1app.com/blog/procedimientos_almacenados_sql",
     "metaTags": {
       "title": "Procedimientos almacenados en SQL",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/storeProcedure/cover.jpg?raw=true",
-    "description": "¿Qué ventajas y desventajes tienen los procedimientos almacenados en SQL?"
+      "img": "https://github.com/fjmduran/images/blob/master/blog/storeProcedure/cover.jpg?raw=true",
+      "description": "¿Qué ventajas y desventajes tienen los procedimientos almacenados en SQL?"
     }
   }
 ]
