@@ -2191,12 +2191,26 @@
     "img": "https://github.com/fjmduran/images/blob/master/blog/css.jpg?raw=true",
     "description": "Te explico cómo se asignan los estilos CSS a los elementos cuando existen varios estilos compitiendo por asignarse a un mismo elemento, la clave es la especificidad.",
     "tags": ["CSS"],
-    "date": "2023-07-16T19:56:54.511Z",
+    "date": "2023-07-16T19:56:54.511Z",    
     "html": "https://quiero1app.com/blog/especificidad_css",
     "metaTags": {
       "title": "¿Qué es la especificidad en CSS? 🕵️‍♀️",
       "img": "https://github.com/fjmduran/images/blob/master/blog/css.jpg?raw=true",
       "description": "Te explico cómo se asignan los estilos CSS a los elementos cuando existen varios estilos compitiendo por asignarse a un mismo elemento, la clave es la especificidad."
+    }
+  },
+   {
+    "id": "probando_proyecto_angular_en_dispositivo_fisico",
+    "title": "Ejecuta tu proyecto Angular en un smartphone o tablet 🚀",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+    "description": "Es muy útil usar las herramientas de desarrollo de los navegadores para probar nuestras aplicaciones con distintas configuraciones de pantalla, pero a veces, no refleja el comportamiento real en un dispositivio físico. Por este motivo te enseñaré a correr tu aplicación Angular en tu smartphone o tablet.",
+    "tags": ["Angular"],
+    "date": "2023-07-23T21:15:54.511Z",
+    "html": "https://quiero1app.com/blog/probando_proyecto_angular_en_dispositivo_fisico",
+    "metaTags": {
+      "title": "Ejecuta tu proyecto Angular en un smartphone o tablet 🚀",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+    "description": "Es muy útil usar las herramientas de desarrollo de los navegadores para probar nuestras aplicaciones con distintas configuraciones de pantalla, pero a veces, no refleja el comportamiento real en un dispositivio físico. Por este motivo te enseñaré a correr tu aplicación Angular en tu smartphone o tablet."
     }
   },
   {
