@@ -1743,7 +1743,7 @@
     "description": "¿Quieres instalar Angular 15?, ¿quieres actualizar o migrar a Angular 15?, ¿quieres saber qué trae esta nueva versión de Angular?",
     "tags": ["Angular"],
     "date": "2022-11-25T05:42:43.511Z",
-    "html": "/blog/angular-15",
+    "html": "https://quiero1app.com/blog/angular-15",
     "metaTags": {
       "title": "Instalar o migrar a Angular 15 🅰",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -2191,7 +2191,7 @@
     "img": "https://github.com/fjmduran/images/blob/master/blog/css.jpg?raw=true",
     "description": "Te explico cómo se asignan los estilos CSS a los elementos cuando existen varios estilos compitiendo por asignarse a un mismo elemento, la clave es la especificidad.",
     "tags": ["CSS"],
-    "date": "2023-07-16T19:56:54.511Z",    
+    "date": "2023-07-16T19:56:54.511Z",
     "html": "https://quiero1app.com/blog/especificidad_css",
     "metaTags": {
       "title": "¿Qué es la especificidad en CSS? 🕵️‍♀️",
@@ -2199,7 +2199,7 @@
       "description": "Te explico cómo se asignan los estilos CSS a los elementos cuando existen varios estilos compitiendo por asignarse a un mismo elemento, la clave es la especificidad."
     }
   },
-   {
+  {
     "id": "probando_proyecto_angular_en_dispositivo_fisico",
     "title": "Ejecuta tu proyecto Angular en un smartphone o tablet 🚀",
     "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -2209,8 +2209,22 @@
     "html": "https://quiero1app.com/blog/probando_proyecto_angular_en_dispositivo_fisico",
     "metaTags": {
       "title": "Ejecuta tu proyecto Angular en un smartphone o tablet 🚀",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+      "description": "Es muy útil usar las herramientas de desarrollo de los navegadores para probar nuestras aplicaciones con distintas configuraciones de pantalla, pero a veces, no refleja el comportamiento real en un dispositivio físico. Por este motivo te enseñaré a correr tu aplicación Angular en tu smartphone o tablet."
+    }
+  },
+  {
+    "id": "programando_plugin_impresora_termica",
+    "title": "Programando un plugin para trabajar con una impresora térmica",
     "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
-    "description": "Es muy útil usar las herramientas de desarrollo de los navegadores para probar nuestras aplicaciones con distintas configuraciones de pantalla, pero a veces, no refleja el comportamiento real en un dispositivio físico. Por este motivo te enseñaré a correr tu aplicación Angular en tu smartphone o tablet."
+    "description": "He programado un plugin en C# para una impresora térmica de 58mm. Estas impresoras son también conocidas como impresoras ESC/POS (Epson Standard Code for Point of Sale) y son las típicas que se usan en los comercios para facilitar los tickets de venta.",
+    "tags": ["C#", "Informática"],
+    "date": "2024-05-24T21:15:54.511Z",
+    "html": "https://quiero1app.com/blog/programando_plugin_impresora_termica",
+    "metaTags": {
+      "title": "Programando un plugin para trabajar con una impresora térmica",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+      "description": "He programado un plugin en C# para una impresora térmica de 58mm. Estas impresoras son también conocidas como impresoras ESC/POS (Epson Standard Code for Point of Sale) y son las típicas que se usan en los comercios para facilitar los tickets de venta."
     }
   },
   {

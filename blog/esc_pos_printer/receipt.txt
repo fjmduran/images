@@ -14,3 +14,23 @@ IVA:
 Código QR del ticket
 
 Gracias por su visita
+
+----------------------------------------------------------
+DESIGN 2
+----------------------------------------------------------
+COMO EN CASA
+
+FECHA
+HORA
+
+UDS CONCEPTO              EU/UD
+
+1   21 caracteres         00.00
+
+TOTAL: 
+Base:
+IVA:
+
+Código QR del ticket
+
+Gracias por su visita
