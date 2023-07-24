@@ -2217,14 +2217,14 @@
   {
     "id": "programando_plugin_impresora_termica",
     "title": "Programando un plugin para trabajar con una impresora térmica",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/esc_pos_printer/cover.jpg?raw=true",
     "description": "He programado un plugin en C# para una impresora térmica de 58mm. Estas impresoras son también conocidas como impresoras ESC/POS (Epson Standard Code for Point of Sale) y son las típicas que se usan en los comercios para facilitar los tickets de venta.",
     "tags": ["C#", "Informática"],
     "date": "2024-05-24T21:15:54.511Z",
     "html": "https://quiero1app.com/blog/programando_plugin_impresora_termica",
     "metaTags": {
       "title": "Programando un plugin para trabajar con una impresora térmica",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/esc_pos_printer/cover.jpg?raw=true",
       "description": "He programado un plugin en C# para una impresora térmica de 58mm. Estas impresoras son también conocidas como impresoras ESC/POS (Epson Standard Code for Point of Sale) y son las típicas que se usan en los comercios para facilitar los tickets de venta."
     }
   },
