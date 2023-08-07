@@ -314,7 +314,7 @@
     "description": "En este artículo te explicaré cómo leer ficheros locales JSON con Angular",
     "tags": ["Angular"],
     "date": "2021-01-23T12:58:42.511Z",
-    "html": "/blog/leer-json-angular",
+    "html": "https://quiero1app.com/blog/leer-json-angular",
     "metaTags": {
       "title": "Leer fichero JSON con Angular",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angularJSON/cover.jpg?raw=true",
@@ -1155,7 +1155,7 @@
     "description": "Aprende a obtener el valor de un input en el fichero HTML desde el fichero de TypeScript de la forma más fácil y rápida",
     "tags": ["Informática", "Ciencía y tecnología", "Angular"],
     "date": "2022-02-12T16:52:42.511Z",
-    "html": "https://quiero1app.com/blog/input-value-a-typescript",
+    "html": "https://quiero1app.com/blog/blog/input-value-a-typescript",
     "metaTags": {
       "title": "Envía el valor de un input al fichero de TypeScript",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
