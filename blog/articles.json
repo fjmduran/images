@@ -2229,6 +2229,20 @@
     }
   },
   {
+    "id": "forzar_ultima_version_aplicacion_angular",
+    "title": "Forzando a consumir la última versión de una aplicación Angular🧐",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/last_version_angular_app_mandatory/cover.jpg?raw=true",
+    "description": "Angular dispone de herramientas nativas para obligar al cliente que consuma nuestra aplicación a utilizar la última versión desplegada. No necesitarás librerías de tercero.",
+    "tags": ["Angular"],
+    "date": "2023-08-13T20:47:54.511Z",
+    "html": "https://quiero1app.com/blog/forzar_ultima_version_aplicacion_angular",
+    "metaTags": {
+      "title": "Forzando a consumir la última versión de una aplicación Angular🧐",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/last_version_angular_app_mandatory/cover.jpg?raw=true",
+    "description": "Angular dispone de herramientas nativas para obligar al cliente que consuma nuestra aplicación a utilizar la última versión desplegada. No necesitarás librerías de tercero."
+    }
+  },
+  {
     "id": "procedimientos_almacenados_sql",
     "title": "Procedimientos almacenados en SQL",
     "img": "https://github.com/fjmduran/images/blob/master/blog/storeProcedure/cover.jpg?raw=true",
