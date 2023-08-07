@@ -1155,7 +1155,7 @@
     "description": "Aprende a obtener el valor de un input en el fichero HTML desde el fichero de TypeScript de la forma más fácil y rápida",
     "tags": ["Informática", "Ciencía y tecnología", "Angular"],
     "date": "2022-02-12T16:52:42.511Z",
-    "html": "/blog/input-value-a-typescript",
+    "html": "https://quiero1app.com/blog/input-value-a-typescript",
     "metaTags": {
       "title": "Envía el valor de un input al fichero de TypeScript",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -2232,14 +2232,14 @@
     "id": "forzar_ultima_version_aplicacion_angular",
     "title": "Forzando a consumir la última versión de una aplicación Angular🧐",
     "img": "https://github.com/fjmduran/images/blob/master/blog/last_version_angular_app_mandatory/cover.jpg?raw=true",
-    "description": "Angular dispone de herramientas nativas para obligar al cliente que consuma nuestra aplicación a utilizar la última versión desplegada. No necesitarás librerías de tercero.",
+    "description": "Angular dispone de herramientas nativas para obligar al cliente que consuma nuestra aplicación a utilizar la última versión desplegada. No necesitarás librerías de terceros 😎",
     "tags": ["Angular"],
     "date": "2023-08-13T20:47:54.511Z",
     "html": "https://quiero1app.com/blog/forzar_ultima_version_aplicacion_angular",
     "metaTags": {
       "title": "Forzando a consumir la última versión de una aplicación Angular🧐",
     "img": "https://github.com/fjmduran/images/blob/master/blog/last_version_angular_app_mandatory/cover.jpg?raw=true",
-    "description": "Angular dispone de herramientas nativas para obligar al cliente que consuma nuestra aplicación a utilizar la última versión desplegada. No necesitarás librerías de tercero."
+    "description": "Angular dispone de herramientas nativas para obligar al cliente que consuma nuestra aplicación a utilizar la última versión desplegada. No necesitarás librerías de terceros 😎"
     }
   },
   {
