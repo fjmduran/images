@@ -393,14 +393,14 @@
   },
   {
     "id": "angular-pipes",
-    "title": "Uso de pipes en Angular",
+    "title": "¿Qué son los pipes de Angular?",
     "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
     "description": "En este artículo te explicaré qué es y cómo usar los pipes de Angular",
     "tags": ["Angular"],
     "date": "2021-02-13T11:32:42.511Z",
-    "html": "/blog/angular-pipes",
+    "html": "https://quiero1app.com/blog/angular-pipes",
     "metaTags": {
-      "title": "Uso de pipes en Angular",
+      "title": "¿Qué son los pipes de Angular?",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
       "description": "En este artículo te explicaré qué es y cómo usar los pipes de Angular"
     }
@@ -1659,7 +1659,7 @@
     "description": "Solventa el error de CORS en tus proyectos de Angular con un proxy",
     "tags": ["Angular"],
     "date": "2022-10-15T15:56:54.511Z",
-    "html": "/blog/proxy-cors-angular",
+    "html": "https://quiero1app.com/blog/proxy-cors-angular",
     "metaTags": {
       "title": "Solucionando el problema de CORS en Angular 🅰",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angularProxy/cover.jpg?raw=true",
