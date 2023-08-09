@@ -2052,7 +2052,7 @@
     "description": "¿Por qué para mí Angular 16 es una super versión?, ¿Quieres instalar Angular 16?, ¿quieres actualizar o migrar a Angular 16?, ¿quieres saber qué trae esta súper versión de Angular?",
     "tags": ["Angular"],
     "date": "2023-05-07T19:51:54.511Z",
-    "updateDate":"2023-07-17T19:51:54.511Z",
+    "updateDate": "2023-07-17T19:51:54.511Z",
     "html": "https://quiero1app.com/blog/angular_16",
     "metaTags": {
       "title": "Angular 16, una super versión 🦸‍♂️",
@@ -2238,8 +2238,22 @@
     "html": "https://quiero1app.com/blog/forzar_ultima_version_aplicacion_angular",
     "metaTags": {
       "title": "Forzando a consumir la última versión de una aplicación Angular🧐",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/last_version_angular_app_mandatory/cover.jpg?raw=true",
-    "description": "Angular dispone de herramientas nativas para obligar al cliente que consuma nuestra aplicación a utilizar la última versión desplegada. No necesitarás librerías de terceros 😎"
+      "img": "https://github.com/fjmduran/images/blob/master/blog/last_version_angular_app_mandatory/cover.jpg?raw=true",
+      "description": "Angular dispone de herramientas nativas para obligar al cliente que consuma nuestra aplicación a utilizar la última versión desplegada. No necesitarás librerías de terceros 😎"
+    }
+  },
+  {
+    "id": "nueva_medida_css_dvh",
+    "title": "Nueva variable para el tamaño de la pantalla en CSS",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/dvh_css/cover.jpg?raw=true",
+    "description": "La nueva variable que CSS ha puesto disponible para la obtención de la medida vertical de pantalla disponible es una maravilla. Te cuento en detalle qué variables teníamos hasta ahora y cómo funciona la nueva variable dvh.",
+    "tags": ["CSS"],
+    "date": "2023-08-20T20:03:41.511Z",
+    "html": "https://quiero1app.com/blog/nueva_medida_css_dvh",
+    "metaTags": {
+      "title": "Nueva variable para el tamaño de la pantalla en CSS",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/dvh_css/cover.jpg?raw=true",
+      "description": "La nueva variable que CSS ha puesto disponible para la obtención de la medida vertical de pantalla disponible es una maravilla. Te cuento en detalle qué variables teníamos hasta ahora y cómo funciona la nueva variable dvh."
     }
   },
   {
