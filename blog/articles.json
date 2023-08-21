@@ -174,6 +174,7 @@
     "description": "En este artículo te diré los hosting gratuitos que he usado para mis despliegues de prueba",
     "tags": ["Recursos web"],
     "date": "2020-08-22T14:43:43.511Z",
+    "updateDate":"2023-08-20T10:43:43.511Z",
     "html": "/blog/hosting-free",
     "metaTags": {
       "title": "Hosting gratuitos para hacer despliegues para lo que necesites, pruebas, enseñar un producto a un cliente...",
@@ -706,7 +707,7 @@
     "description": "Ayuda rápida para escribir con Markdown",
     "tags": ["Recursos web"],
     "date": "2021-07-31T19:16:23.511Z",
-    "html": "http://localhost:3000/blog/markdown-style-guide/",
+    "html": "/blog/markdown-style-guide/",
     "metaTags": {
       "title": "Markdown",
       "img": "https://github.com/fjmduran/images/blob/master/blog/markdown.jpg?raw=true",
@@ -1631,7 +1632,8 @@
     "description": "Te explico cómo crear una aplicación API REST con el menor código posible con C# en .NET 6",
     "tags": ["C#", ".NET"],
     "date": "2022-10-02T08:32:43.511Z",
-    "html": "/blog/punto-net6-minimal-api",
+    "updateDate":"2023-08-06T12:07:43.511Z",
+    "html": "https://quiero1app.com/blog/punto-net6-minimal-api",
     "metaTags": {
       "title": "Minimal API con C# en .NET 6",
       "img": "https://github.com/fjmduran/images/blob/master/blog/minimalAPI-NET6/cover.jpg?raw=true",
@@ -2244,16 +2246,16 @@
   },
   {
     "id": "nueva_medida_css_dvh",
-    "title": "Nueva variable para el tamaño de la pantalla en CSS",
+    "title": "Nuevas variables para el tamaño de la pantalla en CSS",
     "img": "https://github.com/fjmduran/images/blob/master/blog/dvh_css/cover.jpg?raw=true",
-    "description": "La nueva variable que CSS ha puesto disponible para la obtención de la medida vertical de pantalla disponible es una maravilla. Te cuento en detalle qué variables teníamos hasta ahora y cómo funciona la nueva variable dvh.",
+    "description": "Las nuevas variables que CSS ha puesto disponible para la obtención de la medida vertical de pantalla disponible son una maravilla. Te cuento en detalle qué variables teníamos hasta ahora y cómo funciona la nueva variable dvh.",
     "tags": ["CSS"],
     "date": "2023-08-20T20:03:41.511Z",
     "html": "https://quiero1app.com/blog/nueva_medida_css_dvh",
     "metaTags": {
-      "title": "Nueva variable para el tamaño de la pantalla en CSS",
+      "title": "Nuevas variables para el tamaño de la pantalla en CSS",
       "img": "https://github.com/fjmduran/images/blob/master/blog/dvh_css/cover.jpg?raw=true",
-      "description": "La nueva variable que CSS ha puesto disponible para la obtención de la medida vertical de pantalla disponible es una maravilla. Te cuento en detalle qué variables teníamos hasta ahora y cómo funciona la nueva variable dvh."
+      "description": "Las nuevas variables que CSS ha puesto disponible para la obtención de la medida vertical de pantalla disponible son una maravilla. Te cuento en detalle qué variables teníamos hasta ahora y cómo funciona la nueva variable dvh."
     }
   },
   {
