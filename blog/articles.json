@@ -174,7 +174,7 @@
     "description": "En este artículo te diré los hosting gratuitos que he usado para mis despliegues de prueba",
     "tags": ["Recursos web"],
     "date": "2020-08-22T14:43:43.511Z",
-    "updateDate":"2023-08-20T10:43:43.511Z",
+    "updateDate": "2023-08-20T10:43:43.511Z",
     "html": "/blog/hosting-free",
     "metaTags": {
       "title": "Hosting gratuitos para hacer despliegues para lo que necesites, pruebas, enseñar un producto a un cliente...",
@@ -1632,7 +1632,7 @@
     "description": "Te explico cómo crear una aplicación API REST con el menor código posible con C# en .NET 6",
     "tags": ["C#", ".NET"],
     "date": "2022-10-02T08:32:43.511Z",
-    "updateDate":"2023-08-06T12:07:43.511Z",
+    "updateDate": "2023-08-06T12:07:43.511Z",
     "html": "https://quiero1app.com/blog/punto-net6-minimal-api",
     "metaTags": {
       "title": "Minimal API con C# en .NET 6",
@@ -2260,16 +2260,16 @@
   },
   {
     "id": "programar_backup_automatico_windows_microsoft_sql_server",
-    "title": "Programando backups automático en SQL Server",
+    "title": "Programando backups automáticos y periódicos en SQL Server",
     "img": "https://github.com/fjmduran/images/blob/master/blog/backupSQLServer/cover.jpg?raw=true",
     "description": "Te cuento cómo programar backups automáticos y periódicos de tus bases de datos de Microsoft SQL Server en Windows.",
     "tags": ["Bases de datos", "Windows"],
     "date": "2023-08-27T19:42:43.511Z",
     "html": "https://quiero1app.com/blog/programar_backup_automatico_windows_microsoft_sql_server",
     "metaTags": {
-      "title": "Programando backups automático en SQL Server",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/backupSQLServer/cover.jpg?raw=true",
-    "description": "Te cuento cómo programar backups automáticos y periódicos de tus bases de datos de Microsoft SQL Server en Windows."
+      "title": "Programando backups automáticos y periódicos en SQL Server",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/backupSQLServer/cover.jpg?raw=true",
+      "description": "Te cuento cómo programar backups automáticos y periódicos de tus bases de datos de Microsoft SQL Server en Windows."
     }
   },
   {
