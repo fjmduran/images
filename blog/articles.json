@@ -2259,17 +2259,45 @@
     }
   },
   {
+    "id": "programar_backup_automatico_windows_microsoft_sql_server",
+    "title": "Programando backups automático en SQL Server",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/backupSQLServer/cover.jpg?raw=true",
+    "description": "Te cuento cómo programar backups automáticos y periódicos de tus bases de datos de Microsoft SQL Server en Windows.",
+    "tags": ["Bases de datos", "Windows"],
+    "date": "2023-08-27T19:42:43.511Z",
+    "html": "https://quiero1app.com/blog/programar_backup_automatico_windows_microsoft_sql_server",
+    "metaTags": {
+      "title": "Programando backups automático en SQL Server",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/backupSQLServer/cover.jpg?raw=true",
+    "description": "Te cuento cómo programar backups automáticos y periódicos de tus bases de datos de Microsoft SQL Server en Windows."
+    }
+  },
+  {
     "id": "crear_servicio_punto_net6_posteriores",
     "title": "Crear un servicio con C# y .NET6 o posteriores",
     "img": "https://github.com/fjmduran/images/blob/master/blog/servicesWithDotNET/cover.jpg?raw=true",
     "description": "Te explico cómo crear un servicio con .NET6 y versiones posteriores como .NET7. Podrás correr el servicio en cualquier Sistema Operativo. Para te enseñaré a crear aplicaciones que corren en segundo plano o background.",
     "tags": ["C#", ".NET"],
-    "date": "2023-08-27T19:42:43.511Z",
+    "date": "2023-09-10T20:14:43.511Z",
     "html": "https://quiero1app.com/blog/crear_servicio_punto_net6_posteriores",
     "metaTags": {
       "title": "Crear un servicio con C# y .NET6 o posteriores",
       "img": "https://github.com/fjmduran/images/blob/master/blog/servicesWithDotNET/cover.jpg?raw=true",
       "description": "Te explico cómo crear un servicio con .NET6 y versiones posteriores como .NET7. Podrás correr el servicio en cualquier Sistema Operativo. Para te enseñaré a crear aplicaciones que corren en segundo plano o background."
+    }
+  },
+  {
+    "id": "jwt_punto_net7_minimal_api_filtro",
+    "title": "Autenticación en una minimal API con .NET 7 y JWT",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/jwtDotNet/cover.jpg?raw=true",
+    "description": "Te explico cómo añadir autenticación a tu API con .NET7 utilizando la estrategia de JWT. Crearemos la autenticación como un filtro para poder reutilizar dicho proceso de autenticación en todos nuestros endpoints.",
+    "tags": ["C#", ".NET"],
+    "date": "2023-09-27T19:42:43.511Z",
+    "html": "https://quiero1app.com/blog/jwt_punto_net7_minimal_api_filtro",
+    "metaTags": {
+      "title": "Autenticación en una minimal API con .NET 7 y JWT",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/jwtDotNet/cover.jpg?raw=true",
+      "description": "Te explico cómo añadir autenticación a tu API con .NET7 utilizando la estrategia de JWT. Crearemos la autenticación como un filtro para poder reutilizar dicho proceso de autenticación en todos nuestros endpoints."
     }
   },
   {
