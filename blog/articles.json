@@ -2287,6 +2287,20 @@
     }
   },
   {
+    "id": "simulador_placas_desarrollo_arduino_esp32",
+    "title": "Simulador para placas de desarrollo Arduino, ESP32, ESP8266...",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/esp32_simulator/cover.jpg?raw=true",
+    "description": "Te dejo un simulador de placas desarrollo. Con él no necesitarás comprar placas de desarrollo (Arduino, ESP32, ESP8266...) para probar tus programas.",
+    "tags": ["IoT"],
+    "date": "2023-09-17T20:04:43.511Z",
+    "html": "https://quiero1app.com/blog/simulador_placas_desarrollo_arduino_esp32",
+    "metaTags": {
+      "title": "Simulador para placas de desarrollo Arduino, ESP32, ESP8266...",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/esp32_simulator/cover.jpg?raw=true",
+      "description": "Te dejo un simulador de placas desarrollo. Con él no necesitarás comprar placas de desarrollo (Arduino, ESP32, ESP8266...) para probar tus programas."
+    }
+  },
+  {
     "id": "jwt_punto_net7_minimal_api_filtro",
     "title": "Autenticación en una minimal API con .NET 7 y JWT",
     "img": "https://github.com/fjmduran/images/blob/master/blog/jwtDotNet/cover.jpg?raw=true",
