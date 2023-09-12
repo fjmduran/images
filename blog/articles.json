@@ -2301,6 +2301,20 @@
     }
   },
   {
+    "id": "automatiza_peticion_requiere_login_postman",
+    "title": "Automatizando peticiones HTTP que requieren autenticación con Postman",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/automating_postman/cover.jpg?raw=true",
+    "description": "Te enseño cómo automatizar Postman para que cuando tengas que hacer pruebas de tus APIs que requieren de autenticación no tengas que hacer dicha autenticación manualmente.",
+    "tags": ["Informática","JavaScript"],
+    "date": "2023-09-24T20:42:43.511Z",
+    "html": "https://quiero1app.com/blog/automatiza_peticion_requiere_login_postman",
+    "metaTags": {
+      "title": "Automatizando peticiones HTTP que requieren autenticación con Postman",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/automating_postman/cover.jpg?raw=true",
+    "description": "Te enseño cómo automatizar Postman para que cuando tengas que hacer pruebas de tus APIs que requieren de autenticación no tengas que hacer dicha autenticación manualmente."
+    }
+  },
+  {
     "id": "jwt_punto_net7_minimal_api_filtro",
     "title": "Autenticación en una minimal API con .NET 7 y JWT",
     "img": "https://github.com/fjmduran/images/blob/master/blog/jwtDotNet/cover.jpg?raw=true",
