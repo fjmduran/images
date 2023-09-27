@@ -2305,13 +2305,13 @@
     "title": "Automatizando peticiones HTTP que requieren autenticación con Postman",
     "img": "https://github.com/fjmduran/images/blob/master/blog/automating_postman/cover.jpg?raw=true",
     "description": "Te enseño cómo automatizar Postman para que cuando tengas que hacer pruebas de tus APIs que requieren de autenticación no tengas que hacer dicha autenticación manualmente.",
-    "tags": ["Informática","JavaScript"],
+    "tags": ["Informática", "JavaScript"],
     "date": "2023-09-24T20:42:43.511Z",
     "html": "https://quiero1app.com/blog/automatiza_peticion_requiere_login_postman",
     "metaTags": {
       "title": "Automatizando peticiones HTTP que requieren autenticación con Postman",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/automating_postman/cover.jpg?raw=true",
-    "description": "Te enseño cómo automatizar Postman para que cuando tengas que hacer pruebas de tus APIs que requieren de autenticación no tengas que hacer dicha autenticación manualmente."
+      "img": "https://github.com/fjmduran/images/blob/master/blog/automating_postman/cover.jpg?raw=true",
+      "description": "Te enseño cómo automatizar Postman para que cuando tengas que hacer pruebas de tus APIs que requieren de autenticación no tengas que hacer dicha autenticación manualmente."
     }
   },
   {
@@ -2326,6 +2326,20 @@
       "title": "Autenticación en una minimal API con .NET 7 y JWT",
       "img": "https://github.com/fjmduran/images/blob/master/blog/jwtDotNet/cover.jpg?raw=true",
       "description": "Te explico cómo añadir autenticación a tu API con .NET7 utilizando la estrategia de JWT. Crearemos la autenticación como un filtro para poder reutilizar dicho proceso de autenticación en todos nuestros endpoints."
+    }
+  },
+  {
+    "id": "radio_frecuencia_arduino_esp32",
+    "title": "Aprendiendo a programar radiofrecuencia con Arduino, ESP32...",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/rfi_arduino/cover.jpg?raw=true",
+    "description": "Te cuento cómo programar sensores y transmisores por radiofrecuencia con placas de desarrollo tipo Arduino, ESP32, ESP8266...",
+    "tags": ["IoT", "Arduino"],
+    "date": "2023-10-02T20:04:43.511Z",
+    "html": "https://quiero1app.com/blog/radio_frecuencia_arduino_esp32",
+    "metaTags": {
+      "title": "Aprendiendo a programar radiofrecuencia con Arduino, ESP32...",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/rfi_arduino/cover.jpg?raw=true",
+      "description": "Te cuento cómo programar sensores y transmisores por radiofrecuencia con placas de desarrollo tipo Arduino, ESP32, ESP8266..."
     }
   },
   {
