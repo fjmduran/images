@@ -2125,6 +2125,7 @@
     "description": "Te explico cómo crear una aplicación API REST con C# en .NET 7 implementando filtros y documentando con Swagger",
     "tags": ["C#", ".NET"],
     "date": "2023-06-11T20:02:43.511Z",
+    "updateDate":"2023-10-08T11:37:23.511Z",
     "html": "https://quiero1app.com/blog/punto_net7_minimal_api",
     "metaTags": {
       "title": "Minimal API con C# en .NET 7, filtros y Swagger",
