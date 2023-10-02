@@ -2125,7 +2125,7 @@
     "description": "Te explico cómo crear una aplicación API REST con C# en .NET 7 implementando filtros y documentando con Swagger",
     "tags": ["C#", ".NET"],
     "date": "2023-06-11T20:02:43.511Z",
-    "updateDate":"2023-10-08T11:37:23.511Z",
+    "updateDate": "2023-10-08T11:37:23.511Z",
     "html": "https://quiero1app.com/blog/punto_net7_minimal_api",
     "metaTags": {
       "title": "Minimal API con C# en .NET 7, filtros y Swagger",
@@ -2335,12 +2335,26 @@
     "img": "https://github.com/fjmduran/images/blob/master/blog/rfi_arduino/cover.jpg?raw=true",
     "description": "Te cuento cómo programar sensores y transmisores por radiofrecuencia con placas de desarrollo tipo Arduino, ESP32, ESP8266...",
     "tags": ["IoT", "Arduino"],
-    "date": "2023-10-02T20:04:43.511Z",
+    "date": "2023-10-29T20:04:43.511Z",
     "html": "https://quiero1app.com/blog/radio_frecuencia_arduino_esp32",
     "metaTags": {
       "title": "Aprendiendo a programar radiofrecuencia con Arduino, ESP32...",
       "img": "https://github.com/fjmduran/images/blob/master/blog/rfi_arduino/cover.jpg?raw=true",
       "description": "Te cuento cómo programar sensores y transmisores por radiofrecuencia con placas de desarrollo tipo Arduino, ESP32, ESP8266..."
+    }
+  },
+  {
+    "id": "interceptor_angular",
+    "title": "Interceptores en Angular ✋",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+    "description": "Si tienes que enviar tokens en tus peticiones HTTP de Angular o si quieres tratar los errores HTTP obtenidos de tu backend en un sólo lugar y no tener que ir copiando y pegando código por cada petición este es tu artículo.",
+    "tags": ["Angular"],
+    "date": "2023-11-05T20:37:43.511Z",
+    "html": "https://quiero1app.com/blog/interceptor_angular",
+    "metaTags": {
+      "title": "Interceptores en Angular ✋",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+      "description": "Si tienes que enviar tokens en tus peticiones HTTP de Angular o si quieres tratar los errores HTTP obtenidos de tu backend en un sólo lugar y no tener que ir copiando y pegando código por cada petición este es tu artículo."
     }
   },
   {

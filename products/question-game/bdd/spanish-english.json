@@ -438,5 +438,17 @@
     {
         "question":"¿Cómo se dice macarrones en inglés?",
         "answer":"macarroni"
+    },
+    {
+        "question":"¿Cómo se dice alfombra en inglés?",
+        "answer":"rug"
+    },
+    {
+        "question":"¿Cómo se dice ventana en inglés?",
+        "answer":"window"
+    },
+    {
+        "question":"¿Cómo se dice estanteria en inglés?",
+        "answer":"bookcase"
     }
 ]
