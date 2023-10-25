@@ -495,8 +495,9 @@
     "title": "Recursos de programación",
     "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Frecursos.webp?alt=media&token=6c79ce2e-73ff-4cc9-b044-e95480e54f0b",
     "description": "Iconos, imágenes, animaciones, vídeo, música... todo sin derechos de autor, gratis para usar en tus proyectos",
-    "tags": ["Desarrollo de software"],
+    "tags": ["Desarrollo de software", "Recursos web"],
     "date": "2021-04-03T10:22:42.511Z",
+    "updateDate": "2023-04-15T12:36:42.511Z",
     "html": "/blog/recursos-para-programacion",
     "metaTags": {
       "title": "Recursos de programación",
@@ -2223,6 +2224,7 @@
     "img": "https://github.com/fjmduran/images/blob/master/blog/esc_pos_printer/cover.jpg?raw=true",
     "description": "He programado un plugin en C# para una impresora térmica de 58mm. Estas impresoras son también conocidas como impresoras ESC/POS (Epson Standard Code for Point of Sale) y son las típicas que se usan en los comercios para facilitar los tickets de venta.",
     "tags": ["C#", "Informática"],
+    "updateDate": "2023-11-05T16:06:54.511Z",
     "date": "2023-08-06T21:11:54.511Z",
     "html": "https://quiero1app.com/blog/programando_plugin_impresora_termica",
     "metaTags": {
@@ -2357,6 +2359,34 @@
       "description": "Si tienes que enviar tokens en tus peticiones HTTP de Angular o si quieres tratar los errores HTTP obtenidos de tu backend en un sólo lugar y no tener que ir copiando y pegando código por cada petición este es tu artículo."
     }
   },
+  {
+    "id": "que_hago_pierdo_roban_movil_smartphone",
+    "title": "¿Qué hago si he perdido o me han robado el móvil? 😮❗❗",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/robo_movil/cover.jpg?raw=true",
+    "description": "Te cuendo rápidamente qué tienes que hacer si has perdido o te han robado el móvil. Cada segundo cuenta.",
+    "tags": ["Informática", "Ciberseguridad", "Ciencía y tecnología"],
+    "date": "2023-11-12T21:46:43.511Z",
+    "html": "https://quiero1app.com/blog/que_hago_pierdo_roban_movil_smartphone",
+    "metaTags": {
+      "title": "¿Qué hago si he perdido o me han robado el móvil? 😮❗❗",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/robo_movil/cover.jpg?raw=true",
+      "description": "Te cuendo rápidamente qué tienes que hacer si has perdido o te han robado el móvil. Cada segundo cuenta."
+    }
+  },
+  {
+    "id": "exportar_datos_desde_angular",
+    "title": "Exportando datos desde Angular 🚇 sin bibliotecas de terceros",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+    "description": "Te explico cómo exportar datos desde tu aplicación Angular sin usar librerías. Datos que haya obtenido el usuario y le haya aplicado varios filtros en una tabla por ejemplo.",
+    "tags": ["Angular"],
+    "date": "2023-11-19T20:34:43.511Z",
+    "html": "https://quiero1app.com/blog/exportar_datos_desde_angular",
+    "metaTags": {
+      "title": "Exportando datos desde Angular 🚇 sin bibliotecas de terceros",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+      "description": "Te explico cómo exportar datos desde tu aplicación Angular sin usar librerías. Datos que haya obtenido el usuario y le haya aplicado varios filtros en una tabla por ejemplo."
+    }
+  }, 
   {
     "id": "procedimientos_almacenados_sql",
     "title": "Procedimientos almacenados en SQL",
