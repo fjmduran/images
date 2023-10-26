@@ -6,7 +6,7 @@
     "description": "Iré anotando las cosillas que me parezcan interesantes sobre Google Sheets",
     "tags": ["Informática"],
     "date": "2019-09-22T14:15:23.511Z",
-    "html": "/blog/hack_google_sheets",
+    "html": "https://fjmduran.com/blog/hack_google_sheets",
     "metaTags": {
       "title": "Mis truquillos con Google Sheets 🔥",
       "img": "https://github.com/fjmduran/images/blob/master/blog/googleSheets.jpg?raw=true",
@@ -20,7 +20,7 @@
     "description": "Explicación del típico ejercicio de algoritmia 'Fizz Buzz'",
     "tags": ["Algoritmia"],
     "date": "2019-09-28T09:19:23.511Z",
-    "html": "/blog/algoritmia-fizzbuzz",
+    "html": "https://fjmduran.com/blog/algoritmia-fizzbuzz",
     "metaTags": {
       "title": "Algoritmo 'Fizz Buzz'",
       "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
@@ -34,7 +34,7 @@
     "description": "Explicación del típico ejercicio de algoritmia de validación de paréntesis solicitado en muchas entrevistas para desarrollador de software",
     "tags": ["Algoritmia"],
     "date": "2019-10-05T09:10:23.511Z",
-    "html": "/blog/algoritmia-stack-parentesis",
+    "html": "https://fjmduran.com/blog/algoritmia-stack-parentesis",
     "metaTags": {
       "title": "Algoritmo paréntesis válidos",
       "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
@@ -48,7 +48,7 @@
     "description": "Migrar datos de Access a MySQL sin morir en el intento",
     "tags": ["Bases de datos"],
     "date": "2019-10-13T09:07:42.511Z",
-    "html": "/blog/migrar-access-mysql",
+    "html": "https://fjmduran.com/blog/migrar-access-mysql",
     "metaTags": {
       "title": "Cómo migrar datos de Access a MySQL",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Faccess-mysql.jpg?alt=media&token=48d34904-d579-4a15-89df-97b867a219c5",
@@ -62,7 +62,7 @@
     "description": "Algunas sintaxis SQL frecuentes",
     "tags": ["Bases de datos"],
     "date": "2019-11-09T09:22:42.511Z",
-    "html": "/blog/sql",
+    "html": "https://fjmduran.com/blog/sql",
     "metaTags": {
       "title": "Ayuda y recursos SQL",
       "img": "https://github.com/fjmduran/images/blob/master/blog/normalizacion-bdd/cover.jpg?raw=true",
@@ -76,7 +76,7 @@
     "description": "En este artículo te explicaré como migrar tus proyectos de Angular 9 a Angular 10 con los mínimos pasos posibles.",
     "tags": ["Angular"],
     "date": "2019-12-28T18:25:43.511Z",
-    "html": "/blog/angular_9_a_10",
+    "html": "https://fjmduran.com/blog/angular_9_a_10",
     "metaTags": {
       "title": "Migrar de Angular 9 a 10",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -90,7 +90,7 @@
     "description": "Varios sitios para que obtengas imágenes libres de derechos de autor, puedas comprimir tus imágenes y eliminar el fondo de las mismas. Todo ello gratis.",
     "tags": ["Recursos web"],
     "date": "2020-09-05T21:22:33.511Z",
-    "html": "/blog/recursos_imagenes",
+    "html": "https://fjmduran.com/blog/recursos_imagenes",
     "metaTags": {
       "title": "Herramientas gratuitas para trabajar con imágenes",
       "img": "https://github.com/fjmduran/images/blob/master/blog/imageResources/cover.jpg?raw=true",
@@ -104,7 +104,7 @@
     "description": "En este artículo te enseñaré cómo manejar los Meta Tags. Importantísimo para el SEO y una correcta visualización en las redes sociales para mejorar su viralización",
     "tags": ["Recursos web"],
     "date": "2020-07-12T17:47:43.511Z",
-    "html": "/blog/meta_tags",
+    "html": "https://fjmduran.com/blog/meta_tags",
     "metaTags": {
       "title": "Domina los Meta Tags en las RRSS",
       "img": "https://github.com/fjmduran/images/blob/master/blog/metatags/cover.jpg?raw=true",
@@ -118,7 +118,7 @@
     "description": "En este artículo te explicaré cómo migrar tus proyectos de Angular 10 a Angular 11 con los mínimos pasos posibles y te contaré qué trae de nuevo Angular 11.",
     "tags": ["Angular"],
     "date": "2020-11-15T17:47:43.511Z",
-    "html": "/blog/angular10a11",
+    "html": "https://fjmduran.com/blog/angular10a11",
     "metaTags": {
       "title": "Migrar proyecto de Angular 10 a Angular 11",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -132,7 +132,7 @@
     "description": "En este artículo te explicaré cómo cambiar los colores predeterminados de un tema de Angular Material e incluso definir un tema personalizado",
     "tags": ["Angular"],
     "date": "2020-11-07T11:03:43.511Z",
-    "html": "/blog/custom-material",
+    "html": "https://fjmduran.com/blog/custom-material",
     "metaTags": {
       "title": "Personaliza el estilo de Angular Material",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angularMaterial/cover.jpg?raw=true",
@@ -146,7 +146,7 @@
     "description": "En este artículo te explicaré cómo usar las fotos de tu Google Fotos como un recurso web.",
     "tags": ["Recursos web"],
     "date": "2020-01-12T08:57:43.511Z",
-    "html": "/blog/fotos-google",
+    "html": "https://fjmduran.com/blog/fotos-google",
     "metaTags": {
       "title": "Usa tus fotos de Google como recurso web. Te enseñaré como usar fotos de Google Fotos como un recurso web. Usa Google Fotos como un servidor de fotos para tu web",
       "img": "https://github.com/fjmduran/images/blob/master/blog/google_fotos/cover.jpg?raw=true",
@@ -160,7 +160,7 @@
     "description": "En este artículo te explicaré qué son y cómo interpretar los códigos de estado de respuesta HTTP.",
     "tags": ["Informática"],
     "date": "2020-10-10T20:31:43.511Z",
-    "html": "/blog/codigos-estado-http",
+    "html": "https://fjmduran.com/blog/codigos-estado-http",
     "metaTags": {
       "title": "Conoce qué son los códigos de estado de respuesta HTTP cuál es el significado de cada uno de ellos y aprende a interpretarlos",
       "img": "https://github.com/fjmduran/images/blob/master/blog/httpCodes/cover.jpg?raw=true",
@@ -175,7 +175,7 @@
     "tags": ["Recursos web"],
     "date": "2020-08-22T14:43:43.511Z",
     "updateDate": "2023-08-20T10:43:43.511Z",
-    "html": "/blog/hosting-free",
+    "html": "https://fjmduran.com/blog/hosting-free",
     "metaTags": {
       "title": "Hosting gratuitos para hacer despliegues para lo que necesites, pruebas, enseñar un producto a un cliente...",
       "img": "https://github.com/fjmduran/images/blob/master/blog/hosting/cover.jpg?raw=true",
@@ -189,7 +189,7 @@
     "description": "En este artículo te contaré cómo iniciar un proyecto de Node.js con TypeScript",
     "tags": ["TypeScript", "Nodejs"],
     "date": "2020-11-29T18:03:43.511Z",
-    "html": "/blog/node_ts",
+    "html": "https://fjmduran.com/blog/node_ts",
     "metaTags": {
       "title": "Iniciar proyecto de Node.js con TypeScript. Haremos un proyecto desde 0 y haremos un Hola Mundo",
       "img": "https://github.com/fjmduran/images/blob/master/blog/node_ts/cover.jpg?raw=true",
@@ -203,7 +203,7 @@
     "description": "En este artículo te enumeraré los métodos más utilizados con los array en JavaScript",
     "tags": ["JavaScript"],
     "date": "2020-12-13T18:03:43.511Z",
-    "html": "/blog/metodos-arrays-javascript",
+    "html": "https://fjmduran.com/blog/metodos-arrays-javascript",
     "metaTags": {
       "title": "En este artículo te enumeraré los métodos más utilizados con los array en JavaScript",
       "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
@@ -217,7 +217,7 @@
     "description": "En este artículo te enumeraré las etiquetas HTML5",
     "tags": ["HTML", "Recursos web"],
     "date": "2020-12-25T20:22:43.511Z",
-    "html": "/blog/html_tags",
+    "html": "https://fjmduran.com/blog/html_tags",
     "metaTags": {
       "title": "En este artículo te enumeraré las etiquetas HTML5",
       "img": "https://github.com/fjmduran/images/blob/master/blog/html5.jpg?raw=true",
@@ -231,7 +231,7 @@
     "description": "En este artículo te explicaré cuál es la diferencia entre usar unidades rem, em o px en CSS",
     "tags": ["CSS"],
     "date": "2020-12-29T20:12:41.511Z",
-    "html": "/blog/rem-em-px",
+    "html": "https://fjmduran.com/blog/rem-em-px",
     "metaTags": {
       "title": "¿Cuándo usar rem, em o px en CSS?",
       "img": "https://github.com/fjmduran/images/blob/master/blog/css.jpg?raw=true",
@@ -245,7 +245,7 @@
     "description": "En este artículo te explicaré qué son los código QR y como generarlos gratuitamente",
     "tags": ["Informática"],
     "date": "2021-01-05T20:13:42.511Z",
-    "html": "/blog/qr",
+    "html": "https://fjmduran.com/blog/qr",
     "metaTags": {
       "title": "¿Qué son los códigos QR?",
       "img": "https://github.com/fjmduran/images/blob/master/blog/qr/cover.jpg?raw=true",
@@ -259,7 +259,7 @@
     "description": "En este artículo te enseñaré a hacer un ejemplo fácil con la librería de animaciones GSAP en Angular",
     "tags": ["Angular"],
     "date": "2021-01-09T15:39:42.511Z",
-    "html": "/blog/gsap_angular11",
+    "html": "https://fjmduran.com/blog/gsap_angular11",
     "metaTags": {
       "title": "GSAP y Angular",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -273,7 +273,7 @@
     "description": "En este artículo recojo algunos conceptos e instrucciones de Git y GitHub",
     "tags": ["Desarrollo web"],
     "date": "2021-01-10T08:16:42.511Z",
-    "html": "/blog/git_github",
+    "html": "https://fjmduran.com/blog/git_github",
     "metaTags": {
       "title": "Git y GitHub",
       "img": "https://github.com/fjmduran/images/blob/master/blog/git/cover.jpg?raw=true",
@@ -287,7 +287,7 @@
     "description": "En este artículo te cuento cómo realizar lazy load o carga asíncrona, diferida o perezosa con Angular",
     "tags": ["Angular"],
     "date": "2021-01-13T05:42:42.511Z",
-    "html": "/blog/lazy_load_angular",
+    "html": "https://fjmduran.com/blog/lazy_load_angular",
     "metaTags": {
       "title": "Lazy loading en Angular",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -301,7 +301,7 @@
     "description": "En este artículo te explicaré cómo mitigar los problemas de ciberseguridad de los custom headers en tu aplicación realizada con ASP.NET",
     "tags": ["Ciberseguridad"],
     "date": "2021-01-16T15:54:42.511Z",
-    "html": "/blog/headers_asp",
+    "html": "https://fjmduran.com/blog/headers_asp",
     "metaTags": {
       "title": "Mitigar los problemas de ciberseguridad de los custom headers en ASP.NET",
       "img": "https://github.com/fjmduran/images/blob/master/blog/aspHeaders/cover.jpg?raw=true",
@@ -329,7 +329,7 @@
     "description": "En este artículo te explicaré cómo sincronizar la hora de tu sistema operativo Windows con un servidor horario NTP",
     "tags": ["Informática"],
     "date": "2021-01-30T10:49:42.511Z",
-    "html": "/blog/sincronizar-hora-windows",
+    "html": "https://fjmduran.com/blog/sincronizar-hora-windows",
     "metaTags": {
       "title": "Sincronizar la hora de Windows",
       "img": "https://github.com/fjmduran/images/blob/master/blog/windows_sync_ntp/cover.jpg?raw=true",
@@ -343,7 +343,7 @@
     "description": "En este artículo te explicaré cómo redirigir tráfico entrante al IIS hacia el servidor web Apache Tomcat",
     "tags": ["IIS"],
     "date": "2021-01-31T23:44:42.511Z",
-    "html": "/blog/redirigir-iis-a-tomcat",
+    "html": "https://fjmduran.com/blog/redirigir-iis-a-tomcat",
     "metaTags": {
       "title": "Solicitudes HTTP de IIS a Tomcat",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fiis_to_tomcat.webp?alt=media&token=3986fd3f-3ada-428c-8068-ca8db0a99023",
@@ -357,7 +357,7 @@
     "description": "En este artículo te explicaré cómo redirigir tráfico entrante HTTP al IIS hacia HTTPS para que toda la comunicación quede cifrada",
     "tags": ["IIS"],
     "date": "2021-01-31T15:32:42.511Z",
-    "html": "/blog/redirigir-iis-http-a-https",
+    "html": "https://fjmduran.com/blog/redirigir-iis-http-a-https",
     "metaTags": {
       "title": "Solicitudes HTTP a HTTPS en IIS",
       "img": "https://github.com/fjmduran/images/blob/master/blog/iis-http-a-https/cover.jpg?raw=true",
@@ -371,7 +371,7 @@
     "description": "En este artículo te explicaré qué es y cómo usar RXJS",
     "tags": ["JavaScript"],
     "date": "2021-02-06T15:47:42.511Z",
-    "html": "/blog/rxjs",
+    "html": "https://fjmduran.com/blog/rxjs",
     "metaTags": {
       "title": "Acerca de RXJS",
       "img": "https://github.com/fjmduran/images/blob/master/blog/rxjs.jpg?raw=true",
@@ -385,7 +385,7 @@
     "description": "Desectructurar arrays y objetos en JavaScript",
     "tags": ["JavaScript"],
     "date": "2021-02-07T15:42:42.511Z",
-    "html": "/blog/desestructuracion-em6",
+    "html": "https://fjmduran.com/blog/desestructuracion-em6",
     "metaTags": {
       "title": "Desestructuración en JavaScript",
       "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
@@ -413,7 +413,7 @@
     "description": "Te enseñaré como migrar de TSLINT a ESLINT en Angular de manera muy fácil, con sólo 3 comandos",
     "tags": ["Angular"],
     "date": "2021-02-14T09:54:42.511Z",
-    "html": "/blog/migrar-tslint-eslint-angular",
+    "html": "https://fjmduran.com/blog/migrar-tslint-eslint-angular",
     "metaTags": {
       "title": "Migrar TSLINT a ESLINT en Agular",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -427,7 +427,7 @@
     "description": "Recursos on-line para aprender JavaScript",
     "tags": ["JavaScript"],
     "date": "2021-03-06T09:27:42.511Z",
-    "html": "/blog/aprende-javascript-gratis-castellano",
+    "html": "https://fjmduran.com/blog/aprende-javascript-gratis-castellano",
     "metaTags": {
       "title": "Aprende JavaScript gratis y en castellano",
       "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
@@ -441,7 +441,7 @@
     "description": "Cómo saber quién vende nuestros datos o a quién le han robado nuestros datos",
     "tags": ["Informática"],
     "date": "2021-02-20T06:31:42.511Z",
-    "html": "/blog/saber-quien-vende-roba-datos",
+    "html": "https://fjmduran.com/blog/saber-quien-vende-roba-datos",
     "metaTags": {
       "title": "Quién vende o a quién le han robado nuestros datos",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fprogramacion.jpg?alt=media&token=f2011a0a-b508-427e-8b12-3d94acae2c41",
@@ -455,7 +455,7 @@
     "description": "Explicación sobre el uso de los operadores de incremento (++) y decremento (--) como sufijo y prefijo",
     "tags": ["Desarrollo de software"],
     "date": "2021-03-20T09:31:42.511Z",
-    "html": "/blog/operadores-sufijo-prefijo",
+    "html": "https://fjmduran.com/blog/operadores-sufijo-prefijo",
     "metaTags": {
       "title": "Diferencia entre prefijo y sufijo en operadores de incremento (++) y decremento (--)",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fprogramacion.jpg?alt=media&token=f2011a0a-b508-427e-8b12-3d94acae2c41",
@@ -469,7 +469,7 @@
     "description": "Entrena algoritmos en Internet",
     "tags": ["Algoritmia"],
     "date": "2021-03-27T11:00:42.511Z",
-    "html": "/blog/sitios-practicar-algoritmia",
+    "html": "https://fjmduran.com/blog/sitios-practicar-algoritmia",
     "metaTags": {
       "title": "Sitios en Internet para practicar algoritmia",
       "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
@@ -483,7 +483,7 @@
     "description": "Aprende Jest desde 0 con un ejemplo fácil",
     "tags": ["Desarrollo de software"],
     "date": "2021-03-28T15:50:42.511Z",
-    "html": "/blog/aprendiendo-jest",
+    "html": "https://fjmduran.com/blog/aprendiendo-jest",
     "metaTags": {
       "title": "Primeros pasos con Jest",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fjest.jpg?alt=media&token=02e8e64d-b2fe-4533-9b33-3b5ca71a1c91",
@@ -498,7 +498,7 @@
     "tags": ["Desarrollo de software", "Recursos web"],
     "date": "2021-04-03T10:22:42.511Z",
     "updateDate": "2023-04-15T12:36:42.511Z",
-    "html": "/blog/recursos-para-programacion",
+    "html": "https://fjmduran.com/blog/recursos-para-programacion",
     "metaTags": {
       "title": "Recursos de programación",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Frecursos.webp?alt=media&token=6c79ce2e-73ff-4cc9-b044-e95480e54f0b",
@@ -512,7 +512,7 @@
     "description": "Aprende a redactar el apartado del quienes somos de una web correctamente",
     "tags": ["Recursos web"],
     "date": "2021-04-10T16:54:42.511Z",
-    "html": "/blog/redactar-quienes-somos",
+    "html": "https://fjmduran.com/blog/redactar-quienes-somos",
     "metaTags": {
       "title": "¿Cómo redactar el quienes somos de una web?",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fquienes-somos.webp?alt=media&token=60a5c141-20e2-41fc-85f9-2306a0a39462",
@@ -526,7 +526,7 @@
     "description": "Sencillo ejemplo de desplegar una función en Netlify con TypeScript desde 0",
     "tags": ["TypeScript"],
     "date": "2021-04-17T09:41:42.511Z",
-    "html": "/blog/netlify-functions-typescript-hola-mundo",
+    "html": "https://fjmduran.com/blog/netlify-functions-typescript-hola-mundo",
     "metaTags": {
       "title": "Hola mundo en Netlify functions con TypeScript",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fnetlify-typescript.webp?alt=media&token=ed6b20f9-f206-4330-aa65-2c44ef9bdb9b",
@@ -540,7 +540,7 @@
     "description": "Evita que tu aplicación en Heroku entre en suspensión si estás usando la cuenta gratuita",
     "tags": ["TypeScript"],
     "date": "2021-04-24T11:49:42.511Z",
-    "html": "/blog/evitar-herokuapp-duerma",
+    "html": "https://fjmduran.com/blog/evitar-herokuapp-duerma",
     "metaTags": {
       "title": "Mantén tu aplicación de Heroku despierta",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fherouku-no-sleep.webp?alt=media&token=6eca164e-6709-4d6e-bef8-503097c07013",
@@ -554,7 +554,7 @@
     "description": "Si tienes un Ecommerce necesitas incluir información como el aviso legal, la política de privacidad, la política de cookies y la política de devoluciones.",
     "tags": ["Recursos web"],
     "date": "2021-05-01T10:10:54.511Z",
-    "html": "/blog/plantillas-ecommerce-gratis",
+    "html": "https://fjmduran.com/blog/plantillas-ecommerce-gratis",
     "metaTags": {
       "title": "Plantillas gratis para tu Ecommerce",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fecommerce.jpg?alt=media&token=092f7ab3-999e-4abd-beaa-65bbc379a6e6",
@@ -568,7 +568,7 @@
     "description": "Comandos Bash más importantes para moverte por la terminal de Unix con soltura",
     "tags": ["Informática", "Servidores"],
     "date": "2021-05-08T16:45:23.511Z",
-    "html": "/blog/aprendiendo-bash",
+    "html": "https://fjmduran.com/blog/aprendiendo-bash",
     "metaTags": {
       "title": "Aprendiendo Bash",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fbash.webp?alt=media&token=c3c3d202-d424-4a7d-a6aa-62ad3223af00",
@@ -582,7 +582,7 @@
     "description": "Actualiza tu aplicación Angular a la versión 12",
     "tags": ["Angular"],
     "date": "2021-05-16T22:44:42.511Z",
-    "html": "/blog/angular-11-a-12",
+    "html": "https://fjmduran.com/blog/angular-11-a-12",
     "metaTags": {
       "title": "Actualiza tu aplicación Angular a la versión 12",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -596,7 +596,7 @@
     "description": "Aprende cómo reducir el artifacts storage en Firebase",
     "tags": ["Firebase"],
     "date": "2021-05-22T11:11:54.511Z",
-    "html": "/blog/reducir-firebase-artifacts-storage",
+    "html": "https://fjmduran.com/blog/reducir-firebase-artifacts-storage",
     "metaTags": {
       "title": "Reducir el artifacts storage en Firebase",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Ffirebase.webp?alt=media&token=21981d62-cc58-4e98-850e-4e04d8da5ca8",
@@ -610,7 +610,7 @@
     "description": "Ya no necesitas usar ningún pre-procesador CSS para usar variables",
     "tags": ["CSS"],
     "date": "2021-05-28T16:08:54.511Z",
-    "html": "/blog/variables-css",
+    "html": "https://fjmduran.com/blog/variables-css",
     "metaTags": {
       "title": "Variables CSS",
       "img": "https://github.com/fjmduran/images/blob/master/blog/css.jpg?raw=true",
@@ -624,7 +624,7 @@
     "description": "Aprende a detectar gestos tactiles en Angular como el swipe, rotate...",
     "tags": ["Angular"],
     "date": "2021-06-19T16:12:06.511Z",
-    "html": "/blog/detectar-gestos-tactiles-angular",
+    "html": "https://fjmduran.com/blog/detectar-gestos-tactiles-angular",
     "metaTags": {
       "title": "Cómo detectar gestos tactiles en Angular",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fangular-hammer.webp?alt=media&token=27ddb7fb-776c-4e4b-a5c6-609d487e4706",
@@ -638,7 +638,7 @@
     "description": "Explicación del típico ejercicio de algoritmia de ordenar dígitos",
     "tags": ["Algoritmia"],
     "date": "2021-06-26T10:13:23.511Z",
-    "html": "/blog/algoritmia-ordenar-digitos",
+    "html": "https://fjmduran.com/blog/algoritmia-ordenar-digitos",
     "metaTags": {
       "title": "Algoritmo ordenar dígitos",
       "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
@@ -652,7 +652,7 @@
     "description": "Te cuento cómo de segura son tus contraseñas",
     "tags": ["Ciberseguridad"],
     "date": "2021-07-03T10:15:23.511Z",
-    "html": "/blog/seguridad-contrasenas",
+    "html": "https://fjmduran.com/blog/seguridad-contrasenas",
     "metaTags": {
       "title": "¿Cómo de segura es tu contraseña?",
       "img": "https://github.com/fjmduran/images/blob/master/blog/safe_password/cover.jpg?raw=true",
@@ -666,7 +666,7 @@
     "description": "Guía para poder programar controladoras como Arduino, ESP8255, ESP32... con Visual Studio Code",
     "tags": ["IoT"],
     "date": "2021-07-10T09:15:23.511Z",
-    "html": "/blog/programar-arduino-vscode",
+    "html": "https://fjmduran.com/blog/programar-arduino-vscode",
     "metaTags": {
       "title": "Programar Arduino con Visual Studio Code",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Farduino-vscode.webp?alt=media&token=9bca8db6-c3ac-42f8-b564-5604d36f3dcf",
@@ -680,7 +680,7 @@
     "description": "Crear tareas repetitivas o cron jobs",
     "tags": ["Desarrollo de software", "Firebase"],
     "date": "2021-07-17T17:48:23.511Z",
-    "html": "/blog/tareas-repetitivas-cron-job",
+    "html": "https://fjmduran.com/blog/tareas-repetitivas-cron-job",
     "metaTags": {
       "title": "Crear tareas repetitivas",
       "img": "https://github.com/fjmduran/images/blob/master/blog/cronJob/cover.jpg?raw=true",
@@ -694,7 +694,7 @@
     "description": "Aprende a exportar un JSON con TypeScript o JavaScript sin librería de terceros.",
     "tags": ["Angular", "JavaScript"],
     "date": "2021-07-24T16:31:23.511Z",
-    "html": "/blog/exportar-json-a-csv-angular-javascript",
+    "html": "https://fjmduran.com/blog/exportar-json-a-csv-angular-javascript",
     "metaTags": {
       "title": "Exportar JSON a CSV en Angular",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fjson-to-csv.webp?alt=media&token=70aac1d9-cf47-437b-9f11-7e10e4bc8eae",
@@ -708,7 +708,7 @@
     "description": "Ayuda rápida para escribir con Markdown",
     "tags": ["Recursos web"],
     "date": "2021-07-31T19:16:23.511Z",
-    "html": "/blog/markdown-style-guide/",
+    "html": "https://fjmduran.com/blog/markdown-style-guide/",
     "metaTags": {
       "title": "Markdown",
       "img": "https://github.com/fjmduran/images/blob/master/blog/markdown.jpg?raw=true",
@@ -722,7 +722,7 @@
     "description": "Entiende el lenguaje usado por computadores, smartphones...",
     "tags": ["Informática"],
     "date": "2021-08-07T12:01:23.511Z",
-    "html": "/blog/que-es-sistema-binario",
+    "html": "https://fjmduran.com/blog/que-es-sistema-binario",
     "metaTags": {
       "title": "¿Qué es el sistema o código binario?",
       "img": "https://github.com/fjmduran/images/blob/master/blog/binarySystem/cover.jpg?raw=true",
@@ -736,7 +736,7 @@
     "description": "Nociones básicas sobre las variables de entorno en Firebase functions",
     "tags": ["Firebase"],
     "date": "2021-08-14T13:34:23.511Z",
-    "html": "/blog/variables-entorno-firebase",
+    "html": "https://fjmduran.com/blog/variables-entorno-firebase",
     "metaTags": {
       "title": "Variables de entorno en Firebase functions",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fenvironment-variable-firebase.webp?alt=media&token=89958cc3-adfd-43eb-840a-33d5acaae005",
@@ -750,7 +750,7 @@
     "description": "Error HTTP 500.19 al desplegar una API REST ASP.NET en IIS",
     "tags": ["IIS"],
     "date": "2021-08-21T18:53:23.511Z",
-    "html": "/blog/http-error-500.19-iis",
+    "html": "https://fjmduran.com/blog/http-error-500.19-iis",
     "metaTags": {
       "title": "HTTP error 500.19 en IIS",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fiis_error_500.19.webp?alt=media&token=af4c99b6-8bc1-4fab-8e70-da0fdf1fb6bc",
@@ -764,7 +764,7 @@
     "description": "Típico algoritmo en entrevistas de desarrollador de software",
     "tags": ["Algoritmia"],
     "date": "2021-06-04T13:22:23.511Z",
-    "html": "/blog/algoritmia-palindromo",
+    "html": "https://fjmduran.com/blog/algoritmia-palindromo",
     "metaTags": {
       "title": "Algoritmo palíndromo",
       "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
@@ -778,7 +778,7 @@
     "description": "Nociones sobre LoRa",
     "tags": ["IoT"],
     "date": "2019-10-20T17:19:23.511Z",
-    "html": "/blog/que-es-lora",
+    "html": "https://fjmduran.com/blog/que-es-lora",
     "metaTags": {
       "title": "Apuntes de LoRa",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Flora.webp?alt=media&token=f15455c5-2aab-4265-8397-8e6e6a860fdc",
@@ -792,7 +792,7 @@
     "description": "Te enseñaré a programar en Google Calendar un evento que se repita el último día de todos los meses",
     "tags": ["Recursos web"],
     "date": "2021-08-28T08:30:23.511Z",
-    "html": "/blog/google-calendar-cada-ultimo-dia-mes",
+    "html": "https://fjmduran.com/blog/google-calendar-cada-ultimo-dia-mes",
     "metaTags": {
       "title": "Repetir evento el último día de cada mes en Google Calendar",
       "img": "https://github.com/fjmduran/images/blob/master/blog/googleCalendar/cover.jpg?raw=true",
@@ -807,7 +807,7 @@
     "tags": ["Angular"],
     "date": "2021-09-04T08:30:23.511Z",
     "updateDate": "2023-07-09T11:37:23.511Z",
-    "html": "/blog/validacion-personlizada-formulario-reactivo-angular",
+    "html": "https://fjmduran.com/blog/validacion-personlizada-formulario-reactivo-angular",
     "metaTags": {
       "title": "Crear validación personalizada de formularios reactivos en Angular",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fformulario-reactivo-angular.webp?alt=media&token=7fa1163a-acfd-45f5-ba5c-67e5539ce0f5",
@@ -821,7 +821,7 @@
     "description": "Comprende de una vez qué es la recursividad",
     "tags": ["Desarrollo de software"],
     "date": "2021-09-11T07:32:23.511Z",
-    "html": "/blog/que-es-la-recursividad",
+    "html": "https://fjmduran.com/blog/que-es-la-recursividad",
     "metaTags": {
       "title": "¿Qué es la recursividad?",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Frecursividad.webp?alt=media&token=329efad2-aa6f-4574-b9dd-78c7843dd421",
@@ -835,7 +835,7 @@
     "description": "Aprende a integrar Google AdSense en un proyecto de Angular",
     "tags": ["Angular"],
     "date": "2021-09-18T15:58:23.511Z",
-    "html": "/blog/angular-google-adsense",
+    "html": "https://fjmduran.com/blog/angular-google-adsense",
     "metaTags": {
       "title": "Integra Google AdSense en tu proyecto de Angular",
       "img": "https://github.com/fjmduran/images/blob/master/blog/adsense/cover.jpg?raw=true",
@@ -849,7 +849,7 @@
     "description": "Conoce FZF, una herramienta de línea de comandos para la búsqueda de carpetas y archivos que disparará tu productividad",
     "tags": ["Informática"],
     "date": "2021-09-25T10:09:23.511Z",
-    "html": "/blog/fzf-buscador-archivos-rapido",
+    "html": "https://fjmduran.com/blog/fzf-buscador-archivos-rapido",
     "metaTags": {
       "title": "Buscador rápido de archivos y carpetas",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Ffzf.webp?alt=media&token=11a391ad-8b7f-4915-8539-f5b7fa270146",
@@ -863,7 +863,7 @@
     "description": "Crea tu propio algoritmo para ordenar un array",
     "tags": ["Algoritmia"],
     "date": "2021-10-02T17:17:23.511Z",
-    "html": "/blog/algoritmia-programa-tu-propio-ordenar-array",
+    "html": "https://fjmduran.com/blog/algoritmia-programa-tu-propio-ordenar-array",
     "metaTags": {
       "title": "Algoritmo para ordenar array",
       "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
@@ -877,7 +877,7 @@
     "description": "En este artículo te explicaré cómo hacer un bucle con Vanilla CSS, sin necesidad de preprocesadores CSS",
     "tags": ["CSS"],
     "date": "2021-10-09T11:18:41.511Z",
-    "html": "/blog/bucles-css-vanilla",
+    "html": "https://fjmduran.com/blog/bucles-css-vanilla",
     "metaTags": {
       "title": "Bucle en Vanilla CSS",
       "img": "https://github.com/fjmduran/images/blob/master/blog/css.jpg?raw=true",
@@ -891,7 +891,7 @@
     "description": "Te explico cómo funciona el algoritmo QuickSort, el algoritmo más eficiente y rápido de ordenación",
     "tags": ["Algoritmia"],
     "date": "2021-10-15T21:27:23.511Z",
-    "html": "/blog/algoritmo-quick-sort",
+    "html": "https://fjmduran.com/blog/algoritmo-quick-sort",
     "metaTags": {
       "title": "Algoritmo QuickSort",
       "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
@@ -905,7 +905,7 @@
     "description": "Haremos un programa para adivinar un número aleatorio. Suele ser típico en las pruebas técnicas",
     "tags": ["Algoritmia"],
     "date": "2021-10-23T11:29:23.511Z",
-    "html": "/blog/adivina-numero-aleatorio",
+    "html": "https://fjmduran.com/blog/adivina-numero-aleatorio",
     "metaTags": {
       "title": "Adivina un número aleatorio",
       "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
@@ -919,7 +919,7 @@
     "description": "Aprenderás a cómo copiar variables y objetos en JavaScript tanto por referencia como por valor",
     "tags": ["JavaScript"],
     "date": "2021-10-30T16:35:23.511Z",
-    "html": "/blog/copia-clona-objeto-javascript",
+    "html": "https://fjmduran.com/blog/copia-clona-objeto-javascript",
     "metaTags": {
       "title": "Copia o clona objetos y arrays en JavaScript",
       "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
@@ -933,7 +933,7 @@
     "description": "Veremos qué hay de nuevo en esta versión 13 de Angular y cómo migrar nuestros proyectos de Angular 12 a 13",
     "tags": ["Angular"],
     "date": "2021-11-04T22:44:42.511Z",
-    "html": "/blog/angular-13",
+    "html": "https://fjmduran.com/blog/angular-13",
     "metaTags": {
       "title": "Actualiza a Angular 13",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -947,7 +947,7 @@
     "description": "Comprenderás de una vez qué son el operador optional chaining y el nullish coalescing",
     "tags": ["JavaScript"],
     "date": "2021-11-12T21:07:42.511Z",
-    "html": "/blog/optional-chaining-nullish-coalescing",
+    "html": "https://fjmduran.com/blog/optional-chaining-nullish-coalescing",
     "metaTags": {
       "title": "Optional chaining y nullish coalescing en JS2020",
       "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
@@ -961,7 +961,7 @@
     "description": "Aprenderemos a cómo usar correctamente los formularios reactivos en Angular",
     "tags": ["Angular"],
     "date": "2021-11-13T09:25:42.511Z",
-    "html": "/blog/angular-formularios-reactivos",
+    "html": "https://fjmduran.com/blog/angular-formularios-reactivos",
     "metaTags": {
       "title": "Formularios reactivos de Angular",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -975,7 +975,7 @@
     "description": "Seguro que has escuchado hablar de blockchain, criptomonedas, mineros... Comprende qué son de una vez",
     "tags": ["Ciencía y tecnología"],
     "date": "2021-11-20T11:39:42.511Z",
-    "html": "/blog/que-es-blockchain",
+    "html": "https://fjmduran.com/blog/que-es-blockchain",
     "metaTags": {
       "title": "¿Qué es el blockchain?",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fblockchain.webp?alt=media&token=ec7b0828-ad3e-41a5-b6c0-a75ca0abfd39",
@@ -989,7 +989,7 @@
     "description": "Comprende de una vez cómo funciona el método sort",
     "tags": ["JavaScript"],
     "date": "2021-11-27T17:36:42.511Z",
-    "html": "/blog/metodo-sort-javascript",
+    "html": "https://fjmduran.com/blog/metodo-sort-javascript",
     "metaTags": {
       "title": "¿Cómo funciona el método sort de arrays en JavaScript?",
       "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
@@ -1003,7 +1003,7 @@
     "description": "Aprende cómo se pronuncian los símbolos de programación oficialmente.",
     "tags": ["Desarrollo de software"],
     "date": "2021-12-04T18:20:42.511Z",
-    "html": "/blog/guia-pronunciacion-programador",
+    "html": "https://fjmduran.com/blog/guia-pronunciacion-programador",
     "metaTags": {
       "title": "Guía de pronunciación para programadores",
       "img": "https://github.com/fjmduran/images/blob/master/blog/developer.jpg?raw=true",
@@ -1017,7 +1017,7 @@
     "description": "¿Qué es el versionado semántico?",
     "tags": ["Desarrollo de software"],
     "date": "2021-12-11T17:10:42.511Z",
-    "html": "/blog/versionado-semantico-semver",
+    "html": "https://fjmduran.com/blog/versionado-semantico-semver",
     "metaTags": {
       "title": "Versionado semántico (SEMVER)",
       "img": "https://github.com/fjmduran/images/blob/master/blog/developer.jpg?raw=true",
@@ -1031,7 +1031,7 @@
     "description": "Te diré qué extensiones debes tener en Google Chrome para analizar en profundiad webs",
     "tags": ["Desarrollo de software"],
     "date": "2021-12-18T13:30:42.511Z",
-    "html": "/blog/analizando-webs",
+    "html": "https://fjmduran.com/blog/analizando-webs",
     "metaTags": {
       "title": "Herramientas para el análisis de webs",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fchrome.webp?alt=media&token=6e4b7f38-68c4-4cd0-b24a-a3627a120c4b",
@@ -1045,7 +1045,7 @@
     "description": "Aumenta tu eficiencia con la consola en Windows incluyendo programas habituales en su Path",
     "tags": ["Windows", "Informática"],
     "date": "2021-12-26T08:23:42.511Z",
-    "html": "/blog/editando-path-windows",
+    "html": "https://fjmduran.com/blog/editando-path-windows",
     "metaTags": {
       "title": "Editando el Path de Windows",
       "img": "https://github.com/fjmduran/images/blob/master/blog/windows.jpg?raw=true",
@@ -1059,7 +1059,7 @@
     "description": "Aprende a crear el efecto de máquina de escribir sin usar JavaScript",
     "tags": ["Desarrollo web", "CSS", "HTML"],
     "date": "2022-01-02T16:18:41.511Z",
-    "html": "/blog/css-efecto-maquina-escribir",
+    "html": "https://fjmduran.com/blog/css-efecto-maquina-escribir",
     "metaTags": {
       "title": "Efecto máquina de escribir con HTML y CSS",
       "img": "https://github.com/fjmduran/images/blob/master/blog/css.jpg?raw=true",
@@ -1073,7 +1073,7 @@
     "description": "Dale estilo a tus mensajes por consola sin bibliotecas de terceros",
     "tags": ["JavaScript", "TypeScript"],
     "date": "2022-01-08T19:18:42.511Z",
-    "html": "/blog/console-log-colores-sin-biblioteca",
+    "html": "https://fjmduran.com/blog/console-log-colores-sin-biblioteca",
     "metaTags": {
       "title": "Asignando estilos al console.log sin bibliotecas de terceros",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fbash.webp?alt=media&token=c3c3d202-d424-4a7d-a6aa-62ad3223af00",
@@ -1087,7 +1087,7 @@
     "description": "Crea el famoso efecto de la película de Matrix de lluvia de caracteres aleatorios con JavaScript",
     "tags": ["JavaScript"],
     "date": "2022-01-15T13:20:42.511Z",
-    "html": "/blog/efecto-matrix-javascript",
+    "html": "https://fjmduran.com/blog/efecto-matrix-javascript",
     "metaTags": {
       "title": "Efecto Matrix",
       "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
@@ -1101,7 +1101,7 @@
     "description": "Comprende de una vez con un lenguaje amigable qué es la WEB3",
     "tags": ["Informática", "Ciencía y tecnología"],
     "date": "2022-01-16T09:26:42.511Z",
-    "html": "/blog/que-es-web3",
+    "html": "https://fjmduran.com/blog/que-es-web3",
     "metaTags": {
       "title": "¿Qué es la WEB3?",
       "img": "https://github.com/fjmduran/images/blob/master/blog/developer.jpg?raw=true",
@@ -1115,7 +1115,7 @@
     "description": "La configuración más eficiente de overclocking para la Radeon RX 6700 XT",
     "tags": ["Minería"],
     "date": "2022-01-22T12:34:42.511Z",
-    "html": "/blog/overcloking-radeon-rx-6700-xt-hiveos",
+    "html": "https://fjmduran.com/blog/overcloking-radeon-rx-6700-xt-hiveos",
     "metaTags": {
       "title": "Overcloking de la Radeon RX 6700 XT en HiveOS",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fmineria.webp?alt=media&token=8b129a8c-5edb-43fd-8006-59b2406363fd",
@@ -1129,7 +1129,7 @@
     "description": "¿Cómo funcionan los módulos de relés para las microcontroladoras?",
     "tags": ["IoT"],
     "date": "2022-01-29T19:55:42.511Z",
-    "html": "/blog/modulo-rele-arduino-esp32-esp8632",
+    "html": "https://fjmduran.com/blog/modulo-rele-arduino-esp32-esp8632",
     "metaTags": {
       "title": "Modúlo relé para microcontroladoras (Arduino, ESP32, ESP8632...)",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fmicrocontroladora.webp?alt=media&token=d380340a-093d-4b6d-857f-9c1ddde14e68",
@@ -1143,7 +1143,7 @@
     "description": "Aprenderás a crear un login con Angular y WEB 3",
     "tags": ["Informática", "Ciencía y tecnología", "Angular"],
     "date": "2022-02-05T11:23:42.511Z",
-    "html": "/blog/login-angular-web3",
+    "html": "https://fjmduran.com/blog/login-angular-web3",
     "metaTags": {
       "title": "¿Qué es la WEB3?",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2FangularWeb3.webp?alt=media&token=613ba741-541b-4f4b-a179-0f93a42c9c08",
@@ -1171,7 +1171,7 @@
     "description": "Deja de tipar con any 🚩 las respuestas HTTP en Angular (TypeScript)",
     "tags": ["Informática", "Ciencía y tecnología", "Angular"],
     "date": "2022-02-19T09:25:42.511Z",
-    "html": "/blog/tipando-respuestas-http-angular",
+    "html": "https://fjmduran.com/blog/tipando-respuestas-http-angular",
     "metaTags": {
       "title": "Tipar respuestas HTTP en Angular",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -1185,7 +1185,7 @@
     "description": "Crea un efecto zoom al pasar el puntero del ratón sobre una imagen de una card sólo con CSS",
     "tags": ["CSS"],
     "date": "2022-02-26T11:09:42.511Z",
-    "html": "/blog/efecto-zoom-imagen-card-css",
+    "html": "https://fjmduran.com/blog/efecto-zoom-imagen-card-css",
     "metaTags": {
       "title": "Crea un efecto zoom con CSS",
       "img": "https://github.com/fjmduran/images/blob/master/blog/css.jpg?raw=true",
@@ -1199,7 +1199,7 @@
     "description": "¿Te han preguntado alguna vez en una entrevista técnica qué es un Polyfill?",
     "tags": ["JavaScript"],
     "date": "2022-03-05T11:39:42.511Z",
-    "html": "/blog/que-es-un-polyfill",
+    "html": "https://fjmduran.com/blog/que-es-un-polyfill",
     "metaTags": {
       "title": "¿Qué es un Polyfill?",
       "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
@@ -1213,7 +1213,7 @@
     "description": "Ve más allá del siempre confiable console.log",
     "tags": ["Angular"],
     "date": "2022-03-12T16:08:42.511Z",
-    "html": "/blog/angular-debug",
+    "html": "https://fjmduran.com/blog/angular-debug",
     "metaTags": {
       "title": "Depurando un proyecto de Angular",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angularDebug/cover.jpg?raw=true",
@@ -1227,7 +1227,7 @@
     "description": "Conoce los súper poderes del Array.length 💪",
     "tags": ["JavaScript", "TypeScript"],
     "date": "2022-03-19T13:00:42.511Z",
-    "html": "/blog/super-array-length",
+    "html": "https://fjmduran.com/blog/super-array-length",
     "metaTags": {
       "title": "Array.length es más de lo que piensas",
       "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
@@ -1241,7 +1241,7 @@
     "description": "Aprende qué es una directiva en Angular y aprende a crear una directiva personalizada",
     "tags": ["Informática", "Ciencía y tecnología", "Angular"],
     "date": "2022-03-26T16:44:42.511Z",
-    "html": "/blog/directiva-personalizada-angular",
+    "html": "https://fjmduran.com/blog/directiva-personalizada-angular",
     "metaTags": {
       "title": "Crea una directiva personalizada en Angular 👈",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -1255,7 +1255,7 @@
     "description": "¿Cómo y cuando debo de usar promesas en serie o en paralelo? 🤔",
     "tags": ["JavaScript", "TypeScript"],
     "date": "2022-04-02T11:21:42.511Z",
-    "html": "/blog/promesas-serie-paralelo-javascript",
+    "html": "https://fjmduran.com/blog/promesas-serie-paralelo-javascript",
     "metaTags": {
       "title": "Promesas en serie y en paralelo en JavaScript",
       "img": "https://github.com/fjmduran/images/blob/master/blog/javascript.jpg?raw=true",
@@ -1269,7 +1269,7 @@
     "description": "Consigue que tu dominio aparezca en la ventana de inicio de sesión en tu proyecto de Firebase",
     "tags": ["Firebase"],
     "date": "2022-04-09T16:08:42.511Z",
-    "html": "/blog/personaliza-dominio-autenticacion-firebase",
+    "html": "https://fjmduran.com/blog/personaliza-dominio-autenticacion-firebase",
     "metaTags": {
       "title": "Personaliza el dominio de autenticación de Firebase 🔥",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Ffirebase.webp?alt=media&token=21981d62-cc58-4e98-850e-4e04d8da5ca8",
@@ -1283,7 +1283,7 @@
     "description": "Deja de copiar expresiones regulares de internet y aprende a crear las tuyas propias",
     "tags": ["Desarrollo de software", "Informática"],
     "date": "2022-04-16T11:09:42.511Z",
-    "html": "/blog/aprende-expresiones-regulares",
+    "html": "https://fjmduran.com/blog/aprende-expresiones-regulares",
     "metaTags": {
       "title": "Entiende de una vez las expresiones regulares (regex) 🚀",
       "img": "https://github.com/fjmduran/images/blob/master/blog/developer.jpg?raw=true",
@@ -1311,7 +1311,7 @@
     "description": "Comienza a usar Deno, yo ya no quiero otra cosa 🤓",
     "tags": ["TypeScript", "Deno"],
     "date": "2022-04-30T10:54:42.511Z",
-    "html": "/blog/primeros-pasos-deno",
+    "html": "https://fjmduran.com/blog/primeros-pasos-deno",
     "metaTags": {
       "title": "Primeros pasos con Deno 🐱‍🐉",
       "img": "https://github.com/fjmduran/images/blob/master/blog/deno_cover.jpg?raw=true",
@@ -1325,7 +1325,7 @@
     "description": "Explicación matemática de la paradoja de Monty Hall 🤔",
     "tags": ["Algoritmia"],
     "date": "2022-05-07T09:40:42.511Z",
-    "html": "/blog/paradoja-monty-hall",
+    "html": "https://fjmduran.com/blog/paradoja-monty-hall",
     "metaTags": {
       "title": "La paradoja de Monty Hall 🤯",
       "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
@@ -1339,7 +1339,7 @@
     "description": "En este artículo te explicaré cómo usar las reglas de seguridad de Firebase Realtime Database para bastionar tu base de datos",
     "tags": ["Firebase"],
     "date": "2022-05-14T10:51:43.511Z",
-    "html": "/blog/seguridad-firebase-realtime-database",
+    "html": "https://fjmduran.com/blog/seguridad-firebase-realtime-database",
     "metaTags": {
       "title": "Reglas de seguridad en Firebase Realtime Database 🔥",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Ffirebase.webp?alt=media&token=21981d62-cc58-4e98-850e-4e04d8da5ca8",
@@ -1353,7 +1353,7 @@
     "description": "Devuelve n elementos de la serie de Fibonacci",
     "tags": ["Algoritmia"],
     "date": "2022-05-21T10:46:42.511Z",
-    "html": "/blog/algoritmia-fibonacci",
+    "html": "https://fjmduran.com/blog/algoritmia-fibonacci",
     "metaTags": {
       "title": "Serie de Fibonacci 👨‍💻",
       "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
@@ -1367,7 +1367,7 @@
     "description": "Es increíble lo que Pegasus puede sacar de tu móvil 🤯",
     "tags": ["Informática", "Ciberseguridad"],
     "date": "2022-05-29T22:52:42.511Z",
-    "html": "/blog/pegasus-espionaje",
+    "html": "https://fjmduran.com/blog/pegasus-espionaje",
     "metaTags": {
       "title": "Software de espionaje Pegasus 📱",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fhacker.webp?alt=media&token=8d1c2875-685f-4f4a-b9f2-69f85d314c47",
@@ -1381,7 +1381,7 @@
     "description": "Te explico qué es una directiva estructural en Angular y creamos una.",
     "tags": ["Angular"],
     "date": "2022-06-04T11:27:43.511Z",
-    "html": "/blog/directiva-estructural-angular",
+    "html": "https://fjmduran.com/blog/directiva-estructural-angular",
     "metaTags": {
       "title": "Directiva estructural en Angular 🅰",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -1395,7 +1395,7 @@
     "description": "Cómo migrar nuestros proyectos de Angular 13 a 14",
     "tags": ["Angular"],
     "date": "2022-06-07T22:49:42.511Z",
-    "html": "/blog/angular-14",
+    "html": "https://fjmduran.com/blog/angular-14",
     "metaTags": {
       "title": "Actualiza a Angular 14",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -1409,7 +1409,7 @@
     "description": "Algun@s dicen que los NFT son una estafa, otr@s que es el futuro. Comprende qué es un NFT y decídelo por tí mismo.",
     "tags": ["Ciencía y tecnología"],
     "date": "2022-06-11T11:23:42.511Z",
-    "html": "/blog/que-es-nft",
+    "html": "https://fjmduran.com/blog/que-es-nft",
     "metaTags": {
       "title": "¿Qué es un NFT? 🤔",
       "img": "https://github.com/fjmduran/images/blob/master/blog/nft/cover.jpg?raw=true",
@@ -1423,7 +1423,7 @@
     "description": "Te explico cómo resetear tu microcontroladora por software",
     "tags": ["IoT"],
     "date": "2022-06-18T12:41:43.511Z",
-    "html": "/blog/resetear-microcontroladora-software",
+    "html": "https://fjmduran.com/blog/resetear-microcontroladora-software",
     "metaTags": {
       "title": "Resetea una microcontroladora por software 💻",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fmicrocontroladora.webp?alt=media&token=d380340a-093d-4b6d-857f-9c1ddde14e68",
@@ -1437,7 +1437,7 @@
     "description": "Te cuento fácilmente lo que necesitas saber para comprender qué es Bitcoin y cómo se crean",
     "tags": ["Ciencía y tecnología", "Bases de datos", "Informática"],
     "date": "2022-06-25T16:58:43.511Z",
-    "html": "/blog/que-es-bitcoin",
+    "html": "https://fjmduran.com/blog/que-es-bitcoin",
     "metaTags": {
       "title": "Qué es Bitcoin❓",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fbitcoin.webp?alt=media&token=62519856-bb7f-4334-9d33-71c4d2269f2a",
@@ -1451,7 +1451,7 @@
     "description": "Seguro que has escuchado que las criptomonedas se minan, ¿pero qué es eso?",
     "tags": ["Ciencía y tecnología", "Bases de datos", "Informática"],
     "date": "2022-07-02T11:31:43.511Z",
-    "html": "/blog/que-es-minar-criptomonedas",
+    "html": "https://fjmduran.com/blog/que-es-minar-criptomonedas",
     "metaTags": {
       "title": "¿Qué es minar criptomonedas? ⛏",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fmineria.webp?alt=media&token=8b129a8c-5edb-43fd-8006-59b2406363fd",
@@ -1465,7 +1465,7 @@
     "description": "Crearemos una aplicación para leer código de barras y códigos QR con las cámaras de nuestros dispositivos y con Angular 13",
     "tags": ["Angular"],
     "date": "2022-07-09T11:59:43.511Z",
-    "html": "/blog/lector-codigo-qr-angular-13",
+    "html": "https://fjmduran.com/blog/lector-codigo-qr-angular-13",
     "metaTags": {
       "title": "Aprende a crear un lector de códigos QR con Angular 13 🅰",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -1479,7 +1479,7 @@
     "description": "Te muestro cómo obtener la ubicación de un usuario conectado a Internet",
     "tags": ["Informática", "Ciberseguridad"],
     "date": "2022-07-16T09:58:42.511Z",
-    "html": "/blog/rastreando-ip-con-link",
+    "html": "https://fjmduran.com/blog/rastreando-ip-con-link",
     "metaTags": {
       "title": "Me intentan timar y rastreo la ubicación del estafador/a 👨‍💻",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fhacker.webp?alt=media&token=8d1c2875-685f-4f4a-b9f2-69f85d314c47",
@@ -1493,7 +1493,7 @@
     "description": "Un salario de 160k anuales full-remote suena muy bien 🤪",
     "tags": ["TypeScript", "Algoritmia"],
     "date": "2022-07-23T15:39:42.511Z",
-    "html": "/blog/algoritmia-prueba-tecnica-160k",
+    "html": "https://fjmduran.com/blog/algoritmia-prueba-tecnica-160k",
     "metaTags": {
       "title": "Resuelvo una prueba técnica para un puesto de 160.000$ anuales 🤑",
       "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
@@ -1507,7 +1507,7 @@
     "description": "¿Te suenan los términos deep web, dar net, dark web? ¿Qué son? ¿Son lo mismo?",
     "tags": ["TypeScript", "Informática"],
     "date": "2022-07-30T11:15:42.511Z",
-    "html": "/blog/tipos-de-web",
+    "html": "https://fjmduran.com/blog/tipos-de-web",
     "metaTags": {
       "title": "Tipos de WEB 🌐",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Ftipos-web.jpg?alt=media&token=6b69c691-5c9c-4551-a08a-979ba2e045cb",
@@ -1521,7 +1521,7 @@
     "description": "Cuando escuchas energía nuclear, ¿te genera miedo o preocupación? Entonces este artículo te interesa",
     "tags": ["Ciencía y tecnología"],
     "date": "2022-08-06T10:57:42.511Z",
-    "html": "/blog/mitos-energia-nuclear",
+    "html": "https://fjmduran.com/blog/mitos-energia-nuclear",
     "metaTags": {
       "title": "Leyendas urbanas de la energía nuclear 👻",
       "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fnuclear-developer.jpg?alt=media&token=99ac54ca-d0c4-495a-aadf-a5ea09d89dab",
@@ -1535,7 +1535,7 @@
     "description": "Te explico qué es MQTT y te enseño a desarrollar un cliente bajo este protocolo probándolo con un broker en la nube",
     "tags": ["Angular", "IoT"],
     "date": "2022-08-13T16:21:42.511Z",
-    "html": "/blog/cliente-mqtt-angular",
+    "html": "https://fjmduran.com/blog/cliente-mqtt-angular",
     "metaTags": {
       "title": "Aprende qué es MQTT y crea un cliente con Angular 13 🅰",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular-mqtt/cover.jpg?raw=true",
@@ -1549,7 +1549,7 @@
     "description": "Te enseñaré a crear una función que hará un INNER JOIN de dos arrays de objetos JSON.",
     "tags": ["TypeScript", "Algoritmia"],
     "date": "2022-08-21T10:44:42.511Z",
-    "html": "/blog/algoritmia-inner-join",
+    "html": "https://fjmduran.com/blog/algoritmia-inner-join",
     "metaTags": {
       "title": "Resuelvo una prueba en la que solicitan un INNER JOIN 👨‍💻",
       "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
@@ -1563,7 +1563,7 @@
     "description": "Si usas Angular olvida los métodos getElementById, querySelector ... para manipular el DOM, usa Renderer2",
     "tags": ["Angular", "HTML"],
     "date": "2022-08-27T17:42:43.511Z",
-    "html": "/blog/manipulando-dom-angular-correctamente",
+    "html": "https://fjmduran.com/blog/manipulando-dom-angular-correctamente",
     "metaTags": {
       "title": "Manipula elementos del DOM con Angular 🅰 correctamente 👌 (Renderer2)",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -1577,7 +1577,7 @@
     "description": "Te cuento cuál es mi estructura de ambientes de desarrollo",
     "tags": ["Desarrollo de software", "Informática"],
     "date": "2022-09-04T17:43:42.511Z",
-    "html": "/blog/ambientes-desarrollo-software",
+    "html": "https://fjmduran.com/blog/ambientes-desarrollo-software",
     "metaTags": {
       "title": "Ambientes para el desarrollo de software 👨‍💻",
       "img": "https://github.com/fjmduran/images/blob/master/blog/developer.jpg?raw=true",
@@ -1591,7 +1591,7 @@
     "description": "Para desplegar tu aplicación hecha con Deno en Heroku tienes que tener en cuenta algunas cosillas que son diferentes con Nodejs",
     "tags": ["TypeScript", "Deno"],
     "date": "2022-09-11T13:31:42.511Z",
-    "html": "/blog/deplegando-deno-heroku",
+    "html": "https://fjmduran.com/blog/deplegando-deno-heroku",
     "metaTags": {
       "title": "Desplegando APP con Deno en Heroku 🚀",
       "img": "https://github.com/fjmduran/images/blob/master/blog/deno_cover.jpg?raw=true",
@@ -1605,7 +1605,7 @@
     "description": "Desplegaré una aplicación hecha con Deno en un contenedor Docker en fly.io",
     "tags": ["TypeScript", "Deno"],
     "date": "2022-09-18T19:25:42.511Z",
-    "html": "/blog/deplegando-deno-fly-io",
+    "html": "https://fjmduran.com/blog/deplegando-deno-fly-io",
     "metaTags": {
       "title": "Desplegando APP con Deno en fly.io 🚀",
       "img": "https://github.com/fjmduran/images/blob/master/blog/deno_cover.jpg?raw=true",
@@ -1619,7 +1619,7 @@
     "description": "Te ayudo a comprender los conceptos básicos de las redes IP v4",
     "tags": ["Informática"],
     "date": "2022-09-24T20:10:43.511Z",
-    "html": "/blog/redes_ip4",
+    "html": "https://fjmduran.com/blog/redes_ip4",
     "metaTags": {
       "title": "Redes IPv4",
       "img": "https://github.com/fjmduran/images/blob/master/blog/ip4Networks/cover.jpg?raw=true",
@@ -1648,7 +1648,7 @@
     "description": "Te enseño cómo crear un efecto overlay sólo con CSS, sin librerías 😎",
     "tags": ["CSS"],
     "date": "2022-10-08T18:08:54.511Z",
-    "html": "/blog/efecto-overlay-css",
+    "html": "https://fjmduran.com/blog/efecto-overlay-css",
     "metaTags": {
       "title": "Efecto overlay con CSS 🤓",
       "img": "https://github.com/fjmduran/images/blob/master/blog/css.jpg?raw=true",
@@ -1676,7 +1676,7 @@
     "description": "Lo mínimo que debes de saber para diseñar tu base de datos con un súper rendimiento 🦸‍♂️",
     "tags": ["Bases de datos"],
     "date": "2022-10-23T16:09:54.511Z",
-    "html": "/blog/normalizacion-base-de-datos",
+    "html": "https://fjmduran.com/blog/normalizacion-base-de-datos",
     "metaTags": {
       "title": "Normalización en base de datos 🧷",
       "img": "https://github.com/fjmduran/images/blob/master/blog/normalizacion-bdd/cover.jpg?raw=true",
@@ -1690,7 +1690,7 @@
     "description": "¿Se ha rendido Angular ante React?",
     "tags": ["Angular"],
     "date": "2022-10-29T13:31:54.511Z",
-    "html": "/blog/angular-standalone-like-reactjs",
+    "html": "https://fjmduran.com/blog/angular-standalone-like-reactjs",
     "metaTags": {
       "title": "Componentes standalone en Angular 🅰",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angularStandalone/cover.jpg?raw=true",
@@ -1704,7 +1704,7 @@
     "description": "Aprende a crear con Angular el juego de las torres de Hanoi sin librerías",
     "tags": ["Angular"],
     "date": "2022-11-05T17:52:23.511Z",
-    "html": "/blog/crear-juego-torre-hanoi-angular",
+    "html": "https://fjmduran.com/blog/crear-juego-torre-hanoi-angular",
     "metaTags": {
       "title": "Creando el juego de las torres de Hanoi con Angular 🎮",
       "img": "https://github.com/fjmduran/images/blob/master/blog/hanoi-create/cover.jpg?raw=true",
@@ -1718,7 +1718,7 @@
     "description": "Aprende de una vez cómo funciona la propiedad position de CSS",
     "tags": ["CSS"],
     "date": "2022-11-13T18:49:54.511Z",
-    "html": "/blog/aprende-css-position",
+    "html": "https://fjmduran.com/blog/aprende-css-position",
     "metaTags": {
       "title": "🤓 Comprende de una vez la propiedad position de CSS",
       "img": "https://github.com/fjmduran/images/blob/master/blog/css.jpg?raw=true",
@@ -1732,7 +1732,7 @@
     "description": "Programo con TypeScript un algoritmo para encontrar un número que desmonte la conjetura de Collatz",
     "tags": ["Algoritmia"],
     "date": "2022-11-19T21:45:42.511Z",
-    "html": "/blog/algoritmo-conjetura-collatz",
+    "html": "https://fjmduran.com/blog/algoritmo-conjetura-collatz",
     "metaTags": {
       "title": "Programando 👨‍💻 un algoritmo para contradecir la conjetura de Collatz",
       "img": "https://github.com/fjmduran/images/blob/master/blog/algoritmia.jpg?raw=true",
@@ -1760,7 +1760,7 @@
     "description": "La teoría de juegos se utiliza en toma de decisiones empresariales, en economía... incluso la puedes utilizar para tomar decisiones cotidianas",
     "tags": ["Informática"],
     "date": "2022-11-27T18:43:42.511Z",
-    "html": "/blog/teoria-de-juegos",
+    "html": "https://fjmduran.com/blog/teoria-de-juegos",
     "metaTags": {
       "title": "Toma las mejores decisiones entendiendo la teoría de juegos 💡... spoiler, el equilibrio de Nash",
       "img": "https://github.com/fjmduran/images/blob/master/blog/developer.jpg?raw=true",
@@ -1774,7 +1774,7 @@
     "description": "Te enseño a crear un slider con CSS en un proyecto de Angular",
     "tags": ["CSS"],
     "date": "2022-12-04T19:26:42.511Z",
-    "html": "/blog/crea-slider-angular-solo-css",
+    "html": "https://fjmduran.com/blog/crea-slider-angular-solo-css",
     "metaTags": {
       "title": "Crea un slider solo con CSS en Angular, sin librerías de terceros 👨‍💻",
       "img": "https://github.com/fjmduran/images/blob/master/blog/css.jpg?raw=true",
@@ -1788,7 +1788,7 @@
     "description": "Te enseño cómo utilizar ChatGPT de forma rápida y sencilla, sin \"chau-chau\" 🚫",
     "tags": ["Informática", "Ciencía y tecnología"],
     "date": "2022-12-10T16:53:42.511Z",
-    "html": "/blog/que-es-chatgpt",
+    "html": "https://fjmduran.com/blog/que-es-chatgpt",
     "metaTags": {
       "title": "Descubre cómo te puede ayudar una inteligencia artificial HOY 🤖 ChatGPT",
       "img": "https://github.com/fjmduran/images/blob/master/blog/what-is-chatgpt/cover.jpg?raw=true",
@@ -1802,7 +1802,7 @@
     "description": "Te enseñaré a hacer un smooth scroll en Angular",
     "tags": ["Angular"],
     "date": "2022-12-17T09:37:42.511Z",
-    "html": "/blog/smooth-scroll-angular",
+    "html": "https://fjmduran.com/blog/smooth-scroll-angular",
     "metaTags": {
       "title": "Haz scroll en Angular 🅰",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -1830,7 +1830,7 @@
     "description": "¿Quieres prepararte una entrevista para desarrollador frontend Angular? Aquí la primera parte.",
     "tags": ["Angular"],
     "date": "2023-01-15T18:41:54.511Z",
-    "html": "/blog/entrevista-angular-parte01",
+    "html": "https://fjmduran.com/blog/entrevista-angular-parte01",
     "metaTags": {
       "title": "Preguntas comunes en entrevistas para Angular 🅰 Primera parte",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -1844,7 +1844,7 @@
     "description": "Comprende qué es un algoritmo genético, con la demo y el código del ejemplo del TSP",
     "tags": ["Algoritmia", "Ciencía y tecnología"],
     "date": "2023-01-22T22:43:54.511Z",
-    "html": "/blog/que-es-algoritmo-genetico",
+    "html": "https://fjmduran.com/blog/que-es-algoritmo-genetico",
     "metaTags": {
       "title": "¿Qué es un algoritmo genético 🤖🧬? Te lo cuento fácil 😉",
       "img": "https://github.com/fjmduran/images/blob/master/blog/genetic-algorithm/cover.jpg?raw=true",
@@ -1858,7 +1858,7 @@
     "description": "¿Quieres prepararte una entrevista para desarrollador frontend Angular? Aquí la segunda parte.",
     "tags": ["Angular"],
     "date": "2023-01-29T19:53:54.511Z",
-    "html": "/blog/entrevista-angular-parte02",
+    "html": "https://fjmduran.com/blog/entrevista-angular-parte02",
     "metaTags": {
       "title": "Preguntas comunes en entrevistas Angular 🅰 Segunda parte",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -1872,7 +1872,7 @@
     "description": "¿Alguna vez te has preguntado cómo los navegadores calculan la ruta hacia tu destino? Te lo cuento fácil 🧐",
     "tags": ["Algoritmia", "Ciencía y tecnología"],
     "date": "2023-02-05T19:36:54.511Z",
-    "html": "/blog/algoritmo-dijkstra",
+    "html": "https://fjmduran.com/blog/algoritmo-dijkstra",
     "metaTags": {
       "title": "¿Qué es el algoritmo Dijkstra? 🤖",
       "img": "https://github.com/fjmduran/images/blob/master/blog/dijkstra/cover.jpg?raw=true",
@@ -1886,7 +1886,7 @@
     "description": "¿Quieres prepararte una entrevista para desarrollador frontend Angular? Aquí la tercera parte.",
     "tags": ["Angular"],
     "date": "2023-02-12T22:02:54.511Z",
-    "html": "/blog/entrevista-angular-parte03",
+    "html": "https://fjmduran.com/blog/entrevista-angular-parte03",
     "metaTags": {
       "title": "Preguntas comunes en entrevistas Angular 🅰 Tercera parte",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -1900,7 +1900,7 @@
     "description": "Con los nuevos sensores IoT, ¿está el modelo de Purdue desfasado?",
     "tags": ["Ciberseguridad"],
     "date": "2023-02-19T19:08:54.511Z",
-    "html": "/blog/modelo_purdue",
+    "html": "https://fjmduran.com/blog/modelo_purdue",
     "metaTags": {
       "title": "El modelo de Purdue 🧱🔥",
       "img": "https://github.com/fjmduran/images/blob/master/blog/purdue_model/cover.jpg?raw=true",
@@ -1914,7 +1914,7 @@
     "description": "Aprende qué es la memoization. Impleméntalo en tus aplicaciones y dispara su rendimiento",
     "tags": ["Informática", "TypeScript"],
     "date": "2023-02-26T17:12:54.511Z",
-    "html": "/blog/que_es_memoization",
+    "html": "https://fjmduran.com/blog/que_es_memoization",
     "metaTags": {
       "title": "¿Qué es la memoization y cómo se aplica? 🚀",
       "img": "https://github.com/fjmduran/images/blob/master/blog/memoization/cover.jpg?raw=true",
@@ -1928,7 +1928,7 @@
     "description": "¿Quieres prepararte una entrevista para desarrollador frontend Angular? Aquí la cuarta parte.",
     "tags": ["Angular"],
     "date": "2023-03-05T18:11:54.511Z",
-    "html": "/blog/entrevista_angular_parte04",
+    "html": "https://fjmduran.com/blog/entrevista_angular_parte04",
     "metaTags": {
       "title": "Preguntas comunes en entrevistas Angular 🅰 Cuarta parte",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -1942,7 +1942,7 @@
     "description": "¿Has visto alguna vez palabras del tipo 0xDEADBEEF?¿Quieres saber qué son?",
     "tags": ["Informática"],
     "date": "2023-03-12T19:22:23.511Z",
-    "html": "/blog/que_es_sistema_hexadecimal",
+    "html": "https://fjmduran.com/blog/que_es_sistema_hexadecimal",
     "metaTags": {
       "title": "¿Qué es el sistema o código hexadecimal?",
       "img": "https://github.com/fjmduran/images/blob/master/blog/hexadecimalSystem/cover.jpg?raw=true",
@@ -1956,7 +1956,7 @@
     "description": "Te cuento qué es GraphQL y por qué para mí ha desbancado a API REST 📄. Además montamos un servidor GraphQL con Deno",
     "tags": ["GraphQL"],
     "date": "2023-03-19T19:08:54.511Z",
-    "html": "/blog/que_es_graphql",
+    "html": "https://fjmduran.com/blog/que_es_graphql",
     "metaTags": {
       "title": "¿Qué es GraphQL? 🤯 Programar un servidor GraphQL con Deno",
       "img": "https://github.com/fjmduran/images/blob/master/blog/graphql/cover.jpg?raw=true",
@@ -1984,7 +1984,7 @@
     "description": "¿Quieres prepararte una entrevista para desarrollador frontend Angular? Aquí la quinta parte.",
     "tags": ["Angular"],
     "date": "2023-04-02T21:07:54.511Z",
-    "html": "/blog/entrevista_angular_parte05",
+    "html": "https://fjmduran.com/blog/entrevista_angular_parte05",
     "metaTags": {
       "title": "Preguntas comunes en entrevistas Angular 🅰 Quinta parte",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -2344,21 +2344,7 @@
       "img": "https://github.com/fjmduran/images/blob/master/blog/rfi_arduino/cover.jpg?raw=true",
       "description": "Te cuento cómo programar sensores y transmisores por radiofrecuencia con placas de desarrollo tipo Arduino, ESP32, ESP8266..."
     }
-  },
-  {
-    "id": "interceptor_angular",
-    "title": "Interceptores en Angular ✋",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
-    "description": "Si tienes que enviar tokens en tus peticiones HTTP de Angular o si quieres tratar los errores HTTP obtenidos de tu backend en un sólo lugar y no tener que ir copiando y pegando código por cada petición este es tu artículo.",
-    "tags": ["Angular"],
-    "date": "2023-11-05T20:37:43.511Z",
-    "html": "https://quiero1app.com/blog/interceptor_angular",
-    "metaTags": {
-      "title": "Interceptores en Angular ✋",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
-      "description": "Si tienes que enviar tokens en tus peticiones HTTP de Angular o si quieres tratar los errores HTTP obtenidos de tu backend en un sólo lugar y no tener que ir copiando y pegando código por cada petición este es tu artículo."
-    }
-  },
+  }, 
   {
     "id": "que_hago_pierdo_roban_movil_smartphone",
     "title": "¿Qué hago si he perdido o me han robado el móvil? 😮❗❗",
@@ -2387,6 +2373,20 @@
       "description": "Te explico cómo exportar datos desde tu aplicación Angular sin usar librerías. Datos que haya obtenido el usuario y le haya aplicado varios filtros en una tabla por ejemplo."
     }
   }, 
+  {
+    "id": "interceptor_angular",
+    "title": "Interceptores en Angular ✋",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+    "description": "Si tienes que enviar tokens en tus peticiones HTTP de Angular o si quieres tratar los errores HTTP obtenidos de tu backend en un sólo lugar y no tener que ir copiando y pegando código por cada petición este es tu artículo.",
+    "tags": ["Angular"],
+    "date": "2023-11-26T20:37:43.511Z",
+    "html": "https://quiero1app.com/blog/interceptor_angular",
+    "metaTags": {
+      "title": "Interceptores en Angular ✋",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
+      "description": "Si tienes que enviar tokens en tus peticiones HTTP de Angular o si quieres tratar los errores HTTP obtenidos de tu backend en un sólo lugar y no tener que ir copiando y pegando código por cada petición este es tu artículo."
+    }
+  },
   {
     "id": "procedimientos_almacenados_sql",
     "title": "Procedimientos almacenados en SQL",
