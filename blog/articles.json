@@ -2344,14 +2344,14 @@
       "img": "https://github.com/fjmduran/images/blob/master/blog/rfi_arduino/cover.jpg?raw=true",
       "description": "Te cuento cómo programar sensores y transmisores por radiofrecuencia con placas de desarrollo tipo Arduino, ESP32, ESP8266..."
     }
-  }, 
+  },
   {
     "id": "que_hago_pierdo_roban_movil_smartphone",
     "title": "¿Qué hago si he perdido o me han robado el móvil? 😮❗❗",
     "img": "https://github.com/fjmduran/images/blob/master/blog/robo_movil/cover.jpg?raw=true",
     "description": "Te cuendo rápidamente qué tienes que hacer si has perdido o te han robado el móvil. Cada segundo cuenta.",
     "tags": ["Informática", "Ciberseguridad", "Ciencía y tecnología"],
-    "date": "2023-11-12T21:46:43.511Z",
+    "date": "2023-11-19T21:46:43.511Z",
     "html": "https://quiero1app.com/blog/que_hago_pierdo_roban_movil_smartphone",
     "metaTags": {
       "title": "¿Qué hago si he perdido o me han robado el móvil? 😮❗❗",
@@ -2365,26 +2365,40 @@
     "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
     "description": "Te explico cómo exportar datos desde tu aplicación Angular sin usar librerías. Datos que haya obtenido el usuario y le haya aplicado varios filtros en una tabla por ejemplo.",
     "tags": ["Angular"],
-    "date": "2023-11-19T20:34:43.511Z",
+    "date": "2023-11-26T20:34:43.511Z",
     "html": "https://quiero1app.com/blog/exportar_datos_desde_angular",
     "metaTags": {
       "title": "Exportando datos desde Angular 🚇 sin bibliotecas de terceros",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
       "description": "Te explico cómo exportar datos desde tu aplicación Angular sin usar librerías. Datos que haya obtenido el usuario y le haya aplicado varios filtros en una tabla por ejemplo."
     }
-  }, 
+  },
   {
     "id": "interceptor_angular",
     "title": "Interceptores en Angular ✋",
     "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
     "description": "Si tienes que enviar tokens en tus peticiones HTTP de Angular o si quieres tratar los errores HTTP obtenidos de tu backend en un sólo lugar y no tener que ir copiando y pegando código por cada petición este es tu artículo.",
     "tags": ["Angular"],
-    "date": "2023-11-26T20:37:43.511Z",
+    "date": "2023-12-03T20:37:43.511Z",
     "html": "https://quiero1app.com/blog/interceptor_angular",
     "metaTags": {
       "title": "Interceptores en Angular ✋",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
       "description": "Si tienes que enviar tokens en tus peticiones HTTP de Angular o si quieres tratar los errores HTTP obtenidos de tu backend en un sólo lugar y no tener que ir copiando y pegando código por cada petición este es tu artículo."
+    }
+  },
+  {
+    "id": "usuario_movil_o_usuario_escritorio",
+    "title": "¿Cómo puedo saber si un usuario es móvil o de escritorio? 🤷‍♀️",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/smartphone_desktop_user/cover.jpg?raw=true",
+    "description": "Te cuento cómo poder saber si el usuario que visita tu aplicación es un usuario de móvil o de escritorio.",
+    "tags": ["Recursos web", "Desarrollo de software"],
+    "date": "2023-12-10T19:38:43.511Z",
+    "html": "https://quiero1app.com/blog/usuario_movil_o_usuario_escritorio",
+    "metaTags": {
+      "title": "¿Cómo puedo saber si un usuario es móvil o de escritorio? 🤷‍♀️",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/smartphone_desktop_user/cover.jpg?raw=true",
+      "description": "Te cuento cómo poder saber si el usuario que visita tu aplicación es un usuario de móvil o de escritorio."
     }
   },
   {
