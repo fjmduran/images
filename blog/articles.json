@@ -2346,17 +2346,31 @@
     }
   },
   {
+    "id": "novedades_instalar_migrar_angular_17",
+    "title": "¿Qué trae nuevo Angular 17 💞? Novedades, instalar y migrar",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/angular17.jpg?raw=true",
+    "description": "Esta semana han liberado la versión 17 de Angular, y si me gustó la 16 te adelanto que la 17 es una locura 💣. Te cuento cómo instalar la versión 17, cómo migrar tus proyectos de la versión 16 a la 17 y la novedades de la versión 17 de Angular",
+    "tags": ["Angular"],
+    "date": "2023-11-10T23:24:54.511Z",    
+    "html": "https://quiero1app.com/blog/novedades_instalar_migrar_angular_17",
+    "metaTags": {
+      "title": "¿Qué trae nuevo Angular 17 💞? Novedades, instalar y migrar",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/angular17.jpg?raw=true",
+      "description": "Esta semana han liberado la versión 17 de Angular, y si me gustó la 16 te adelanto que la 17 es una locura 💣. Te cuento cómo instalar la versión 17, cómo migrar tus proyectos de la versión 16 a la 17 y la novedades de la versión 17 de Angular"
+    }
+  },
+  {
     "id": "que_hago_pierdo_roban_movil_smartphone",
     "title": "¿Qué hago si he perdido o me han robado el móvil? 😮❗❗",
     "img": "https://github.com/fjmduran/images/blob/master/blog/robo_movil/cover.jpg?raw=true",
-    "description": "Te cuendo rápidamente qué tienes que hacer si has perdido o te han robado el móvil. Cada segundo cuenta.",
+    "description": "Te cuendo rápidamente qué tienes que hacer si has perdido o te han robado el móvil. Cada segundo cuenta. Si piensas que tú eres de los que no tiene nada que ocultar... te equivocas",
     "tags": ["Informática", "Ciberseguridad", "Ciencía y tecnología"],
     "date": "2023-11-19T21:46:43.511Z",
     "html": "https://quiero1app.com/blog/que_hago_pierdo_roban_movil_smartphone",
     "metaTags": {
       "title": "¿Qué hago si he perdido o me han robado el móvil? 😮❗❗",
       "img": "https://github.com/fjmduran/images/blob/master/blog/robo_movil/cover.jpg?raw=true",
-      "description": "Te cuendo rápidamente qué tienes que hacer si has perdido o te han robado el móvil. Cada segundo cuenta."
+      "description": "Te cuendo rápidamente qué tienes que hacer si has perdido o te han robado el móvil. Cada segundo cuenta. Si piensas que tú eres de los que no tiene nada que ocultar... te equivocas"
     }
   },
   {
