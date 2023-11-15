@@ -450,5 +450,77 @@
     {
         "question":"¿Cómo se dice estanteria en inglés?",
         "answer":"bookcase"
+    },
+    {
+        "question":"¿Cómo se dice 'montar en bicicleta' en inglés?",
+        "answer":"ride a bike"
+    },
+    {
+        "question":"¿Cómo se dice 'hacer malabares' en inglés?",
+        "answer":"juggle"
+    },
+    {
+        "question":"¿Cómo se dice 'tocar la guitarra' en inglés?",
+        "answer":"play the guitar"
+    },
+    {
+        "question":"¿Cómo se dice 'bailar' en inglés?",
+        "answer":"dance"
+    },
+    {
+        "question":"¿Cómo se dice 'pintar' en inglés?",
+        "answer":"paint"
+    },
+    {
+        "question":"¿Cómo se dice 'hacer karate' en inglés?",
+        "answer":"do karate"
+    },
+    {
+        "question":"¿Cómo se dice 'cantar' en inglés?",
+        "answer":"sing"
+    },
+    {
+        "question":"¿Cómo se dice 'hacer maquetas' en inglés?",
+        "answer":"make models"
+    },
+    {
+        "question":"¿Cómo se dice 'cocina' en inglés?",
+        "answer":"kitchen"
+    },
+    {
+        "question":"¿Cómo se dice 'salón' en inglés?",
+        "answer":"living room"
+    },
+    {
+        "question":"¿Cómo se dice 'entrada de la casa' en inglés?",
+        "answer":"hall"
+    },
+    {
+        "question":"¿Cómo se dice 'cuarto de baño' en inglés?",
+        "answer":"bathroom"
+    },
+    {
+        "question":"¿Cómo se dice 'dormitorio' en inglés?",
+        "answer":"bedroom"
+    },
+    {
+        "question":"¿Cómo se dice 'jardín' en inglés?",
+        "answer":"garden"
+    },
+    {
+        "question":"¿Cómo se dice 'el gato está sobre la caja' en inglés?",
+        "answer":"the cat is on the box"
+    },
+    {
+        "question":"¿Cómo se dice 'el gato está detrás de la caja' en inglés?",
+        "answer":"the cat is behind the box"
+    },
+    {
+        "question":"¿Cómo se dice 'el gato está debajo de la caja' en inglés?",
+        "answer":"the cat is under the box"
+    },
+    {
+        "question":"¿Cómo se dice 'el gato está dentro de la caja' en inglés?",
+        "answer":"the cat is in the box"
     }
 ]
