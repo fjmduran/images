@@ -169,17 +169,17 @@
   },
   {
     "id": "hosting-free",
-    "title": "Hosting gratuito para tus pruebas",
+    "title": "Despliegue gratuito de tus aplicaciones para tus pruebas",
     "img": "https://github.com/fjmduran/images/blob/master/blog/hosting/cover.jpg?raw=true",
-    "description": "En este artículo te diré los hosting gratuitos que he usado para mis despliegues de prueba",
+    "description": "En este artículo te diré los servicios gratuitos que he probado para mis pruebas en la nube. Te mostraré servicios gratuitos para frontend, backend y bases de datos",
     "tags": ["Recursos web"],
     "date": "2020-08-22T14:43:43.511Z",
-    "updateDate": "2023-08-20T10:43:43.511Z",
+    "updateDate": "2023-12-11T10:43:43.511Z",
     "html": "https://fjmduran.com/blog/hosting-free",
     "metaTags": {
-      "title": "Hosting gratuitos para hacer despliegues para lo que necesites, pruebas, enseñar un producto a un cliente...",
+      "title": "Despliegue gratuitos para hacer despliegues para lo que necesites, pruebas, enseñar un producto a un cliente...",
       "img": "https://github.com/fjmduran/images/blob/master/blog/hosting/cover.jpg?raw=true",
-      "description": "Hosting gratuitos para hacer despliegues para lo que necesites, pruebas, enseñar un producto a un cliente..."
+      "description": "En este artículo te diré los servicios gratuitos que he probado para mis pruebas en la nube. Te mostraré servicios gratuitos para frontend, backend y bases de datos"
     }
   },
   {
@@ -2414,33 +2414,5 @@
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
       "description": "Si tienes que enviar tokens en tus peticiones HTTP de Angular o si quieres tratar los errores HTTP obtenidos de tu backend en un sólo lugar y no tener que ir copiando y pegando código por cada petición este es tu artículo."
     }
-  },
-  {
-    "id": "simulador_servidor_http_postman",
-    "title": "Crea un simulador de un servidor HTTP con Postman",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/mock_server_postman/cover.jpg?raw=true",
-    "description": "Te enseño a crearte un simulador de un servidor HTTP para poder avanzar con tu aplicación en el caso de que no tengas aún un servidor HTTP real. Antes utilizaba objetos JSON pero hacerlo con Postman es más cómodo ya que en tu aplicación tan sólo tendrás que cambiar el endpoint al que apuntar.",
-    "tags": ["Informática", "JavaScript"],
-    "date": "2024-01-14T20:20:43.511Z",
-    "html": "https://quiero1app.com/blog/simulador_servidor_http_postman",
-    "metaTags": {
-      "title": "Crea un simulador de un servidor HTTP con Postman",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/mock_server_postman/cover.jpg?raw=true",
-      "description": "Te enseño a crearte un simulador de un servidor HTTP para poder avanzar con tu aplicación en el caso de que no tengas aún un servidor HTTP real. Antes utilizaba objetos JSON pero hacerlo con Postman es más cómodo ya que en tu aplicación tan sólo tendrás que cambiar el endpoint al que apuntar."
-    }
-  },
-  {
-    "id": "procedimientos_almacenados_sql",
-    "title": "Procedimientos almacenados en SQL",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/storeProcedure/cover.jpg?raw=true",
-    "description": "¿Qué ventajas y desventajes tienen los procedimientos almacenados en SQL?",
-    "tags": ["Bases de datos", "Bases de datos"],
-    "date": "2024-06-18T21:26:43.511Z",
-    "html": "https://quiero1app.com/blog/procedimientos_almacenados_sql",
-    "metaTags": {
-      "title": "Procedimientos almacenados en SQL",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/storeProcedure/cover.jpg?raw=true",
-      "description": "¿Qué ventajas y desventajes tienen los procedimientos almacenados en SQL?"
-    }
-  }
+  }  
 ]
