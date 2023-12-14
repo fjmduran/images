@@ -2211,7 +2211,7 @@
     "description": "Es muy útil usar las herramientas de desarrollo de los navegadores para probar nuestras aplicaciones con distintas configuraciones de pantalla, pero a veces, no refleja el comportamiento real en un dispositivio físico. Por este motivo te enseñaré a correr tu aplicación Angular en tu smartphone o tablet.",
     "tags": ["Angular"],
     "date": "2023-07-23T21:15:54.511Z",
-    "html": "https://quiero1app.com/blog/probando_proyecto_angular_en_dispositivo_fisico",
+    "html": "https://quiero1app.com/blog/probando_proyecto_angular_en_dispositivo_fisico/",
     "metaTags": {
       "title": "Ejecuta tu proyecto Angular en un smartphone o tablet 🚀",
       "img": "https://github.com/fjmduran/images/blob/master/blog/angular.jpg?raw=true",
@@ -2226,7 +2226,7 @@
     "tags": ["C#", "Informática"],
     "updateDate": "2023-11-05T16:06:54.511Z",
     "date": "2023-08-06T21:11:54.511Z",
-    "html": "https://quiero1app.com/blog/programando_plugin_impresora_termica",
+    "html": "https://quiero1app.com/blog/programando_plugin_impresora_termica/",
     "metaTags": {
       "title": "Programando un plugin para trabajar con una impresora térmica",
       "img": "https://github.com/fjmduran/images/blob/master/blog/esc_pos_printer/cover.jpg?raw=true",
@@ -2240,7 +2240,7 @@
     "description": "Angular dispone de herramientas nativas para obligar al cliente que consuma nuestra aplicación a utilizar la última versión desplegada. No necesitarás librerías de terceros 😎",
     "tags": ["Angular"],
     "date": "2023-08-13T20:47:54.511Z",
-    "html": "https://quiero1app.com/blog/forzar_ultima_version_aplicacion_angular",
+    "html": "https://quiero1app.com/blog/forzar_ultima_version_aplicacion_angular/",
     "metaTags": {
       "title": "Forzando a consumir la última versión de una aplicación Angular🧐",
       "img": "https://github.com/fjmduran/images/blob/master/blog/last_version_angular_app_mandatory/cover.jpg?raw=true",
