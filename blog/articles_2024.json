@@ -14,6 +14,20 @@
     }
   },
   {
+    "id": "instala_windows_subsystem_linux_wsl",
+    "title": "Instalando WSL (Windows Subsystem for Linux)",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/wsl/cover.jpg?raw=true",
+    "description": "Aprenderás a instalar WSL (Windows Subsytem for Linux), la forma de ejecutar sistemas Linux (Ubuntu, Debian...) dentro de Windows. Si quieres utilizar Docker en Windows instalar WSL es el primer paso.",
+    "tags": ["Informática", "Docker", "Linux"],
+    "date": "2024-01-21T20:34:43.511Z",
+    "html": "https://quiero1app.com/blog/instala_windows_subsystem_linux_wsl",
+    "metaTags": {
+      "title": "Instalando WSL (Windows Subsystem for Linux)",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/wsl/cover.jpg?raw=true",
+      "description": "Aprenderás a instalar WSL (Windows Subsytem for Linux), la forma de ejecutar sistemas Linux (Ubuntu, Debian...) dentro de Windows. Si quieres utilizar Docker en Windows instalar WSL es el primer paso."
+    }
+  },
+  {
     "id": "procedimientos_almacenados_sql",
     "title": "Procedimientos almacenados en SQL",
     "img": "https://github.com/fjmduran/images/blob/master/blog/storeProcedure/cover.jpg?raw=true",
