@@ -1,16 +1,16 @@
 [
   {
-    "id": "simulador_servidor_http_postman",
-    "title": "Crea un simulador de un servidor HTTP con Postman",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/mock_server_postman/cover.jpg?raw=true",
-    "description": "Te enseño a crearte un simulador de un servidor HTTP para poder avanzar con tu aplicación en el caso de que no tengas aún un servidor HTTP real. Antes utilizaba objetos JSON pero hacerlo con Postman es más cómodo ya que en tu aplicación tan sólo tendrás que cambiar el endpoint al que apuntar.",
-    "tags": ["Informática", "JavaScript"],
+    "id": "algoritmia_primer_grado_ingenieria",
+    "title": "Ejercicios de programación de primero del grado de ingeniería",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1703247131/blog/algoritmia_bhvvzn.jpg",
+    "description": "Resuelvo ejercicios de programación del primer año del grado en ingenieria en España",
+    "tags": ["Informática", "TypeScript", "Algoritmia"],
     "date": "2024-01-14T20:20:43.511Z",
-    "html": "https://quiero1app.com/blog/simulador_servidor_http_postman",
+    "html": "https://quiero1app.com/blog/algoritmia_primer_grado_ingenieria",
     "metaTags": {
-      "title": "Crea un simulador de un servidor HTTP con Postman",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/mock_server_postman/cover.jpg?raw=true",
-      "description": "Te enseño a crearte un simulador de un servidor HTTP para poder avanzar con tu aplicación en el caso de que no tengas aún un servidor HTTP real. Antes utilizaba objetos JSON pero hacerlo con Postman es más cómodo ya que en tu aplicación tan sólo tendrás que cambiar el endpoint al que apuntar."
+      "title": "Ejercicios de programación de primero del grado de ingeniería",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1703247131/blog/algoritmia_bhvvzn.jpg",
+      "description": "Resuelvo ejercicios de programación del primer año del grado en ingenieria en España"
     }
   },
   {
@@ -25,6 +25,20 @@
       "title": "Instalando WSL (Windows Subsystem for Linux)",
       "img": "https://github.com/fjmduran/images/blob/master/blog/wsl/cover.jpg?raw=true",
       "description": "Aprenderás a instalar WSL (Windows Subsytem for Linux), la forma de ejecutar sistemas Linux (Ubuntu, Debian...) dentro de Windows. Si quieres utilizar Docker en Windows instalar WSL es el primer paso."
+    }
+  },
+  {
+    "id": "simulador_servidor_http_postman",
+    "title": "Crea un simulador de un servidor HTTP con Postman",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/mock_server_postman/cover.jpg?raw=true",
+    "description": "Te enseño a crearte un simulador de un servidor HTTP para poder avanzar con tu aplicación en el caso de que no tengas aún un servidor HTTP real. Antes utilizaba objetos JSON pero hacerlo con Postman es más cómodo ya que en tu aplicación tan sólo tendrás que cambiar el endpoint al que apuntar.",
+    "tags": ["Informática"],
+    "date": "2024-01-28T20:59:43.511Z",
+    "html": "https://quiero1app.com/blog/simulador_servidor_http_postman",
+    "metaTags": {
+      "title": "Crea un simulador de un servidor HTTP con Postman",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/mock_server_postman/cover.jpg?raw=true",
+      "description": "Te enseño a crearte un simulador de un servidor HTTP para poder avanzar con tu aplicación en el caso de que no tengas aún un servidor HTTP real. Antes utilizaba objetos JSON pero hacerlo con Postman es más cómodo ya que en tu aplicación tan sólo tendrás que cambiar el endpoint al que apuntar."
     }
   },
   {
