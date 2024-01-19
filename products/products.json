@@ -272,15 +272,15 @@
   },
   {
     "id": "descargar-youtube",
-    "title": "Descarga GRATIS música MP3 y vídeos desde YOUTUBE",
-    "html": "https://descarga-mp3-video-gratis-yutube.web.app/",
+    "title": "Descarga GRATIS MP3 desde YOUTUBE",
+    "html": "https://descarga-mp3-youtube.quiero1app.com/",
     "icon": "https://descarga-mp3-video-gratis-yutube.web.app/assets/icons/icon-144x144.png",
     "img": "https://github.com/fjmduran/images/blob/master/products/youtubeDownloader/metaTag.jpg?raw=true",
-    "description": "Descarga GRATIS música y vídeo desde YOUTUBE.",
+    "description": "Descarga GRATIS MP3 desde YOUTUBE",
     "metaTags": {
-      "title": "Descarga GRATIS música MP3 y vídeos desde YOUTUBE",
+      "title": "Descarga GRATIS MP3 desde YOUTUBE",
       "img": "https://github.com/fjmduran/images/blob/master/products/youtubeDownloader/cover.jpg?raw=true",
-      "description": "Descarga GRATIS música y vídeo desde YOUTUBE."
+      "description": "Descarga GRATIS MP3 desde YOUTUBE"
     },
     "date": "2020-10-17T18:30:43.511Z",
     "featuresText": [
@@ -470,7 +470,7 @@
     "description": "Datos oficiales de la Junta de Andalucía sobre COVID-19",
     "metaTags": {
       "title": "Datos COVID-19",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Productos%2Fyoutube-downloader%2FyoutubeDw.webp?alt=media&token=16671cc7-f6f1-4a9a-96b0-f447ab005a14",
+      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Productos%2Fcovid19%2Fcovid19_producto.jpg?alt=media&token=ba9a57a2-c06d-465a-ae2e-e2da5a66041c",
       "description": "Datos oficiales de la Junta de Andalucía sobre COVID-19"
     },
     "date": "2020-10-16T18:20:43.511Z",
