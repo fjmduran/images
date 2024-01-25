@@ -88,13 +88,27 @@
     "title": "Procedimientos almacenados en SQL",
     "img": "https://github.com/fjmduran/images/blob/master/blog/storeProcedure/cover.jpg?raw=true",
     "description": "¿Qué ventajas y desventajes tienen los procedimientos almacenados en SQL?",
-    "tags": ["Bases de datos", "Bases de datos"],
+    "tags": ["Bases de datos"],
     "date": "2024-06-18T21:26:43.511Z",
     "html": "https://quiero1app.com/blog/procedimientos_almacenados_sql/",
     "metaTags": {
       "title": "Procedimientos almacenados en SQL",
       "img": "https://github.com/fjmduran/images/blob/master/blog/storeProcedure/cover.jpg?raw=true",
       "description": "¿Qué ventajas y desventajes tienen los procedimientos almacenados en SQL?"
+    }
+  },
+  {
+    "id": "deplegar_net_app_IIS",
+    "title": "Instalando IIS y desplegando aplicación web de .NET",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706011224/blog/net_to_iis/cover_lm5vht.jpg",
+    "description": "Instalamos el servidor web de Internet Information Services y cargamos una API REST programada con .NET6 y C#",
+    "tags": ["IIS",".NET"],
+    "date": "2024-06-18T21:26:43.511Z",
+    "html": "https://quiero1app.com/blog/deplegar_net_app_IIS/",
+    "metaTags": {
+      "title": "Instalando IIS y desplegando aplicación web de .NET",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706011224/blog/net_to_iis/cover_lm5vht.jpg",
+    "description": "Instalamos el servidor web de Internet Information Services y cargamos una API REST programada con .NET6 y C#"
     }
   }
 ]

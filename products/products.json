@@ -129,7 +129,7 @@
     "date": "2020-10-17T09:06:43.511Z",
     "featuresText": [
       "Los usuarios pagarán con VISA, Mastercard o American Express.",
-      "Acceso a las pistas y encendido de luces con la APP."      
+      "Acceso a las pistas y encendido de luces con la APP."
     ],
     "features": [
       {
@@ -206,7 +206,7 @@
   {
     "id": "negocio-local",
     "title": "Negocio local",
-    "html": "https://www.youtube.com/watch?v=aUDDWwkESjM",
+    "html": "https://negocios.fjmduran.com/a",
     "icon": "https://app-negocio-local.web.app/assets/icons/icon-144x144.png",
     "img": "https://github.com/fjmduran/images/blob/master/products/local-bussiness/cover.jpg?raw=true",
     "description": "Gestiona tu negocio con una sóla herramienta",
@@ -283,9 +283,7 @@
       "description": "Descarga GRATIS MP3 desde YOUTUBE"
     },
     "date": "2020-10-17T18:30:43.511Z",
-    "featuresText": [
-      "GRATIS - MP3 - MP4"
-    ],
+    "featuresText": ["GRATIS - MP3 - MP4"],
     "features": [
       {
         "icon": "beach_access",
@@ -293,6 +291,7 @@
       }
     ]
   },
+
   {
     "id": "cliente-mqtt",
     "title": "Cliente MQTT",
@@ -330,6 +329,10 @@
     "featuresText": ["Diviértete gratis"],
     "features": [
       {
+        "icon": "emoji_nature",
+        "text": "Colabora con el medioambiente"
+      },
+      {
         "icon": "beach_access",
         "text": "Zona gratuita"
       }
@@ -353,6 +356,9 @@
       {
         "icon": "beach_access",
         "text": "Zona gratuita"
+      },{
+        "icon": "emoji_nature",
+        "text": "Colabora con el medioambiente"
       }
     ]
   },
@@ -369,7 +375,7 @@
       "description": "Generador de contraseñas seguras"
     },
     "date": "2020-10-16T18:20:43.511Z",
-    "featuresText": ["Letras, número y símbolos","GRATIS 🎁"],
+    "featuresText": ["Letras, número y símbolos", "GRATIS 🎁"],
     "features": [
       {
         "icon": "beach_access",
@@ -416,17 +422,14 @@
     "html": "https://fjmduran.com/qr-generator",
     "icon": "https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
     "img": "https://github.com/fjmduran/images/blob/master/products/qr/cover.jpg?raw=true",
-    "description": 
-      "Crea y personaliza tus propios códigos QR gratis, sin publicidad, sin marcas de agua y sin compromiso",
+    "description": "Crea y personaliza tus propios códigos QR gratis, sin publicidad, sin marcas de agua y sin compromiso",
     "metaTags": {
       "title": "Generador de códigos QR gratis",
       "img": "https://github.com/fjmduran/images/blob/master/products/qr/cover.jpg?raw=true",
       "description": "Crea y personaliza tus propios códigos QR gratis, sin publicidad, marcas de agua y sin compromiso"
     },
     "date": "2020-10-17T18:25:43.511Z",
-    "featuresText": [
-      "GRATIS 🎁"
-    ],
+    "featuresText": ["GRATIS 🎁"],
     "features": [
       {
         "icon": "beach_access",
@@ -451,10 +454,33 @@
       "description": "Ajusta y estima tus riegos en función a tu cuota. Confederación ha asignado una cuota de riego en función de tus hectáreas de cultivo. Ajusta y no te quedes sin agua cuando más falta te hace."
     },
     "date": "2020-10-17T09:06:43.511Z",
-    "featuresText": [
-      "GRATIS 🎁"
-    ],
+    "featuresText": ["GRATIS 🎁"],
     "features": [
+      {
+        "icon": "beach_access",
+        "text": "Zona gratuita"
+      }
+    ]
+  },
+  {
+    "id": "ruta-tapa",
+    "html": "https://ruta-tapa.fjmduran.com/",
+    "title": "Ruta de la tapa",
+    "icon": "https://ruta-tapa.fjmduran.com/assets/icons/icon-144x144.png",
+    "img": "https://rutatapa.web.app/assets/images/metaTag.jpg",
+    "description": "Descarga GRATIS MP3 desde YOUTUBE",
+    "metaTags": {
+      "title": "Ruta de la tapa",
+      "icon": "https://ruta-tapa.fjmduran.com/assets/icons/icon-144x144.png",
+      "img": "https://rutatapa.web.app/assets/images/metaTag.jpg"
+    },
+    "date": "2020-10-17T09:06:43.511Z",
+    "featuresText": ["GRATIS"],
+    "features": [
+      {
+        "icon": "emoji_nature",
+        "text": "Colabora con el medioambiente"
+      },
       {
         "icon": "beach_access",
         "text": "Zona gratuita"
@@ -474,9 +500,7 @@
       "description": "Datos oficiales de la Junta de Andalucía sobre COVID-19"
     },
     "date": "2020-10-16T18:20:43.511Z",
-    "featuresText": [
-      "GRATIS 🎁"
-    ],
+    "featuresText": ["GRATIS 🎁"],
     "features": [
       {
         "icon": "beach_access",
