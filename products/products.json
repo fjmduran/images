@@ -245,7 +245,7 @@
     "description": "Gestiona tu negocio con una sóla herramienta",
     "metaTags": {
       "title": "Gestiona el acceso a tus propiedades",
-      "img": "https://app.negocio-local.com/assets/icons/icon-144x144.png",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706282458/products/stores/storesMetatag.jpg",
       "description": "Eres propiertario de una vivienda turística, trasteros, garages...? Concede y revoca acceso."
     },
     "date": "2020-10-17T09:06:43.511Z",
@@ -327,7 +327,7 @@
     "description": "Descarga GRATIS MP3 desde YOUTUBE",
     "metaTags": {
       "title": "Descarga GRATIS MP3 desde YOUTUBE",
-      "img": "https://github.com/fjmduran/images/blob/master/products/youtubeDownloader/cover.jpg?raw=true",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706282659/products/youtube/youtubeMetatag.jpg",
       "description": "Descarga GRATIS MP3 desde YOUTUBE"
     },
     "date": "2020-10-17T18:30:43.511Z",
@@ -356,7 +356,7 @@
     "description": "Cliente MQTT gratuito para tus pruebas",
     "metaTags": {
       "title": "Cliente MQTT",
-      "img": "https://cliente-mqtt.fjmduran.com/assets/screenshots/1.png",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706282917/products/mqtt/mqttMetatag.jpg",
       "description": "Cliente MQTT gratuito para tus pruebas"
     },
     "date": "2020-10-18T18:20:43.511Z",
