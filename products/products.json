@@ -17,6 +17,13 @@
       "Utiliza nuestros QR de acceso a piscina...",
       "La documentación de tu comunidad en la nube"
     ],
+    "history": [
+      "Un lugar donde encontrar toda la documentación de mi comunidad de vecinos.",
+      "Facturas de agua, actas, contratos...",
+      "Reserva y paga de zonas comunes.",
+      "Apertura de garage configuración del riego automático, encendido de luces..."
+    ],
+    "technologies": ["0", "1", "7", "13", "17", "15", "20"],
     "features": [
       {
         "icon": "vpn_key",
@@ -62,6 +69,14 @@
       "TPV",
       "Gestión de stock"
     ],
+    "history": [
+      "Un amigo tenía una pizzería.",
+      "Con la llegada del COVID casi la única opción era llevar pizzas a domicilio.",
+      "Mientras hacía las pizzas le era muy difícil atender el móvil.",
+      "Le hice esta aplicación para que sus clientes trabajaran por él, ellos hacían los pedidos con lo que se ahorraba el atender el móvil, anotar el pedido y decir qué pizzas tenía disponibles.",
+      "Con el tiempo le fui añadiendo más funcionalidades, la gestión del stock le ahorró mucho trabajo e incertidumbre."
+    ],
+    "technologies": ["0", "1", "13", "15", "20"],
     "features": [
       {
         "icon": "beach_access",
@@ -131,6 +146,14 @@
       "Los usuarios pagarán con VISA, Mastercard o American Express.",
       "Acceso a las pistas y encendido de luces con la APP."
     ],
+    "history": [
+      "En 2010 vivía en Sevilla capital.",
+      "Para poder reservar pista de pádel había que esperar a las 0 horas y que el conserje sacar un folio para apuntarte.",
+      "Era un poema, sobre todo en invierno, ver a los vecinos en pijama a las 23:30 haciendo fila para poder reservar pista.",
+      "Con esta aplicación pudimos esperar pero en nuestro sofá o cama.",
+      "Fue evolucionando a controlar las luces, las puertas..."
+    ],
+    "technologies": ["0", "1", "8", "13", "17", "15", "20"],
     "features": [
       {
         "icon": "vpn_key",
@@ -175,6 +198,16 @@
       "Concede y revoca acceso a tus propiedades con tu móvil",
       "Programa caducidades de acceso",
       "Evita quedar con tus huéspedes para darle las llaves."
+    ],
+    "technologies": ["0", "1", "8", "13", "17", "15", "20"],
+    "history": [
+      "En una ocasión cuando llegué a casa mi garage no habría.",
+      "Mi mando se había que dado sin pilas.",
+      "Estas cosas suelen pasar cuando más prisa tienes.",
+      "Para evitar que me volviera a pasar hice una aplicación con la que puedo abrir la puerta de mi garage.",
+      "No sólo sustituía al mando, ahora podía abrir la puerta desde cualquier sitio, por ejemplo desde la playa.",
+      "A mi padre le hizo falta mi caja de herramientas y le abrí desde la playa.",
+      "Además se terminó la incertidumbre de si he cerrado la puerta o no, ya que le puse un final de carrera y cuando tengo la duda de si he cerrado tan sólo tengo que abrir la aplicación."
     ],
     "features": [
       {
@@ -222,6 +255,13 @@
       "Venta por internet",
       "Gestión de productos (stock, caducidad, proveedores...)"
     ],
+    "technologies": ["0", "1", "7", "12", "16", "20"],
+    "history": [
+      "Un amigo tiene un pequeño negocio en los que necesita que una vez que consigue un contrato tener recordatorios anuales para dar soporte y mantenimiento.",
+      "Le hice esta aplicación.",
+      "Después me pidió que los presupuestos pudieran seguir distintas fases y evolucionar a facturas.",
+      "Además quería mostrar a sus cliente en su tablet accesorios y artículos."
+    ],
     "features": [
       {
         "icon": "vpn_key",
@@ -263,6 +303,14 @@
     },
     "date": "2020-10-17T09:06:43.511Z",
     "featuresText": ["Local", "Conectado a la nube"],
+    "technologies": ["0", "1", "13", "17", "20"],
+    "history": [
+      "En todos los campeonatos de pádel que he participado siempre ha habido algún partido en los que ha había jaleo con el puntaje.",
+      "En todos.",
+      "Es fácil perderse con los puntos, sobre todo cuando juegas puntos largos.",
+      "Hice esta aplicación que lleva el puntaje y puede recibir órdenes tanto desde un móvil como desde un pequeño mando de RF.",
+      "Ahora vemos el puntaje en una TV."
+    ],
     "features": [
       {
         "icon": "beach_access",
@@ -283,6 +331,14 @@
       "description": "Descarga GRATIS MP3 desde YOUTUBE"
     },
     "date": "2020-10-17T18:30:43.511Z",
+    "technologies": ["0", "1", "15", "8", "20"],
+    "history": [
+      "Hace varios años mi mujer me pidió que le descargara un audio de YouTube.",
+      "Quería bajarse música y podcasts para ir a andar y no tener que gastar datos ni tener la pantalla encendida con Youtube.",
+      "Hay aplicaciones en Internet que lo hacen pero hay mucha publicidad.",
+      "En una ocasión llegué a una aplicación que hacía phishing, en aquella época se estilaba el de que te había tocado un carro lleno de comida de Mercadona.",
+      "Resumiendo, le hice esta aplicación para que ella misma pudiera descargarse lo que quisiera de forma fácil y segura."
+    ],
     "featuresText": ["GRATIS - MP3 - MP4"],
     "features": [
       {
@@ -291,7 +347,6 @@
       }
     ]
   },
-
   {
     "id": "cliente-mqtt",
     "title": "Cliente MQTT",
@@ -305,6 +360,12 @@
       "description": "Cliente MQTT gratuito para tus pruebas"
     },
     "date": "2020-10-18T18:20:43.511Z",
+    "technologies": ["0", "15", "20"],
+    "history": [
+      "Para testear mis brokers MQTT necesito un cliente.",
+      "En una ocasión no tenía mi portátil a mano y necesitaba hacer una prueba.",
+      "Me hice esta aplicación para poder hacer pruebas con mis brokers MQTT con el móvil."
+    ],
     "featuresText": ["Local", "Conectado a la nube"],
     "features": [
       {
@@ -326,6 +387,17 @@
       "description": "Juega resolviendo el puzzle de las torres de Hanoi"
     },
     "date": "2020-10-16T18:20:43.511Z",
+    "technologies": ["0", "15", "20"],
+    "history": [
+      "Mi hija tenía 6 años, estábamos en la biblioteca de mi pueblo y se quedó mirando un juego de torres de Hanoi.",
+      "Lo cogí y le expliqué cómo se jugaba.",
+      "Se entretenía mucho, pero lo mejor... los acababa resolviendo con poca ayuda.",
+      "Le gustaba el juego.",
+      "Se lo programé para que jugara con la tablet.",
+      "¿Por qué se lo programé? Porque puedo 😅",
+      "Cuando íbamos a algún sitio a comer no tenía que cargar con el juego, le daba el móvil y jugaba.",
+      "No le dejo mucho el móvil, Cuando lo hago prefiero que juegue a que se ponga a ver dibujos animandos."
+    ],
     "featuresText": ["Diviértete gratis"],
     "features": [
       {
@@ -351,12 +423,21 @@
       "description": "Juego de preguntas para motivar a mi hija Adriana 🥰"
     },
     "date": "2020-10-16T18:20:43.511Z",
+    "technologies": ["0", "15", "20"],
+    "history": [
+      "En las Navidades de 2022 le hice a mi hija este juego de preguntas para ayudarla con el inglés.",
+      "Tenía 6 años y se frustaba porque, para nosotros, el inglés no se escribe como se pronuncia.",
+      "Con este juego quería que se familiarizara con la escritura del inglés.",
+      "No estaba de acuerdo con que se les puntura por cómo escribían inglés, pero bueno, es lo que había.",
+      "Para motivarla, cada vez que encadena 10 respuestas correctas le muestro un poni de su serie de dibujos favorito."
+    ],
     "featuresText": ["Diviértete GRATIS 🎁"],
     "features": [
       {
         "icon": "beach_access",
         "text": "Zona gratuita"
-      },{
+      },
+      {
         "icon": "emoji_nature",
         "text": "Colabora con el medioambiente"
       }
@@ -375,6 +456,13 @@
       "description": "Generador de contraseñas seguras"
     },
     "date": "2020-10-16T18:20:43.511Z",
+    "technologies": ["0", "1", "15", "20"],
+    "history": [
+      "En el trabajo tuve que desarrollar una plataforma y cuando se registraban usuarios nuevos me pedían que yo generara contraseñas aleatorias.",
+      "Obviamente tenían que ser seguras.",
+      "Me hice un algoritmo para ello.",
+      "Ese algoritmo es el que uso en esta aplicación para generar contraseñas seguras y aleatorias."
+    ],
     "featuresText": ["Letras, número y símbolos", "GRATIS 🎁"],
     "features": [
       {
@@ -396,6 +484,13 @@
       "description": "Aplicación gratis para para llevar la lista de la compra en tu móvil. ¿Te has olvidado algunas vez la lista de la compra en la cocina, en el imán de la nevera?¿Se te ha olvidad apuntar algo en la lista porque no la tenías a mano?"
     },
     "date": "2020-10-17T18:25:43.511Z",
+    "technologies": ["0", "1", "13", "15", "20"],
+    "history": [
+      "Desde 2011 a mi mujer y a mí se nos dejó de olvidar la lista de la compra en la nevera.",
+      "Porque siempre llevamos la lista en el móvil.",
+      "La primera versión de esta aplicación la hice con GWT.",
+      "Ya ha llovido desde entonces."
+    ],
     "featuresText": ["GRATIS 🎁"],
     "features": [
       {
@@ -429,6 +524,14 @@
       "description": "Crea y personaliza tus propios códigos QR gratis, sin publicidad, marcas de agua y sin compromiso"
     },
     "date": "2020-10-17T18:25:43.511Z",
+    "technologies": ["0", "15", "20"],
+    "history": [
+      "El primer verano de COVID los ayuntamientos redujeron el aforo de las piscinas al 40% del aforo máximo.",
+      "Además exigían que llevaran un control en todo momento de las personas que había dentro.",
+      "No era muy práctico que el socorrista estuvier con un cuaderno y un boli contando.",
+      "Me pidieron controlar el acceso con QR y así también controlaban los pases de invitados y evitaban que gente de fuera de la comunidad accedieran.",
+      "Una de las cosas que tuve que programar fue la generación del códigos QR."
+    ],
     "featuresText": ["GRATIS 🎁"],
     "features": [
       {
@@ -454,6 +557,12 @@
       "description": "Ajusta y estima tus riegos en función a tu cuota. Confederación ha asignado una cuota de riego en función de tus hectáreas de cultivo. Ajusta y no te quedes sin agua cuando más falta te hace."
     },
     "date": "2020-10-17T09:06:43.511Z",
+    "technologies": ["0", "15", "20"],
+    "history": [
+      "Mi padre tiene un pequeña huerta de naranjos.",
+      "La comunidad de regantes asigna una cantidad de m3 en función a las hectáreas y al agua disponible.",
+      "Esta aplicación nació para facilitarle a mi padre las horas de riego que podía dar al día sin superar el límite y evitar sanciones."
+    ],
     "featuresText": ["GRATIS 🎁"],
     "features": [
       {
@@ -475,6 +584,14 @@
       "img": "https://rutatapa.web.app/assets/images/metaTag.jpg"
     },
     "date": "2020-10-17T09:06:43.511Z",
+    "technologies": ["0", "1", "15", "20"],
+    "history": [
+      "En mi pueblo cada año se celebra la ruta de la tapa.",
+      "El ayuntamiento hace un vídeo promocional donde aparece todos los participantes y su oferta de tapas.",
+      "Dos tapas por negocio de hostelería que quiera partipar.",
+      "El vídeo no es práctico cuando quieres ver lo que tiene un negocio en particular.",
+      "Hice esta aplicación para facilitar el acceso a la información de las tapas."
+    ],
     "featuresText": ["GRATIS"],
     "features": [
       {
@@ -500,6 +617,13 @@
       "description": "Datos oficiales de la Junta de Andalucía sobre COVID-19"
     },
     "date": "2020-10-16T18:20:43.511Z",
+    "technologies": ["0", "1", "15", "20"],
+    "history": [
+      "En pleno COVID, uno de los temas más recurrentes era saber cuántos infectados había en tu pueblo.",
+      "Siempre podías ir al periódico a buscarlo pero no era directo ni intuitivo.",
+      "Hice esta aplicación que se conectaba con los datos oficiales de la Junta de Andalucía.",
+      "Después le añadí como función las medidas que se tenían que adoptar, si tu pueblo estaba en cierre perimetral, la hora de cierre de los negocios..."
+    ],
     "featuresText": ["GRATIS 🎁"],
     "features": [
       {
