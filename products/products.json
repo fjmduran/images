@@ -7,7 +7,7 @@
     "img": "https://github.com/fjmduran/images/blob/master/products/comunidad-vecinos/abstract-condominium-architecture.jpg?raw=true",
     "metaTags": {
       "title": "Aplicación para la gestión de comunidades de vecinos. Controla el acceso con códigos QR, facilita el acceso a la documentación (contrato con proveedores, actas...), control el aforo de zonas comunes...",
-      "img": "https://micomunidad.web.app/assets/icons/icon-144x144.png",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706268246/products/vecinos/vecinosMetatag.jpg",
       "description": "Aplicación para la gestión de comunidades de vecinos. Controla el acceso con códigos QR, facilita el acceso a la documentación (contrato con proveedores, actas...), control el aforo de zonas comunes..."
     },
     "description": "Digitaliza tu comunidad de vecinos y dótala de mayor transparencia.",
@@ -125,7 +125,7 @@
     ],
     "metaTags": {
       "title": "Sistema o aplicación para gestionar un negocio de hostelería. Ten tu carta digital totalmente gratis con fotografías de alta resolución. Informa de tus ofertas y promociones, gestiona tus pedidos a domicilio con la APP...",
-      "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Productos%2FRestaurante%2Fpizza.jpg?alt=media&token=decc0dd1-5d32-43a2-a2e3-032cb0af35d3",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706267547/products/comemos/comemosMetatag.jpg",
       "description": "Sistema o aplicación para gestionar un negocio de hostelería. Ten tu carta digital totalmente gratis con fotografías de alta resolución. Informa de tus ofertas y promociones, gestiona tus pedidos a domicilio con la APP..."
     }
   },
@@ -138,7 +138,7 @@
     "description": "Gestiona las reservas y automatiza tus pistas de pádel y tenis",
     "metaTags": {
       "title": "Pista de pádel y tenis",
-      "img": "https://reserva-pista-padel.comunidad-vecinos.com/dist/cover.jpg",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706269447/products/courts/pistasMetatag.jpg",
       "description": "Reserva hora de tu pista de pádel con esta APP y automatiza el acceso y el encedido de luces."
     },
     "date": "2020-10-17T09:06:43.511Z",
@@ -190,7 +190,7 @@
     "description": "Gestiona el acceso a tus propiedades (vivienda turística, trastero, garage...)",
     "metaTags": {
       "title": "Gestiona el acceso a tus propiedades",
-      "img": "https://my-iot-528f0.web.app/assets/icons/icon-144x144.png",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706270917/products/doors/doorsMetatag_ty00v0.jpg",
       "description": "¿Eres propiertario de una vivienda turística, trastero, garage...?"
     },
     "date": "2020-10-17T09:06:43.511Z",
