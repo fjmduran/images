@@ -383,7 +383,7 @@
     "description": "Juega gratis resolviendo el puzzle de las torres de Hanoi",
     "metaTags": {
       "title": "Torre de Hanoi",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/hanoi-create/torre-de-hanoi.jpg?raw=true",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706509668/products/hanoi/hanoiMetatag.jpg",
       "description": "Juega resolviendo el puzzle de las torres de Hanoi"
     },
     "date": "2020-10-16T18:20:43.511Z",
@@ -419,7 +419,7 @@
     "description": "Juego de preguntas para motivar a mi hija Adriana 🥰",
     "metaTags": {
       "title": "Juego de preguntas",
-      "img": "https://github.com/fjmduran/images/blob/master/products/question-game/cover.jpg?raw=true",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706510021/products/adrianaGame/englishGameMetatag.jpg",
       "description": "Juego de preguntas para motivar a mi hija Adriana 🥰"
     },
     "date": "2020-10-16T18:20:43.511Z",
@@ -445,14 +445,14 @@
   },
   {
     "id": "generador-contrasena-segura",
-    "title": "Generador de contraseñas seguras 🔐",
+    "title": "Generador de contraseñas seguras",
     "html": "https://quiero1app.com/aplicaciones/generador_contrasena_segura",
     "icon": "https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
     "img": "https://github.com/fjmduran/images/blob/master/products/password-generator/cover.jpg?raw=true",
     "description": "Generador de contraseñas seguras",
     "metaTags": {
       "title": "Generador de contraseñas seguras 🔐",
-      "img": "https://github.com/fjmduran/images/blob/master/products/password-generator/cover.jpg?raw=true",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706510391/products/passwords/passwordsMetatag.jpg",
       "description": "Generador de contraseñas seguras"
     },
     "date": "2020-10-16T18:20:43.511Z",
@@ -480,7 +480,7 @@
     "description": "¿Te has olvidado algunas vez la lista de la compra en la cocina, en el imán de la nevera?",
     "metaTags": {
       "title": "Aplicación gratuita cesta de la compra. ¿Te has olvidado algunas vez la lista de la compra en la cocina, en el imán de la nevera?¿Se te ha olvidad apuntar algo en la lista porque no la tenías a mano?",
-      "img": "https://mcesta.web.app/assets/icons/icon-144x144.png",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706509213/products/cesta/cestaMetatag.jpg",
       "description": "Aplicación gratis para para llevar la lista de la compra en tu móvil. ¿Te has olvidado algunas vez la lista de la compra en la cocina, en el imán de la nevera?¿Se te ha olvidad apuntar algo en la lista porque no la tenías a mano?"
     },
     "date": "2020-10-17T18:25:43.511Z",
@@ -520,7 +520,7 @@
     "description": "Crea y personaliza tus propios códigos QR gratis, sin publicidad, sin marcas de agua y sin compromiso",
     "metaTags": {
       "title": "Generador de códigos QR gratis",
-      "img": "https://github.com/fjmduran/images/blob/master/products/qr/cover.jpg?raw=true",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706508656/products/qr/qrMetatag.jpg",
       "description": "Crea y personaliza tus propios códigos QR gratis, sin publicidad, marcas de agua y sin compromiso"
     },
     "date": "2020-10-17T18:25:43.511Z",
