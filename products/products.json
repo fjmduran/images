@@ -472,6 +472,34 @@
     ]
   },
   {
+    "id": "impresora-termica",
+    "title": "APP para imprimir en impresora térmica",
+    "html": "https://impresora-termica.fjmduran.com/",
+    "icon": "https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
+    "img": "https://github.com/fjmduran/images/blob/master/products/password-generator/cover.jpg?raw=true",
+    "description": "Aplicación para configurar y trabajar con impresoras térmicas",
+    "metaTags": {
+      "title": "APP para imprimir en impresora térmica",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706510391/products/passwords/passwordsMetatag.jpg",
+      "description": "Aplicación para configurar y trabajar con impresoras térmicas"
+    },
+    "date": "2020-10-16T18:20:43.511Z",
+    "technologies": ["0", "1", "15", "20"],
+    "history": [
+      "En el trabajo tuve que desarrollar una plataforma y cuando se registraban usuarios nuevos me pedían que yo generara contraseñas aleatorias.",
+      "Obviamente tenían que ser seguras.",
+      "Me hice un algoritmo para ello.",
+      "Ese algoritmo es el que uso en esta aplicación para generar contraseñas seguras y aleatorias."
+    ],
+    "featuresText": ["Letras, número y símbolos", "GRATIS 🎁"],
+    "features": [
+      {
+        "icon": "beach_access",
+        "text": "Zona gratuita"
+      }
+    ]
+  },
+  {
     "id": "cesta",
     "title": "Cesta supermercado",
     "html": "https://fjmduran.com/productos/cesta",

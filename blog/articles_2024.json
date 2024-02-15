@@ -29,16 +29,16 @@
   },
   {
     "id": "simulador_servidor_http_postman",
-    "title": "Crea un simulador de un servidor HTTP con Postman",
+    "title": "Crea un servidor HTTP con Postman",
     "img": "https://github.com/fjmduran/images/blob/master/blog/mock_server_postman/cover.jpg?raw=true",
-    "description": "Te enseño a crearte un simulador de un servidor HTTP para poder avanzar con tu aplicación en el caso de que no tengas aún un servidor HTTP real. Antes utilizaba objetos JSON pero hacerlo con Postman es más cómodo ya que en tu aplicación tan sólo tendrás que cambiar el endpoint al que apuntar.",
+    "description": "Te enseño a crearte un servidor HTTP con Postman para poder avanzar con tu aplicación en el caso de que no tengas aún un backend. Antes utilizaba objetos JSON pero hacerlo con Postman es más cómodo ya que en tu aplicación tan sólo tendrás que cambiar el endpoint al que apuntar.",
     "tags": ["Informática"],
     "date": "2024-01-28T20:59:43.511Z",
     "html": "https://quiero1app.com/blog/simulador_servidor_http_postman/",
     "metaTags": {
-      "title": "Crea un simulador de un servidor HTTP con Postman",
+      "title": "Crea un servidor HTTP con Postman",
       "img": "https://github.com/fjmduran/images/blob/master/blog/mock_server_postman/cover.jpg?raw=true",
-      "description": "Te enseño a crearte un simulador de un servidor HTTP para poder avanzar con tu aplicación en el caso de que no tengas aún un servidor HTTP real. Antes utilizaba objetos JSON pero hacerlo con Postman es más cómodo ya que en tu aplicación tan sólo tendrás que cambiar el endpoint al que apuntar."
+      "description": "Te enseño a crearte un servidor HTTP con Postman para poder avanzar con tu aplicación en el caso de que no tengas aún un backend. Antes utilizaba objetos JSON pero hacerlo con Postman es más cómodo ya que en tu aplicación tan sólo tendrás que cambiar el endpoint al que apuntar."
     }
   },
   {
@@ -54,8 +54,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706011224/blog/net_to_iis/cover_lm5vht.jpg",
     "description": "Instalamos el servidor web de Internet Information Services y cargamos una API REST programada con .NET6 y C#"
     }
-  }
-  ,
+  },
   {
     "id": "error_redireccion_angular_universal_google_search_console_resuelto",
     "title": "Error de redirección en Google Search Console con Angular Universal RESUELTO",
@@ -76,7 +75,7 @@
     "img": "https://github.com/fjmduran/images/blob/master/blog/wsl/cover.jpg?raw=true",
     "description": "Aprenderás a instalar WSL (Windows Subsytem for Linux), la forma de ejecutar sistemas Linux (Ubuntu, Debian...) dentro de Windows. Si quieres utilizar Docker en Windows instalar WSL es el primer paso.",
     "tags": ["Informática", "Ciberseguridad", "Linux"],
-    "date": "2024-02-21T20:34:43.511Z",
+    "date": "2024-02-18T20:34:43.511Z",
     "html": "https://quiero1app.com/blog/instala_windows_subsystem_linux_wsl/",
     "metaTags": {
       "title": "Instalando WSL (Windows Subsystem for Linux)",
@@ -111,5 +110,19 @@
       "img": "https://github.com/fjmduran/images/blob/master/blog/storeProcedure/cover.jpg?raw=true",
       "description": "¿Qué ventajas y desventajes tienen los procedimientos almacenados en SQL?"
     }
+  },  {
+    "id": "instala_windows_11",
+    "title": "Instala Windows 11 con licencia",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1707383751/blog/installWindows11/cover_flrbwq.jpg",
+    "description": "Te explico cómo instalar Windows 11 y comprar una licencia por poco más de 3 euros",
+    "tags": ["Informática", "Windows"],
+    "date": "2024-02-21T20:34:43.511Z",
+    "html": "https://quiero1app.com/blog/instala_windows_11/",
+    "metaTags": {
+      "title": "Instala Windows 11 con licencia",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1707383751/blog/installWindows11/cover_flrbwq.jpg",
+    "description": "Te explico cómo instalar Windows 11 y comprar una licencia por poco más de 3 euros"
+    }
   }
+  
 ]

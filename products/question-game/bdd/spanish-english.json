@@ -520,7 +520,111 @@
         "answer":"the cat is under the box"
     },
     {
-        "question":"¿Cómo se dice 'el gato está dentro de la caja' en inglés?",
-        "answer":"the cat is in the box"
+        "question":"¿Qué ropa llevas puesta?",
+        "answer":"What are you wearing?"
+    },
+    {
+        "question":"Pantalón rojo",
+        "answer":"Red trousers"
+    },
+    {
+        "question":"Vestido rosa",
+        "answer":"Pink dress"
+    },
+    {
+        "question":"Abrigo negro",
+        "answer":"Black coat"
+    },
+    {
+        "question":"Pantalones vaqueros",
+        "answer":"Jeans"
+    },
+    {
+        "question":"Camiseta amarilla",
+        "answer":"Yellow T-shirt"
+    },
+    {
+        "question":"Pantalón corto verde",
+        "answer":"Green shorts"
+    },
+    {
+        "question":"Sombrero",
+        "answer":"Hat"
+    },
+    {
+        "question":"Zapatos rojos",
+        "answer":"Red shoes"
+    },
+    {
+        "question":"Jersey verde",
+        "answer":"Green jumper"
+    },
+    {
+        "question":"Falda morada",
+        "answer":"Purple skirt"
+    },
+    {
+        "question":"Lavando tu ropa",
+        "answer":"Washing your clothes"
+    },
+    {
+        "question":"Cesta de la ropa",
+        "answer":"Basket"
+    },
+    {
+        "question":"Bolsillo",
+        "answer":"Pocket"
+    },
+    {
+        "question":"Lavadora",
+        "answer":"Washing machine"
+    },
+    {
+        "question":"Detergente",
+        "answer":"Detergent"
+    },
+    {
+        "question":"Tendedero",
+        "answer":"Washing line"
+    },
+    {
+        "question":"Armario",
+        "answer":"Cupboard"
+    },
+    {
+        "question":"Calcetines",
+        "answer":"Socks"
+    },
+    {
+        "question":"¿Qué tiempo hace?",
+        "answer":"What is the weather like?"
+    },
+    {
+        "question":"Hace frío",
+        "answer":"It is cold"
+    },
+    {
+        "question":"Está lloviendo",
+        "answer":"It is raining"        
+    },
+    {
+        "question":"Está nublado",
+        "answer":"It is cloudy"
+    },
+    {
+        "question":"Está nevando",
+        "answer":"It is snowing"
+    },
+    {
+        "question":"Está soleado",
+        "answer":"It is sunny"
+    },
+    {
+        "question":"Es ventoso, hace viento",
+        "answer":"It is windy"
+    },
+    {
+        "question":"Chaqueta rosa",
+        "answer":"Pink jacket"
     }
 ]
