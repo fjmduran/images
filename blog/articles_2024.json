@@ -46,13 +46,13 @@
     "title": "Instalando IIS y desplegando aplicación web de .NET",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706011224/blog/net_to_iis/cover_lm5vht.jpg",
     "description": "Instalamos el servidor web de Internet Information Services y cargamos una API REST programada con .NET6 y C#",
-    "tags": ["IIS",".NET"],
+    "tags": ["IIS", ".NET"],
     "date": "2024-02-04T21:01:43.511Z",
     "html": "https://quiero1app.com/blog/deplegar_net_app_IIS/",
     "metaTags": {
       "title": "Instalando IIS y desplegando aplicación web de .NET",
-    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706011224/blog/net_to_iis/cover_lm5vht.jpg",
-    "description": "Instalamos el servidor web de Internet Information Services y cargamos una API REST programada con .NET6 y C#"
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1706011224/blog/net_to_iis/cover_lm5vht.jpg",
+      "description": "Instalamos el servidor web de Internet Information Services y cargamos una API REST programada con .NET6 y C#"
     }
   },
   {
@@ -84,6 +84,20 @@
     }
   },
   {
+    "id": "windows_batch_scripting",
+    "title": "Windows Batch Scripting como un pro",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1708583278/blog/windowsBatchScript/cover_ixvsab.jpg",
+    "description": "En este artículo iré haciendo una recopilación de los comandos que me resultan útiles e interesantes con Batch Script",
+    "tags": ["Informática", "Windows"],
+    "date": "2024-02-25T21:24:43.511Z",
+    "html": "https://quiero1app.com/blog/windows_batch_scripting/",
+    "metaTags": {
+      "title": "Windows Batch Scripting como un pro",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1708583278/blog/windowsBatchScript/cover_ixvsab.jpg",
+      "description": "En este artículo iré haciendo una recopilación de los comandos que me resultan útiles e interesantes con Batch Script"
+    }
+  },
+  {
     "id": "instala_docker_windows",
     "title": "Instalando Docker en Windows",
     "img": "https://github.com/fjmduran/images/blob/master/blog/wsl/cover.jpg?raw=true",
@@ -110,7 +124,8 @@
       "img": "https://github.com/fjmduran/images/blob/master/blog/storeProcedure/cover.jpg?raw=true",
       "description": "¿Qué ventajas y desventajes tienen los procedimientos almacenados en SQL?"
     }
-  },  {
+  },
+  {
     "id": "instala_windows_11",
     "title": "Instala Windows 11 con licencia",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1707383751/blog/installWindows11/cover_flrbwq.jpg",
@@ -120,9 +135,8 @@
     "html": "https://quiero1app.com/blog/instala_windows_11/",
     "metaTags": {
       "title": "Instala Windows 11 con licencia",
-    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1707383751/blog/installWindows11/cover_flrbwq.jpg",
-    "description": "Te explico cómo instalar Windows 11 y comprar una licencia por poco más de 3 euros"
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1707383751/blog/installWindows11/cover_flrbwq.jpg",
+      "description": "Te explico cómo instalar Windows 11 y comprar una licencia por poco más de 3 euros"
     }
   }
-  
 ]

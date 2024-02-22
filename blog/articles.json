@@ -2224,7 +2224,7 @@
     "img": "https://github.com/fjmduran/images/blob/master/blog/esc_pos_printer/cover.jpg?raw=true",
     "description": "He programado un plugin en C# para una impresora térmica de 58mm. Estas impresoras son también conocidas como impresoras ESC/POS (Epson Standard Code for Point of Sale) y son las típicas que se usan en los comercios para facilitar los tickets de venta.",
     "tags": ["C#", "Informática"],
-    "updateDate": "2023-11-05T16:06:54.511Z",
+    "updateDate": "2024-02-10T16:06:54.511Z",
     "date": "2023-08-06T21:11:54.511Z",
     "html": "https://quiero1app.com/blog/programando_plugin_impresora_termica/",
     "metaTags": {
