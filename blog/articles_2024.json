@@ -98,6 +98,20 @@
     }
   },
   {
+    "id": "servicio_windows_10_server_2016_visual_basic_6",
+    "title": "Registra un servicio en Windows 10 y Windows Server 2016 de una librería programada en Visual Basic 6",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1708676493/blog/vb6Service/cover_jnko0m.jpg",
+    "description": "Te explico cómo registrar una librería programada con Visual Basic 6 en sistemas operativos Windows Server 2016 y Windows 10",
+    "tags": ["Informática", "Windows", "Visual Basic"],
+    "date": "2024-03-03T21:38:43.511Z",
+    "html": "https://quiero1app.com/blog/servicio_windows_10_server_2016_visual_basic_6/",
+    "metaTags": {
+      "title": "Registra un servicio en Windows 10 y Windows Server 2016 de una librería programada en Visual Basic 6",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1708676493/blog/vb6Service/cover_jnko0m.jpg",
+      "description": "Te explico cómo registrar una librería programada con Visual Basic 6 en sistemas operativos Windows Server 2016 y Windows 10"
+    }
+  },
+  {
     "id": "instala_docker_windows",
     "title": "Instalando Docker en Windows",
     "img": "https://github.com/fjmduran/images/blob/master/blog/wsl/cover.jpg?raw=true",
