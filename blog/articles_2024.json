@@ -117,7 +117,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1708676493/blog/vb6Service/cover_jnko0m.jpg",
     "description": "Te explico cómo registrar una librería programada con Visual Basic 6 en sistemas operativos Windows Server 2016 y Windows 10",
     "tags": ["Informática", "Windows", "Visual Basic"],
-    "date": "2025-03-03T21:38:43.511Z",
+    "date": "2024-03-10T21:12:43.511Z",
     "html": "https://quiero1app.com/blog/servicio_windows_10_server_2016_visual_basic_6/",
     "metaTags": {
       "title": "Registra un servicio en Windows 10 y Windows Server 2016 de una librería programada en Visual Basic 6",
@@ -131,7 +131,7 @@
     "img": "https://github.com/fjmduran/images/blob/master/blog/wsl/cover.jpg?raw=true",
     "description": "Aprenderás a instalar WSL (Windows Subsytem for Linux), la forma de ejecutar sistemas Linux (Ubuntu, Debian...) dentro de Windows. Si quieres utilizar Docker en Windows instalar WSL es el primer paso.",
     "tags": ["Informática", "Ciberseguridad", "Linux"],
-    "date": "2024-03-11T20:34:43.511Z",
+    "date": "2025-03-11T20:34:43.511Z",
     "html": "https://quiero1app.com/blog/instala_docker_windows/",
     "metaTags": {
       "title": "Instalando WSL (Windows Subsystem for Linux)",
@@ -145,7 +145,7 @@
     "img": "https://github.com/fjmduran/images/blob/master/blog/storeProcedure/cover.jpg?raw=true",
     "description": "¿Qué ventajas y desventajes tienen los procedimientos almacenados en SQL?",
     "tags": ["Bases de datos"],
-    "date": "2024-06-18T21:26:43.511Z",
+    "date": "2025-06-18T21:26:43.511Z",
     "html": "https://quiero1app.com/blog/procedimientos_almacenados_sql/",
     "metaTags": {
       "title": "Procedimientos almacenados en SQL",
@@ -159,7 +159,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1707383751/blog/installWindows11/cover_flrbwq.jpg",
     "description": "Te explico cómo instalar Windows 11 y comprar una licencia por poco más de 3 euros",
     "tags": ["Informática", "Windows"],
-    "date": "2024-09-21T20:34:43.511Z",
+    "date": "2025-09-21T20:34:43.511Z",
     "html": "https://quiero1app.com/blog/instala_windows_11/",
     "metaTags": {
       "title": "Instala Windows 11 con licencia",
