@@ -126,6 +126,20 @@
     }
   },
   {
+    "id": "instalando_impresora_termica_goojprt_mtp3b_windows10",
+    "title": "Instalando la popular impresora térmica portátil MTP-3B en Windows 10",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1709720242/blog/thermalPrinterGoojprt/cover_ruqwg2.jpg",
+    "description": "Te doy los drivers y te explico cómo instalar la popular impresora térmica portátil GOOJPRT MTP-3B en Windows 10",
+    "tags": ["C#", "Informática"],    
+    "date": "2024-03-17T16:14:54.511Z",
+    "html": "https://quiero1app.com/blog/instalando_impresora_termica_goojprt_mtp3b_windows10/",
+    "metaTags": {
+      "title": "Instalando la popular impresora térmica portátil MTP-3B en Windows 10",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1709720242/blog/thermalPrinterGoojprt/cover_ruqwg2.jpg",
+      "description": "Te doy los drivers y te explico cómo instalar la popular impresora térmica portátil GOOJPRT MTP-3B en Windows 10"
+    }
+  },
+  {
     "id": "instala_docker_windows",
     "title": "Instalando Docker en Windows",
     "img": "https://github.com/fjmduran/images/blob/master/blog/wsl/cover.jpg?raw=true",
