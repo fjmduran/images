@@ -140,6 +140,20 @@
     }
   },
   {
+    "id": "instala_windows_11",
+    "title": "Instala Windows 11 con licencia por menos de 4 euros",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1707383751/blog/installWindows11/cover_flrbwq.jpg",
+    "description": "Te explico cómo instalar Windows 11 y comprar una licencia por poco más de 4 euros",
+    "tags": ["Informática", "Windows"],
+    "date": "2024-03-24T20:34:43.511Z",
+    "html": "https://quiero1app.com/blog/instala_windows_11/",
+    "metaTags": {
+      "title": "Instala Windows 11 con licencia por menos de 4 euros",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1707383751/blog/installWindows11/cover_flrbwq.jpg",
+      "description": "Te explico cómo instalar Windows 11 y comprar una licencia por poco más de 4 euros"
+    }
+  },
+  {
     "id": "instala_docker_windows",
     "title": "Instalando Docker en Windows",
     "img": "https://github.com/fjmduran/images/blob/master/blog/wsl/cover.jpg?raw=true",
@@ -165,20 +179,6 @@
       "title": "Procedimientos almacenados en SQL",
       "img": "https://github.com/fjmduran/images/blob/master/blog/storeProcedure/cover.jpg?raw=true",
       "description": "¿Qué ventajas y desventajes tienen los procedimientos almacenados en SQL?"
-    }
-  },
-  {
-    "id": "instala_windows_11",
-    "title": "Instala Windows 11 con licencia",
-    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1707383751/blog/installWindows11/cover_flrbwq.jpg",
-    "description": "Te explico cómo instalar Windows 11 y comprar una licencia por poco más de 3 euros",
-    "tags": ["Informática", "Windows"],
-    "date": "2025-09-21T20:34:43.511Z",
-    "html": "https://quiero1app.com/blog/instala_windows_11/",
-    "metaTags": {
-      "title": "Instala Windows 11 con licencia",
-      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1707383751/blog/installWindows11/cover_flrbwq.jpg",
-      "description": "Te explico cómo instalar Windows 11 y comprar una licencia por poco más de 3 euros"
     }
   }
 ]
