@@ -107,8 +107,8 @@
     "html": "https://quiero1app.com/blog/interes_compuesto/",
     "metaTags": {
       "title": "¿Qué es el interés compuesto? El tiempo es oro",
-    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1708966616/blog/compoundInterest/cover_vmpx5e.jpg",
-    "description": "A veces, sólo nos preocupamos de ganar más dinero. Si gestionamos bien ese dinero, podremos hacer que ese dinero trabaje cada vez más para nosotros, sin necesidad de tener que trabajar más para ganar más dinero."
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1708966616/blog/compoundInterest/cover_vmpx5e.jpg",
+      "description": "A veces, sólo nos preocupamos de ganar más dinero. Si gestionamos bien ese dinero, podremos hacer que ese dinero trabaje cada vez más para nosotros, sin necesidad de tener que trabajar más para ganar más dinero."
     }
   },
   {
@@ -130,7 +130,7 @@
     "title": "Instalando la popular impresora térmica portátil MTP-3B en Windows 10",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1709720242/blog/thermalPrinterGoojprt/cover_ruqwg2.jpg",
     "description": "Te doy los drivers y te explico cómo instalar la popular impresora térmica portátil GOOJPRT MTP-3B en Windows 10",
-    "tags": ["C#", "Informática"],    
+    "tags": ["C#", "Informática"],
     "date": "2024-03-17T16:14:54.511Z",
     "html": "https://quiero1app.com/blog/instalando_impresora_termica_goojprt_mtp3b_windows10/",
     "metaTags": {
@@ -140,12 +140,26 @@
     }
   },
   {
+    "id": "migrar_container_registry_artifac_registry",
+    "title": "Cómo migrar Container Registry a Artifac Registry en Google Cloud Platform",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1710862112/blog/gcp_otmrzu.jpg",
+    "description": "Te explico cómo migrar tus archivos de Container Registry a Artifac Registry en Google Cloud Platform",
+    "tags": ["Informática", "Cloud"],
+    "date": "2024-03-24T20:34:43.511Z",
+    "html": "https://quiero1app.com/blog/migrar_container_registry_artifac_registry/",
+    "metaTags": {
+      "title": "Cómo migrar Container Registry a Artifac Registry en Google Cloud Platform",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1710862112/blog/gcp_otmrzu.jpg",
+      "description": "Te explico cómo migrar tus archivos de Container Registry a Artifac Registry en Google Cloud Platform"
+    }
+  },
+  {
     "id": "instala_windows_11",
     "title": "Instala Windows 11 con licencia por menos de 4 euros",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1707383751/blog/installWindows11/cover_flrbwq.jpg",
     "description": "Te explico cómo instalar Windows 11 y comprar una licencia por poco más de 4 euros",
     "tags": ["Informática", "Windows"],
-    "date": "2024-03-24T20:34:43.511Z",
+    "date": "2024-03-25T20:34:43.511Z",
     "html": "https://quiero1app.com/blog/instala_windows_11/",
     "metaTags": {
       "title": "Instala Windows 11 con licencia por menos de 4 euros",
