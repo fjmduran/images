@@ -348,6 +348,33 @@
     ]
   },
   {
+    "id": "impresora-bluetooth",
+    "title": "Imprime desde tu móvil por Bluetooth",
+    "html": "https://impresora-bluetooth.quiero1app.com/",
+    "icon": "https://impresora-bluetooth.web.app//assets/icons/icon-144x144.png",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1711535711/products/bluetoothPrinter/metatag_.jpg",
+    "description": "Imprime GRATIS desde tu móvil o smartphone a una impresora por Bluetooth",
+    "metaTags": {
+      "title": "Imprime desde tu móvil a una impresora por Bluetooth",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1711535711/products/bluetoothPrinter/metatag_.jpg",
+      "description": "Imprime GRATIS desde tu móvil o smartphone a una impresora por Bluetooth"
+    },
+    "date": "2020-10-17T18:30:43.511Z",
+    "technologies": ["26", "1", "15", "20"],
+    "history": [
+      "Tengo amigos con pequeños negocios, venta de pienso de mascotas, peluquerías, tienda de ropa, manicura...",
+      "No tenían necesidad de un TPV completo, pero querían poder imprimir tickets de sus ventas como recibo para sus clientes.",
+      "He programado esta APP que se conecta a una impresora Bluetooth e imprime lo que quieras."      
+    ],
+    "featuresText": ["GRATIS - IMPRIMIR - BLUETOOTH"],
+    "features": [
+      {
+        "icon": "beach_access",
+        "text": "Zona gratuita"
+      }
+    ]
+  },
+  {
     "id": "cliente-mqtt",
     "title": "Cliente MQTT",
     "icon": "https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
