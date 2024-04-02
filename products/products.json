@@ -72,9 +72,10 @@
     "history": [
       "Un amigo tenía una pizzería.",
       "Con la llegada del COVID casi la única opción era llevar pizzas a domicilio.",
-      "Mientras hacía las pizzas le era muy difícil atender el móvil.",
-      "Le hice esta aplicación para que sus clientes trabajaran por él, ellos hacían los pedidos con lo que se ahorraba el atender el móvil, anotar el pedido y decir qué pizzas tenía disponibles.",
-      "Con el tiempo le fui añadiendo más funcionalidades, la gestión del stock le ahorró mucho trabajo e incertidumbre."
+      "Mientras hacía las pizzas le era muy incómodo atender el móvil para anotar pedidos y responder dudas sobre los productos disponibles.",
+      "Le hice esta aplicación para que sus clientes trabajaran por él.",
+      "Los clientes veían online los productos disponibles y hacían sus pedidos en consecuencia.",
+      "Con el tiempo le fui añadiendo más funcionalidades, impresión de pedidos en comanderas, gestión del stock, cobro por tarjeta..."
     ],
     "technologies": ["0", "1", "13", "15", "20"],
     "features": [
@@ -364,7 +365,7 @@
     "history": [
       "Tengo amigos con pequeños negocios, venta de pienso de mascotas, peluquerías, tienda de ropa, manicura...",
       "No tenían necesidad de un TPV completo, pero querían poder imprimir tickets de sus ventas como recibo para sus clientes.",
-      "He programado esta APP que se conecta a una impresora Bluetooth e imprime lo que quieras."      
+      "He programado esta APP que se conecta a una impresora Bluetooth e imprime lo que quieras."
     ],
     "featuresText": ["GRATIS - IMPRIMIR - BLUETOOTH"],
     "features": [
@@ -473,7 +474,7 @@
   {
     "id": "generador-contrasena-segura",
     "title": "Generador de contraseñas seguras",
-    "html": "https://quiero1app.com/aplicaciones/generador_contrasena_segura",
+    "html": "https://quiero1app.com/aplicaciones/generador_contrasena_segura/",
     "icon": "https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
     "img": "https://github.com/fjmduran/images/blob/master/products/password-generator/cover.jpg?raw=true",
     "description": "Generador de contraseñas seguras",
