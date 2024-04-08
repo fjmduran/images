@@ -168,6 +168,20 @@
     }
   },
   {
+    "id": "practicas_recomendadas_api_rest",
+    "title": "Practicas recomendadas en el diseño de tus APIs",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1712553350/blog/apiDesignBestPractices/cover_jnkwdf.jpg",
+    "description": "Te cuento los puntos que debes tener en cuenta a la hora de programar tu API",
+    "tags": ["Informática"],
+    "date": "2024-04-14T20:07:43.511Z",
+    "html": "https://quiero1app.com/blog/practicas_recomendadas_api_rest/",
+    "metaTags": {
+      "title": "Practicas recomendadas en el diseño de tus APIs",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1712553350/blog/apiDesignBestPractices/cover_jnkwdf.jpg",
+      "description": "Te cuento los puntos que debes tener en cuenta a la hora de programar tu API"
+    }
+  },
+  {
     "id": "instala_docker_windows",
     "title": "Instalando Docker en Windows",
     "img": "https://github.com/fjmduran/images/blob/master/blog/wsl/cover.jpg?raw=true",
