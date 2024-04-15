@@ -999,28 +999,28 @@
   {
     "id": "guia-pronunciacion-programador",
     "title": "Guía de pronunciación para programadores",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/developer.jpg?raw=true",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
     "description": "Aprende cómo se pronuncian los símbolos de programación oficialmente.",
     "tags": ["Desarrollo de software"],
     "date": "2021-12-04T18:20:42.511Z",
     "html": "https://fjmduran.com/blog/guia-pronunciacion-programador/",
     "metaTags": {
       "title": "Guía de pronunciación para programadores",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/developer.jpg?raw=true",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
       "description": "Aprende cómo se pronuncian los símbolos de programación oficialmente."
     }
   },
   {
     "id": "versionado-semantico-semver",
     "title": "Versionado semántico (SEMVER)",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/developer.jpg?raw=true",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
     "description": "¿Qué es el versionado semántico?",
     "tags": ["Desarrollo de software"],
     "date": "2021-12-11T17:10:42.511Z",
     "html": "https://fjmduran.com/blog/versionado-semantico-semver/",
     "metaTags": {
       "title": "Versionado semántico (SEMVER)",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/developer.jpg?raw=true",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
       "description": "¿Qué es el versionado semántico?"
     }
   },
@@ -1097,14 +1097,14 @@
   {
     "id": "que-es-web3",
     "title": "¿Qué es la WEB3?",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/developer.jpg?raw=true",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
     "description": "Comprende de una vez con un lenguaje amigable qué es la WEB3",
     "tags": ["Informática", "Ciencía y tecnología"],
     "date": "2022-01-16T09:26:42.511Z",
     "html": "https://fjmduran.com/blog/que-es-web3/",
     "metaTags": {
       "title": "¿Qué es la WEB3?",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/developer.jpg?raw=true",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
       "description": "Comprende de una vez con un lenguaje amigable qué es la WEB3"
     }
   },
@@ -1279,14 +1279,14 @@
   {
     "id": "aprende-expresiones-regulares",
     "title": "Entiende de una vez las expresiones regulares (regex) 🚀",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/developer.jpg?raw=true",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
     "description": "Deja de copiar expresiones regulares de internet y aprende a crear las tuyas propias",
     "tags": ["Desarrollo de software", "Informática"],
     "date": "2022-04-16T11:09:42.511Z",
     "html": "https://fjmduran.com/blog/aprende-expresiones-regulares/",
     "metaTags": {
       "title": "Entiende de una vez las expresiones regulares (regex) 🚀",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/developer.jpg?raw=true",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
       "description": "Deja de copiar expresiones regulares de internet y aprende a crear las tuyas propias"
     }
   },
@@ -1573,14 +1573,14 @@
   {
     "id": "ambientes-desarrollo-software",
     "title": "Ambientes en desarrollo de software 👨‍💻",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/developer.jpg?raw=true",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
     "description": "Te cuento cuál es mi estructura de ambientes de desarrollo",
     "tags": ["Desarrollo de software", "Informática"],
     "date": "2022-09-04T17:43:42.511Z",
     "html": "https://fjmduran.com/blog/ambientes-desarrollo-software/",
     "metaTags": {
       "title": "Ambientes para el desarrollo de software 👨‍💻",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/developer.jpg?raw=true",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
       "description": "Te cuento cuál es mi estructura de ambientes de desarrollo"
     }
   },
@@ -1756,14 +1756,14 @@
   {
     "id": "teoria-de-juegos",
     "title": "Toma las mejores decisiones entendiendo la teoría de juegos 💡... spoiler, el equilibrio de Nash",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/developer.jpg?raw=true",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
     "description": "La teoría de juegos se utiliza en toma de decisiones empresariales, en economía... incluso la puedes utilizar para tomar decisiones cotidianas",
     "tags": ["Informática"],
     "date": "2022-11-27T18:43:42.511Z",
     "html": "https://fjmduran.com/blog/teoria-de-juegos/",
     "metaTags": {
       "title": "Toma las mejores decisiones entendiendo la teoría de juegos 💡... spoiler, el equilibrio de Nash",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/developer.jpg?raw=true",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
       "description": "La teoría de juegos se utiliza en toma de decisiones empresariales, en economía... incluso la puedes utilizar para tomar decisiones cotidianas"
     }
   },
