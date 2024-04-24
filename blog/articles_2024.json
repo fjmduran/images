@@ -196,6 +196,20 @@
     }
   },
   {
+    "id": "aplicacion_impresora_termica_bluethooth",
+    "title": "Aplicación gratis para imprimir con una impresora térmica por Bluetooth",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713883792/blog/bluetoothPrinterAPP/cover_itkpwl.jpg",
+    "description": "He creado una aplicación gratuita para imprimir con una impresora térmica por Bluetooth desde tu smartphone.",
+    "tags": ["Informática"],
+    "date": "2024-04-28T19:51:43.511Z",
+    "html": "https://quiero1app.com/blog/aplicacion_impresora_termica_bluethooth/",
+    "metaTags": {
+      "title": "Aplicación gratis para imprimir con una impresora térmica por Bluetooth",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713883792/blog/bluetoothPrinterAPP/cover_itkpwl.jpg",
+    "description": "He creado una aplicación gratuita para imprimir con una impresora térmica por Bluetooth desde tu smartphone."
+    }
+  },
+  {
     "id": "instala_docker_windows",
     "title": "Instalando Docker en Windows",
     "img": "https://github.com/fjmduran/images/blob/master/blog/wsl/cover.jpg?raw=true",
