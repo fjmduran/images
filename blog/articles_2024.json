@@ -205,22 +205,22 @@
     "html": "https://quiero1app.com/blog/aplicacion_impresora_termica_bluethooth/",
     "metaTags": {
       "title": "Aplicación gratis para imprimir con una impresora térmica por Bluetooth",
-    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713883792/blog/bluetoothPrinterAPP/cover_itkpwl.jpg",
-    "description": "He creado una aplicación gratuita para imprimir con una impresora térmica por Bluetooth desde tu smartphone."
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713883792/blog/bluetoothPrinterAPP/cover_itkpwl.jpg",
+      "description": "He creado una aplicación gratuita para imprimir con una impresora térmica por Bluetooth desde tu smartphone."
     }
   },
   {
     "id": "instala_docker_windows",
-    "title": "Instalando Docker en Windows",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/wsl/cover.jpg?raw=true",
-    "description": "Aprenderás a instalar WSL (Windows Subsytem for Linux), la forma de ejecutar sistemas Linux (Ubuntu, Debian...) dentro de Windows. Si quieres utilizar Docker en Windows instalar WSL es el primer paso.",
-    "tags": ["Informática", "Ciberseguridad", "Linux"],
-    "date": "2025-03-11T20:34:43.511Z",
+    "title": "Instalando Docker en Windows. Primeros pasos con Docker.",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715019967/blog/docker-first-steps/cover_enzzo7.jpg",
+    "description": "Hace dos semanas tuve que dockerizar una aplicación, te cuento. En 2017                                                                                                                                                                                                                                          comencé la programación de una plataforma de hostelería. Con la llegada del COVID le di un buen empujón porque dicha plataforma le permitía que los usuarios desde casa hacer pedidos al negocio y quedaba registrado e imprimía las comandas después de que el encargado las revisara. Hace dos meses, un negocio de hostelería me pidió la plataforma pero no tenían conexión a internet, así que tuve que hacer una programación paralela que funcionara en local. Durante las primeras semanas todo fue bien, pero un día me llamaron con que había dejado de funcionar. Para no hacértelo muy largo, había llegado el típico cuñado y había descarajado el servidor. Para evitar que me volviera a pasar opté por dockerizar la aplicación para tenerla encapsulada y controlada. Además la dockerización me permitió también simplificar la implementación y actualización de la plataforma. Y de eso te quiero hablar, de cómo instalar Docker. Al turrón.",
+    "tags": ["Informática", "Linux", "Docker"],
+    "date": "2024-05-12T21:17:43.511Z",
     "html": "https://quiero1app.com/blog/instala_docker_windows/",
     "metaTags": {
-      "title": "Instalando WSL (Windows Subsystem for Linux)",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/wsl/cover.jpg?raw=true",
-      "description": "Aprenderás a instalar WSL (Windows Subsytem for Linux), la forma de ejecutar sistemas Linux (Ubuntu, Debian...) dentro de Windows. Si quieres utilizar Docker en Windows instalar WSL es el primer paso."
+      "title": "Instalando Docker en Windows. Primeros pasos con Docker.",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715019967/blog/docker-first-steps/cover_enzzo7.jpg",
+      "description": "Hace dos semanas tuve que dockerizar una aplicación, te cuento. En 2017 comencé la programación de una plataforma de hostelería. Con la llegada del COVID le di un buen empujón porque dicha plataforma le permitía que los usuarios desde casa hacer pedidos al negocio y quedaba registrado e imprimía las comandas después de que el encargado las revisara. Hace dos meses, un negocio de hostelería me pidió la plataforma pero no tenían conexión a internet, así que tuve que hacer una programación paralela que funcionara en local. Durante las primeras semanas todo fue bien, pero un día me llamaron con que había dejado de funcionar. Para no hacértelo muy largo, había llegado el típico cuñado y había descarajado el servidor. Para evitar que me volviera a pasar opté por dockerizar la aplicación para tenerla encapsulada y controlada. Además la dockerización me permitió también simplificar la implementación y actualización de la plataforma. Y de eso te quiero hablar, de cómo instalar Docker. Al turrón."
     }
   },
   {
