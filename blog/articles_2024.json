@@ -238,6 +238,34 @@
     }
   },
   {
+    "id": "hotspot_reducidas_dimensiones_barato",
+    "title": "Configurando un hotspot súper pequeño",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1717409041/blog/hotspot_cheap/cover_dhh2qe.jpg",
+    "description": "Si quieres un hotspot de pequeñas dimensiones y económico pasa que te cuento",
+    "tags": ["Informática"],
+    "date": "2024-06-09T20:57:43.511Z",
+    "html": "https://quiero1app.com/blog/hotspot_reducidas_dimensiones_barato/",
+    "metaTags": {
+      "title": "Configurando un hotspot súper pequeño",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1717409041/blog/hotspot_cheap/cover_dhh2qe.jpg",
+    "description": "Si quieres un hotspot de pequeñas dimensiones y económico pasa que te cuento"
+    }
+  },
+  {
+    "id": "redes_petri",
+    "title": "¿Qué son las redes de Petri?",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715599678/blog/cover_rrlcad.jpg",
+    "description": "Te cuento cómo replicar datos en servidores distintos de MS SQL Server con herramientas nativas de Microsoft",
+    "tags": ["Informática", "Bases de datos"],
+    "date": "2025-05-19T21:51:43.511Z",
+    "html": "https://quiero1app.com/blog/redes_petri/",
+    "metaTags": {
+      "title": "Replicar datos en Microsoft SQL Server",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715599678/blog/cover_rrlcad.jpg",
+      "description": "Te cuento cómo replicar datos en servidores distintos de MS SQL Server con herramientas nativas de Microsoft"
+    }
+  },
+  {
     "id": "replica_microsoft_sql_server",
     "title": "Replicar datos en Microsoft SQL Server",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715599678/blog/cover_rrlcad.jpg",
