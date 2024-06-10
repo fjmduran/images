@@ -1,16 +1,16 @@
 [
   {
-    "id": "hack_google_sheets",
-    "title": "Mis truquillos con Google Sheets 🔥",
+    "id": "google_sheets_concatenar",
+    "title": "Concatenando en Google Sheets",
     "img": "https://github.com/fjmduran/images/blob/master/blog/googleSheets.jpg?raw=true",
-    "description": "Iré anotando las cosillas que me parezcan interesantes sobre Google Sheets",
-    "tags": ["Informática"],
+    "description": "Cómo concatenar celdas en Google Sheet",
+    "tags": ["Informática","Google Sheet"],
     "date": "2019-09-22T14:15:23.511Z",
-    "html": "https://fjmduran.com/blog/hack_google_sheets/",
+    "html": "https://fjmduran.com/blog/google_sheets_concatenar/",
     "metaTags": {
-      "title": "Mis truquillos con Google Sheets 🔥",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/googleSheets.jpg?raw=true",
-      "description": "Iré anotando las cosillas que me parezcan interesantes sobre Google Sheets"
+      "title": "Concatenando en Google Sheets",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/googleSheets.jpg?raw=true",
+    "description": "Cómo concatenar celdas en Google Sheet"
     }
   },
   {
