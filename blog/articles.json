@@ -2022,14 +2022,14 @@
   {
     "id": "bajar_coste_subir_rendimiento_firestore",
     "title": "Cachea Firestore 🔥 y baja los costes 💸 disparando el rendimiento ✅",
-    "img": "https://github.com/fjmduran/images/blob/master/blog/angularFire.jpg?raw=true",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1720087693/blog/angularFire_phw7r4.jpg",
     "description": "Si usas Firestore como base de datos vas a disminuir muchísimas lecturas de documentos del servidor ahorrando mucho dinero y aumentando el rendimiento de tu APP",
     "tags": ["Angular", "Firebase", "Bases de datos"],
     "date": "2023-04-23T21:47:23.511Z",
     "html": "https://quiero1app.com/blog/bajar_coste_subir_rendimiento_firestore/",
     "metaTags": {
       "title": "Cachea Firestore 🔥 y baja los costes 💸 disparando el rendimiento ✅",
-      "img": "https://github.com/fjmduran/images/blob/master/blog/angularFire.jpg?raw=true",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1720087693/blog/angularFire_phw7r4.jpg",
       "description": "Si usas Firestore como base de datos vas a disminuir muchísimas lecturas de documentos del servidor ahorrando mucho dinero y aumentando el rendimiento de tu APP"
     }
   },

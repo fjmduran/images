@@ -256,7 +256,7 @@
     "title": "Programando un script con Batch para abrir varios escritorios remotos",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1708583278/blog/windowsBatchScript/cover_ixvsab.jpg",
     "description": "Necesito revisar 9 servidores de una red empresarial usando uno como puente (jumper). Programo un script en batch para no tener que abrir uno a uno los 9 escritorios remotos.",
-    "tags": ["Informática", "Windows"],
+    "tags": ["Informática", "Windows", "Batch"],
     "date": "2024-06-16T21:29:43.511Z",
     "html": "https://quiero1app.com/blog/batch_escritorios_remotos/",
     "metaTags": {
@@ -277,6 +277,48 @@
       "title": "Usando Google Sheets como backend y base de datos",
       "img": "https://github.com/fjmduran/images/blob/master/blog/googleSheets.jpg?raw=true",
       "description": "Te voy a explicar cómo consumir datos de Google Sheet desde tu aplicación de Angular"
+    }
+  },
+  {
+    "id": "http_request_powershell",
+    "title": "Peticiones HTTP con PowerShell",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1708583278/blog/windowsBatchScript/cover_ixvsab.jpg",
+    "description": "Te enseño a hacer peticiones HTTP en Windows sin necesidad de instalar nada, con la PowerShell.",
+    "tags": ["Informática", "Windows", "Batch"],
+    "date": "2025-05-12T21:17:43.511Z",
+    "html": "https://quiero1app.com/blog/http_request_powershell/",
+    "metaTags": {
+      "title": "Peticiones HTTP con PowerShell",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1708583278/blog/windowsBatchScript/cover_ixvsab.jpg",
+      "description": "Te enseño a hacer peticiones HTTP en Windows sin necesidad de instalar nada, con la PowerShell."
+    }
+  },
+  {
+    "id": "firestore_datos_cache_o_servidor",
+    "title": "¿Cómo puedo saber si mis datos en Firestore vienen del servidor o de la caché?",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1720087693/blog/angularFire_phw7r4.jpg",
+    "description": "Tengo una APP que envía comandas a distintas impresoras en un negocio de hostelería. Para vigilar las comandas estoy suscrito a un observable que vigila las comandas nuevas pero se duplican las comandas cuando las envío desde el servidor. Te cuento por qué y te enseño a arreglarlo.",
+    "tags": ["Angular", "Firebase", "Bases de datos"],
+    "date": "2024-07-07T20:47:23.511Z",
+    "html": "https://quiero1app.com/blog/firestore_datos_cache_o_servidor/",
+    "metaTags": {
+      "title": "¿Cómo puedo saber si mis datos en Firestore vienen del servidor o de la caché?",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1720087693/blog/angularFire_phw7r4.jpg",
+    "description": "Tengo una APP que envía comandas a distintas impresoras en un negocio de hostelería. Para vigilar las comandas estoy suscrito a un observable que vigila las comandas nuevas pero se duplican las comandas cuando las envío desde el servidor. Te cuento por qué y te enseño a arreglarlo."
+    }
+  },
+  {
+    "id": "calendar_angular_18",
+    "title": "Crear un calendario con Angular 18",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715019967/blog/docker-first-steps/cover_enzzo7.jpg",
+    "description": "Hace dos semanas tuve que dockerizar una aplicación, te cuento. En 2017                                                                                                                                                                                                                                          comencé la programación de una plataforma de hostelería. Con la llegada del COVID le di un buen empujón porque dicha plataforma le permitía que los usuarios desde casa hacer pedidos al negocio y quedaba registrado e imprimía las comandas después de que el encargado las revisara. Hace dos meses, un negocio de hostelería me pidió la plataforma pero no tenían conexión a internet, así que tuve que hacer una programación paralela que funcionara en local. Durante las primeras semanas todo fue bien, pero un día me llamaron con que había dejado de funcionar. Para no hacértelo muy largo, había llegado el típico cuñado y había descarajado el servidor. Para evitar que me volviera a pasar opté por dockerizar la aplicación para tenerla encapsulada y controlada. Además la dockerización me permitió también simplificar la implementación y actualización de la plataforma. Y de eso te quiero hablar, de cómo instalar Docker. Al turrón.",
+    "tags": ["Informática", "Linux", "Docker"],
+    "date": "2025-05-12T21:17:43.511Z",
+    "html": "https://quiero1app.com/blog/calendar_angular_18/",
+    "metaTags": {
+      "title": "Instalando Docker en Windows. Primeros pasos con Docker.",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715019967/blog/docker-first-steps/cover_enzzo7.jpg",
+      "description": "Hace dos semanas tuve que dockerizar una aplicación, te cuento. En 2017 comencé la programación de una plataforma de hostelería. Con la llegada del COVID le di un buen empujón porque dicha plataforma le permitía que los usuarios desde casa hacer pedidos al negocio y quedaba registrado e imprimía las comandas después de que el encargado las revisara. Hace dos meses, un negocio de hostelería me pidió la plataforma pero no tenían conexión a internet, así que tuve que hacer una programación paralela que funcionara en local. Durante las primeras semanas todo fue bien, pero un día me llamaron con que había dejado de funcionar. Para no hacértelo muy largo, había llegado el típico cuñado y había descarajado el servidor. Para evitar que me volviera a pasar opté por dockerizar la aplicación para tenerla encapsulada y controlada. Además la dockerización me permitió también simplificar la implementación y actualización de la plataforma. Y de eso te quiero hablar, de cómo instalar Docker. Al turrón."
     }
   },
   {
