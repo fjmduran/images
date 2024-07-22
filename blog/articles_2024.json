@@ -303,8 +303,22 @@
     "html": "https://quiero1app.com/blog/firestore_datos_cache_o_servidor/",
     "metaTags": {
       "title": "¿Cómo puedo saber si mis datos en Firestore vienen del servidor o de la caché?",
-    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1720087693/blog/angularFire_phw7r4.jpg",
-    "description": "Tengo una APP que envía comandas a distintas impresoras en un negocio de hostelería. Para vigilar las comandas estoy suscrito a un observable que vigila las comandas nuevas pero se duplican las comandas cuando las envío desde el servidor. Te cuento por qué y te enseño a arreglarlo."
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1720087693/blog/angularFire_phw7r4.jpg",
+      "description": "Tengo una APP que envía comandas a distintas impresoras en un negocio de hostelería. Para vigilar las comandas estoy suscrito a un observable que vigila las comandas nuevas pero se duplican las comandas cuando las envío desde el servidor. Te cuento por qué y te enseño a arreglarlo."
+    }
+  },
+  {
+    "id": "problema_falcon_crowdstrike",
+    "title": "¿Qué pasó el 19 de julio de 2024 en aeropuertos, bancos...? DEJARON DE FUNCIONAR",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1721644357/blog/crowdstrikeWindowsProblem/cover_xt6pr4.jpg",
+    "description": "Te resumo qué ha provocado, entre otros problemas, que la aviación mundial casi se paralizara.",
+    "tags": ["Informática", "Tecnología", "Windows"],
+    "date": "2024-07-22T21:07:23.511Z",
+    "html": "https://quiero1app.com/blog/problema_falcon_crowdstrike/",
+    "metaTags": {
+      "title": "¿Qué pasó el 19 de julio de 2024 en aeropuertos, bancos...? DEJARON DE FUNCIONAR",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1721644357/blog/crowdstrikeWindowsProblem/cover_xt6pr4.jpg",
+      "description": "Te resumo qué ha provocado, entre otros problemas, que la aviación mundial casi se paralizara."
     }
   },
   {
