@@ -322,6 +322,20 @@
     }
   },
   {
+    "id": "ocultar_ficheros_en_imagen",
+    "title": "Ocultar fichero en una imagen",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/robo_movil/cover.jpg?raw=true",
+    "description": "Te cuento cómo esconder ficheros en un archivo de imagen, ya sabes, jpg, png...",
+    "tags": ["Informática", "Tecnología", "Windows"],
+    "date": "2024-08-04T20:32:23.511Z",
+    "html": "https://quiero1app.com/blog/ocultar_ficheros_en_imagen/",
+    "metaTags": {
+      "title": "Ocultar fichero en una imagen",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/robo_movil/cover.jpg?raw=true",
+    "description": "Te cuento cómo esconder ficheros en un archivo de imagen, ya sabes, jpg, png..."
+    }
+  },
+  {
     "id": "calendar_angular_18",
     "title": "Crear un calendario con Angular 18",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715019967/blog/docker-first-steps/cover_enzzo7.jpg",
