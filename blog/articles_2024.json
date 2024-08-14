@@ -331,8 +331,22 @@
     "html": "https://quiero1app.com/blog/ocultar_ficheros_en_imagen/",
     "metaTags": {
       "title": "Ocultar ficheros en una imagen",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/robo_movil/cover.jpg?raw=true",
+      "description": "Te cuento cómo esconder ficheros en un archivo de imagen, ya sabes, jpg, png..."
+    }
+  },
+  {
+    "id": "sms_dgt_phising_cutre",
+    "title": "SMS de la DGT que no es de la DGT",
     "img": "https://github.com/fjmduran/images/blob/master/blog/robo_movil/cover.jpg?raw=true",
-    "description": "Te cuento cómo esconder ficheros en un archivo de imagen, ya sabes, jpg, png..."
+    "description": "Esta mañana he recibido un SMS de la DGT. Sorpresa, no era la DGT.",
+    "tags": ["Informática", "Tecnología", "Ciberseguridad"],
+    "date": "2024-08-15T11:32:23.511Z",
+    "html": "https://quiero1app.com/blog/sms_dgt_phising_cutre/",
+    "metaTags": {
+      "title": "SMS de la DGT que no es de la DGT",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/robo_movil/cover.jpg?raw=true",
+      "description": "Esta mañana he recibido un SMS de la DGT. Sorpresa, no era la DGT."
     }
   },
   {

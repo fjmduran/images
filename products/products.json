@@ -441,7 +441,7 @@
   {
     "id": "juego-preguntas",
     "title": "Juego de preguntas",
-    "html": "https://fjmduran.com/juego-preguntas",
+    "html": "https://repasando-el-cole.quiero1app.com/repasar_tablas_multiplicar",
     "icon": "https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
     "img": "https://github.com/fjmduran/images/blob/master/products/question-game/cover.jpg?raw=true",
     "description": "Juego de preguntas para motivar a mi hija Adriana 🥰",
@@ -451,13 +451,14 @@
       "description": "Juego de preguntas para motivar a mi hija Adriana 🥰"
     },
     "date": "2020-10-16T18:20:43.511Z",
-    "technologies": ["0", "15", "20"],
+    "technologies": ["26", "15", "20","27"],
     "history": [
       "En las Navidades de 2022 le hice a mi hija este juego de preguntas para ayudarla con el inglés.",
       "Tenía 6 años y se frustaba porque, para nosotros, el inglés no se escribe como se pronuncia.",
       "Con este juego quería que se familiarizara con la escritura del inglés.",
       "No estaba de acuerdo con que se les puntura por cómo escribían inglés, pero bueno, es lo que había.",
-      "Para motivarla, cada vez que encadena 10 respuestas correctas le muestro un poni de su serie de dibujos favorito."
+      "Para motivarla, cada vez que encadena 10 respuestas correctas le muestro un poni de su serie de dibujos favorito.",
+      "En el verano de 2024 migré la aplicación a Angular 17 y añadí las tablas de multiplicar."
     ],
     "featuresText": ["Diviértete GRATIS 🎁"],
     "features": [
