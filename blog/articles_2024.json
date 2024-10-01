@@ -350,6 +350,20 @@
     }
   },
   {
+    "id": "ia_rebela_contra_humanos",
+    "title": "IA se rebela contra humanos",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1727778806/blog/iaAgainHuman/cover_wxvs1w.jpg",
+    "description": "¿Skinet ha despertado? Hace dos semanas aparecieron noticios de que una IA se había rebelado contra los humanos. ¿Qué había hecho? ¿Qué podría hacer?¿Es verdad?",
+    "tags": ["Informática", "Tecnología"],
+    "date": "2024-09-06T20:13:23.511Z",
+    "html": "https://quiero1app.com/blog/ia_rebela_contra_humanos/",
+    "metaTags": {
+      "title": "IA se rebela contra humanos",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1727778806/blog/iaAgainHuman/cover_wxvs1w.jpg",
+      "description": "¿Skinet ha despertado? Hace dos semanas aparecieron noticios de que una IA se había rebelado contra los humanos. ¿Qué había hecho? ¿Qué podría hacer?¿Es verdad?"
+    }
+  },
+  {
     "id": "calendar_angular_18",
     "title": "Crear un calendario con Angular 18",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715019967/blog/docker-first-steps/cover_enzzo7.jpg",
