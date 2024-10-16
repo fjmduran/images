@@ -378,6 +378,22 @@
     }
   },
   {
+    "id": "imagen_defecto_html",
+    "title": "Cargar imagen por defecto en HTML",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729087425/blog/html5_ip6jpf.jpg",
+    "description": "El nuevo atributo en la entique img para asignar imágens por defecto en HTML",
+    "tags": ["HTML"],
+    "date": "2024-10-20T19:07:41.511Z",
+    "html": "https://quiero1app.com/blog/imagen_defecto_html/",
+    "metaTags": {
+    "title": "Cargar imagen por defecto en HTML",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729087425/blog/html5_ip6jpf.jpg",
+    "description": "El nuevo atributo en la entique img para asignar imágens por defecto en HTML"
+    }
+  },
+
+
+  {
     "id": "docker_primeros_pasos",
     "title": "Primeros pasos con Docker",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715019967/blog/docker-first-steps/cover_enzzo7.jpg",
