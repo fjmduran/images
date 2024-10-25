@@ -372,9 +372,9 @@
     "date": "2024-10-13T20:41:41.511Z",
     "html": "https://quiero1app.com/blog/calendar_angular_18/",
     "metaTags": {
-    "title": "Crear un calendario con Angular 18",
-    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1704273822/blog/angular17_xyguup.jpg",
-    "description": "Me he programado un calendario completo con Angular 18 porque los he había estado usando hasta tenían más funcionalidades de las que necesito y le faltaba alguna. Te cuento."
+      "title": "Crear un calendario con Angular 18",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1704273822/blog/angular17_xyguup.jpg",
+      "description": "Me he programado un calendario completo con Angular 18 porque los he había estado usando hasta tenían más funcionalidades de las que necesito y le faltaba alguna. Te cuento."
     }
   },
   {
@@ -386,12 +386,25 @@
     "date": "2024-10-20T19:07:41.511Z",
     "html": "https://quiero1app.com/blog/imagen_defecto_html/",
     "metaTags": {
-    "title": "Cargar imagen por defecto en HTML",
-    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729087425/blog/html5_ip6jpf.jpg",
-    "description": "El nuevo atributo en la entique img para asignar imágens por defecto en HTML"
+      "title": "Cargar imagen por defecto en HTML",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729087425/blog/html5_ip6jpf.jpg",
+      "description": "El nuevo atributo en la entique img para asignar imágens por defecto en HTML"
     }
   },
-
+  {
+    "id": "modbus_leyendo_address",
+    "title": "Leyendo direcciones de memoria Modbus",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
+    "description": "Te cuento cómo te pueden especificar las direcciones de memoria Modbus para que no tengas problemas a la hora de leer/escribir lo que quieres.",
+    "tags": ["Tecnología", "Comunicaciones"],
+    "date": "2024-10-27T19:40:41.511Z",
+    "html": "https://quiero1app.com/blog/modbus_leyendo_address/",
+    "metaTags": {
+      "title": "Leyendo direcciones de memoria Modbus",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
+      "description": "Te cuento cómo te pueden especificar las direcciones de memoria Modbus para que no tengas problemas a la hora de leer/escribir lo que quieres."
+    }
+  },
 
   {
     "id": "docker_primeros_pasos",
