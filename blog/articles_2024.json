@@ -421,6 +421,20 @@
     }
   },
   {
+    "id": "securizando_headers",
+    "title": "Haz inexpugnables tu web configurando correctamente los headers",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1730374180/blog/headersSecureWeb/cover_jxibs5.jpg",
+    "description": "He pasado en mi web alojada en CloudFlare de una calificación D a la mayor calificación, la A+",
+    "tags": ["Informática", "Ciberseguridad"],
+    "date": "2024-10-03T21:23:43.511Z",
+    "html": "https://quiero1app.com/blog/securizando_headers/",
+    "metaTags": {
+      "title": "Replicar datos en Microsoft SQL Server",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1730374180/blog/headersSecureWeb/cover_jxibs5.jpg",
+      "description": "Te cuento cómo replicar datos en servidores distintos de MS SQL Server con herramientas nativas de Microsoft"
+    }
+  },
+  {
     "id": "redes_petri",
     "title": "¿Qué son las redes de Petri?",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1704273796/blog/angular_galuje.jpg",
