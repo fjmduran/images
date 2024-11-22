@@ -70,11 +70,11 @@
       "Gestión de stock"
     ],
     "history": [
-      "Un amigo tenía una pizzería.",
-      "Con la llegada del COVID casi la única opción era llevar pizzas a domicilio.",
-      "Mientras hacía las pizzas le era muy incómodo atender el móvil para anotar pedidos y responder dudas sobre los productos disponibles.",
+      "Un amigo tenía un negocio de hostelería.",
+      "Con la llegada del COVID casi la única opción era llevar comida a domicilio.",
+      "Mientras cocinaba le era muy incómodo atender el móvil para anotar pedidos y responder dudas sobre los productos disponibles en el momento.",
       "Le hice esta aplicación para que sus clientes trabajaran por él.",
-      "Los clientes veían online los productos disponibles y hacían sus pedidos en consecuencia.",
+      "Los clientes veían online los productos disponibles y hacían sus pedidos.",
       "Con el tiempo le fui añadiendo más funcionalidades, impresión de pedidos en comanderas, gestión del stock, cobro por tarjeta..."
     ],
     "technologies": ["0", "1", "13", "15", "20"],
