@@ -435,6 +435,20 @@
     }
   },
   {
+    "id": "reiniciando_esp32",
+    "title": "Detecta cuando se queda bloqueada tu ESP8266 o tu ESP32",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
+    "description": "A veces nuestras microcontroladoras se quedan bloqueadas y no responden. Puede que sea una fuga de memoria. Te cuento cómo detectar que se bloquea y cómo sacarla de ese estado automáticamente.",
+    "tags": ["IoT", "Informática"],
+    "date": "2024-11-24T20:53:43.511Z",
+    "html": "https://fjmduran.com/blog/reiniciando_esp32/",
+    "metaTags": {
+      "title": "Detecta cuando se queda bloqueada tu ESP8266 o tu ESP32",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
+      "description": "A veces nuestras microcontroladoras se quedan bloqueadas y no responden. Puede que sea una fuga de memoria. Te cuento cómo detectar que se bloquea y cómo sacarla de ese estado automáticamente."
+    }
+  },
+  {
     "id": "redes_petri",
     "title": "¿Qué son las redes de Petri?",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1704273796/blog/angular_galuje.jpg",
