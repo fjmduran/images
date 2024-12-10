@@ -449,6 +449,20 @@
     }
   },
   {
+    "id": "herramientas_ia_fjmduran",
+    "title": "Herramientas de IA de fjmduran",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
+    "description": "Colección de herramientas de IA que uso.",
+    "tags": ["Informática"],
+    "date": "2024-12-15T21:40:43.511Z",
+    "html": "https://fjmduran.com/blog/herramientas_ia_fjmduran/",
+    "metaTags": {
+      "title": "Herramientas de IA de fjmduran",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
+      "description": "Colección de herramientas de IA que uso."
+    }
+  },
+  {
     "id": "redes_petri",
     "title": "¿Qué son las redes de Petri?",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1704273796/blog/angular_galuje.jpg",
