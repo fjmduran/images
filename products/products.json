@@ -451,7 +451,7 @@
       "description": "Juego de preguntas para motivar a mi hija Adriana 🥰"
     },
     "date": "2020-10-16T18:20:43.511Z",
-    "technologies": ["26", "15", "20","27"],
+    "technologies": ["26", "15", "20", "27"],
     "history": [
       "En las Navidades de 2022 le hice a mi hija este juego de preguntas para ayudarla con el inglés.",
       "Tenía 6 años y se frustaba porque, para nosotros, el inglés no se escribe como se pronuncia.",
@@ -469,6 +469,35 @@
       {
         "icon": "emoji_nature",
         "text": "Colabora con el medioambiente"
+      }
+    ]
+  },
+  {
+    "id": "conversor_hexadecimal",
+    "title": "Conversor hexadecimal",
+    "html": "https://quiero1app.com/aplicaciones/conversor_hexadecimal/",
+    "icon": "https://github.com/fjmduran/images/blob/master/fjmduran.com/favicon.png?raw=true",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/hexadecimalSystem/cover.jpg?raw=true",
+    "description": "Conversor hexadecimal a decimal IEEE 754",
+    "metaTags": {
+      "title": "conversor_hexadecimal_decimal",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/hexadecimalSystem/cover.jpg?raw=true",
+      "description": "Conversor hexadecimal a decimal IEEE 754"
+    },
+    "date": "2020-10-16T18:20:43.511Z",
+    "technologies": ["0", "1", "15", "20"],
+    "history": [
+      "Cuando programa PLC, una de las comunicaciones que más uso es MODBUS.",
+      "Los datos los envío en hexadecimal.",
+      "Si te preguntas por qué uso hexadecimal te deberías leer mi artículo sobre el tema.",
+      "Te adelanto que puedo transmitir la misma información ocupando menos espacio.",
+      "Y es algo que me encanta, yo abogo por la economía tanto en el lenguaje estre humanos como entre máquinas."
+    ],
+    "featuresText": ["Letras, número y símbolos", "GRATIS 🎁"],
+    "features": [
+      {
+        "icon": "beach_access",
+        "text": "Zona gratuita"
       }
     ]
   },
