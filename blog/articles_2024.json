@@ -463,6 +463,20 @@
     }
   },
   {
+    "id": "conversor_hexadecimal",
+    "title": "Conversor hexadecimal",
+    "img": "https://github.com/fjmduran/images/blob/master/blog/hexadecimalSystem/cover.jpg?raw=true",
+    "description": "Conversor hexadecimal a float de 32 bits (IEEE 754), fecha epoch y fecha desde el 01.01.2000",
+    "tags": ["Informática"],
+    "date": "2024-12-21T18:42:43.511Z",
+    "html": "https://fjmduran.com/blog/conversor_hexadecimal/",
+    "metaTags": {
+      "title": "Conversor hexadecimal",
+      "img": "https://github.com/fjmduran/images/blob/master/blog/hexadecimalSystem/cover.jpg?raw=true",
+      "description": "Conversor hexadecimal a float de 32 bits (IEEE 754), fecha epoch y fecha desde el 01.01.2000"
+    }
+  },
+  {
     "id": "redes_petri",
     "title": "¿Qué son las redes de Petri?",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1704273796/blog/angular_galuje.jpg",
