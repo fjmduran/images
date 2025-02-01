@@ -560,7 +560,7 @@
   {
     "id": "cesta",
     "title": "Cesta supermercado",
-    "html": "https://fjmduran.com/productos/cesta",
+    "html": "https://cesta.fjmduran.com/",
     "icon": "https://mcesta.web.app/assets/icons/icon-144x144.png",
     "img": "https://github.com/fjmduran/images/blob/master/products/mcesta/cover.jpg?raw=true",
     "description": "¿Te has olvidado algunas vez la lista de la compra en la cocina, en el imán de la nevera?",
