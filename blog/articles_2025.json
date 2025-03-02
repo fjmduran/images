@@ -1,11 +1,25 @@
 [
   {
+    "id": "docker_mosquitto",
+    "title": "Servidor MQTT Mosquitto con Docker",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1739968950/blog/mosquitto_docker/cover_o5dox3.jpg",
+    "description": "Te enseño a levantar un contenedor con el broker MQTT Mosquitto para probar mi aplicación",
+    "tags": ["MQTT","Docker"],
+    "date": "2025-03-02T10:04:43.511Z",
+    "html": "https://fjmduran.com/blog/docker_mosquitto/",
+    "metaTags": {
+      "title": "Servidor MQTT Mosquitto con Docker",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1739968950/blog/mosquitto_docker/cover_o5dox3.jpg",
+    "description": "Te enseño a levantar un contenedor con el broker MQTT Mosquitto para probar mi aplicación"
+    }
+  },
+  {
     "id": "comunicaciones_siemens_s7",
     "title": "Comunicando por S7 de Siemens",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
     "description": "Te cuento cómo replicar datos en servidores distintos de MS SQL Server con herramientas nativas de Microsoft",
     "tags": ["PLC","Siemens"],
-    "date": "2025-01-19T21:44:43.511Z",
+    "date": "2025-04-19T21:44:43.511Z",
     "html": "https://fjmduran.com/blog/comunicaciones_siemens_s7/",
     "metaTags": {
       "title": "Comunicando por S7 de Siemens",
