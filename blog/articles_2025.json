@@ -1,12 +1,12 @@
 [
   {
-    "id": "docker_mosquitto",
+    "id": "mosquitto_docker",
     "title": "Servidor MQTT Mosquitto con Docker",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1739968950/blog/mosquitto_docker/cover_o5dox3.jpg",
     "description": "Te enseño a levantar un contenedor con el broker MQTT Mosquitto para probar mi aplicación",
     "tags": ["MQTT","Docker"],
     "date": "2025-03-02T10:04:43.511Z",
-    "html": "https://fjmduran.com/blog/docker_mosquitto/",
+    "html": "https://fjmduran.com/blog/mosquitto_docker/",
     "metaTags": {
       "title": "Servidor MQTT Mosquitto con Docker",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1739968950/blog/mosquitto_docker/cover_o5dox3.jpg",
