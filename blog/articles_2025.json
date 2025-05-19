@@ -28,12 +28,27 @@
     }
   },
   {
+    "id": "usdc_a_btc",
+    "title": "Cambiando USDC de Arbitrum a BTC nativo",
+    "img": "https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fbitcoin.webp?alt=media&token=62519856-bb7f-4334-9d33-71c4d2269f2a",
+    "description": "Cambiando USDC de Arbitrum a BTC nativo en un sólo paso",
+    "tags": ["Bitcoin"],
+    "date": "2025-05-25T20:07:43.511Z",
+    "html": "https://fjmduran.com/blog/usdc_a_btc/",
+    "metaTags": {
+      "title": "Backup y carga de datos en S7300 de Siemens",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
+    "description": "Notas de @fjmduran sobre el S7 300 de Siemens"
+    }
+  },
+
+  {
     "id": "modbus_compact_logix_rockwell",
     "title": "Compac Logix Rockwell con Modbus",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
     "description": "Notas de @fjmduran sobre el módulo MVI69E-MBTCP de ProSoft Technology para dotar a los PLC Compact Logix de Rockwell de TCP/IP",
     "tags": ["PLC","Siemens"],
-    "date": "2025-05-18T21:44:43.511Z",
+    "date": "2025-09-18T21:44:43.511Z",
     "html": "https://fjmduran.com/blog/modbus_compact_logix_rockwell/",
     "metaTags": {
       "title": "Compac Logix Rockwell con Modbus",
@@ -47,7 +62,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
     "description": "Te cuento cómo replicar datos en servidores distintos de MS SQL Server con herramientas nativas de Microsoft",
     "tags": ["PLC","Siemens"],
-    "date": "2025-04-19T21:44:43.511Z",
+    "date": "2025-09-19T21:44:43.511Z",
     "html": "https://fjmduran.com/blog/comunicaciones_siemens_s7/",
     "metaTags": {
       "title": "Comunicando por S7 de Siemens",
@@ -61,7 +76,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1708583278/blog/windowsBatchScript/cover_ixvsab.jpg",
     "description": "Te enseño a hacer peticiones HTTP en Windows sin necesidad de instalar nada, con la PowerShell.",
     "tags": ["Informática", "Windows", "Batch"],
-    "date": "2025-05-12T21:17:43.511Z",
+    "date": "2025-09-12T21:17:43.511Z",
     "html": "https://quiero1app.com/blog/http_request_powershell/",
     "metaTags": {
       "title": "Peticiones HTTP con PowerShell",
@@ -75,7 +90,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715019967/blog/docker-first-steps/cover_enzzo7.jpg",
     "description": "Hace dos semanas tuve que dockerizar una aplicación, te cuento. En 2017                                                                                                                                                                                                                                          comencé la programación de una plataforma de hostelería. Con la llegada del COVID le di un buen empujón porque dicha plataforma le permitía que los usuarios desde casa hacer pedidos al negocio y quedaba registrado e imprimía las comandas después de que el encargado las revisara. Hace dos meses, un negocio de hostelería me pidió la plataforma pero no tenían conexión a internet, así que tuve que hacer una programación paralela que funcionara en local. Durante las primeras semanas todo fue bien, pero un día me llamaron con que había dejado de funcionar. Para no hacértelo muy largo, había llegado el típico cuñado y había descarajado el servidor. Para evitar que me volviera a pasar opté por dockerizar la aplicación para tenerla encapsulada y controlada. Además la dockerización me permitió también simplificar la implementación y actualización de la plataforma. Y de eso te quiero hablar, de cómo instalar Docker. Al turrón.",
     "tags": ["Informática", "Linux", "Docker"],
-    "date": "2025-05-12T21:17:43.511Z",
+    "date": "2025-09-12T21:17:43.511Z",
     "html": "https://quiero1app.com/blog/calendar_angular_18/",
     "metaTags": {
       "title": "Instalando Docker en Windows. Primeros pasos con Docker.",
@@ -89,7 +104,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715019967/blog/docker-first-steps/cover_enzzo7.jpg",
     "description": "Hace dos semanas tuve que dockerizar una aplicación, te cuento. En 2017                                                                                                                                                                                                                                          comencé la programación de una plataforma de hostelería. Con la llegada del COVID le di un buen empujón porque dicha plataforma le permitía que los usuarios desde casa hacer pedidos al negocio y quedaba registrado e imprimía las comandas después de que el encargado las revisara. Hace dos meses, un negocio de hostelería me pidió la plataforma pero no tenían conexión a internet, así que tuve que hacer una programación paralela que funcionara en local. Durante las primeras semanas todo fue bien, pero un día me llamaron con que había dejado de funcionar. Para no hacértelo muy largo, había llegado el típico cuñado y había descarajado el servidor. Para evitar que me volviera a pasar opté por dockerizar la aplicación para tenerla encapsulada y controlada. Además la dockerización me permitió también simplificar la implementación y actualización de la plataforma. Y de eso te quiero hablar, de cómo instalar Docker. Al turrón.",
     "tags": ["Informática", "Linux", "Docker"],
-    "date": "2025-05-12T21:17:43.511Z",
+    "date": "2025-09-12T21:17:43.511Z",
     "html": "https://quiero1app.com/blog/docker_primeros_pasos/",
     "metaTags": {
       "title": "Instalando Docker en Windows. Primeros pasos con Docker.",
@@ -103,7 +118,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715599678/blog/cover_rrlcad.jpg",
     "description": "Te cuento cómo replicar datos en servidores distintos de MS SQL Server con herramientas nativas de Microsoft",
     "tags": ["Informática", "Bases de datos"],
-    "date": "2025-05-19T21:51:43.511Z",
+    "date": "2025-09-19T21:51:43.511Z",
     "html": "https://quiero1app.com/blog/redes_petri/",
     "metaTags": {
       "title": "Replicar datos en Microsoft SQL Server",
@@ -117,7 +132,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715599678/blog/cover_rrlcad.jpg",
     "description": "Te cuento cómo replicar datos en servidores distintos de MS SQL Server con herramientas nativas de Microsoft",
     "tags": ["Informática", "Bases de datos"],
-    "date": "2025-05-19T21:51:43.511Z",
+    "date": "2025-09-19T21:51:43.511Z",
     "html": "https://quiero1app.com/blog/replica_microsoft_sql_server/",
     "metaTags": {
       "title": "Replicar datos en Microsoft SQL Server",
@@ -131,7 +146,7 @@
     "img": "https://github.com/fjmduran/images/blob/master/blog/storeProcedure/cover.jpg?raw=true",
     "description": "¿Qué ventajas y desventajes tienen los procedimientos almacenados en SQL?",
     "tags": ["Bases de datos"],
-    "date": "2025-06-18T21:26:43.511Z",
+    "date": "2025-09-18T21:26:43.511Z",
     "html": "https://quiero1app.com/blog/procedimientos_almacenados_sql/",
     "metaTags": {
       "title": "Procedimientos almacenados en SQL",
