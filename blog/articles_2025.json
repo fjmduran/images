@@ -4,13 +4,13 @@
     "title": "Servidor MQTT Mosquitto con Docker",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1739968950/blog/mosquitto_docker/cover_o5dox3.jpg",
     "description": "Te enseño a levantar un contenedor con el broker MQTT Mosquitto para probar mi aplicación",
-    "tags": ["MQTT","Docker"],
+    "tags": ["MQTT", "Docker"],
     "date": "2025-03-02T10:04:43.511Z",
     "html": "https://fjmduran.com/blog/mosquitto_docker/",
     "metaTags": {
       "title": "Servidor MQTT Mosquitto con Docker",
-    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1739968950/blog/mosquitto_docker/cover_o5dox3.jpg",
-    "description": "Te enseño a levantar un contenedor con el broker MQTT Mosquitto para probar mi aplicación"
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1739968950/blog/mosquitto_docker/cover_o5dox3.jpg",
+      "description": "Te enseño a levantar un contenedor con el broker MQTT Mosquitto para probar mi aplicación"
     }
   },
   {
@@ -18,13 +18,13 @@
     "title": "Backup y carga de datos en S7300 de Siemens",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
     "description": "Notas de @fjmduran sobre el S7 300 de Siemens",
-    "tags": ["PLC","Siemens"],
+    "tags": ["PLC", "Siemens"],
     "date": "2025-04-06T21:13:43.511Z",
     "html": "https://fjmduran.com/blog/siemens_s7300/",
     "metaTags": {
       "title": "Backup y carga de datos en S7300 de Siemens",
-    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
-    "description": "Notas de @fjmduran sobre el S7 300 de Siemens"
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
+      "description": "Notas de @fjmduran sobre el S7 300 de Siemens"
     }
   },
   {
@@ -37,23 +37,36 @@
     "html": "https://fjmduran.com/blog/usdc_a_btc/",
     "metaTags": {
       "title": "Backup y carga de datos en S7300 de Siemens",
-    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
-    "description": "Notas de @fjmduran sobre el S7 300 de Siemens"
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
+      "description": "Notas de @fjmduran sobre el S7 300 de Siemens"
     }
   },
-
+  {
+    "id": "condiciones_de_carrera",
+    "title": "Cuando dos usuarios hacen una reserva al mismo tiempo",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
+    "description": "Las condiciones de carrera son un problema común en sistemas concurrentes, donde dos o más procesos intentan acceder a un recurso compartido al mismo tiempo. Te cuento cómo manejar las condiciones de carrera en aplicaciones y bases de datos.",
+    "tags": ["Informática", "Bases de datos", "Bases de programación"],
+    "date": "2025-06-22T21:06:43.511Z",
+    "html": "https://fjmduran.com/blog/condiciones_de_carrera/",
+    "metaTags": {
+      "title": "Cuando dos usuarios hacen una reserva al mismo tiempo",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
+      "description": "Las condiciones de carrera son un problema común en sistemas concurrentes, donde dos o más procesos intentan acceder a un recurso compartido al mismo tiempo. Te cuento cómo manejar las condiciones de carrera en aplicaciones y bases de datos."
+    }
+  },
   {
     "id": "modbus_compact_logix_rockwell",
     "title": "Compac Logix Rockwell con Modbus",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
     "description": "Notas de @fjmduran sobre el módulo MVI69E-MBTCP de ProSoft Technology para dotar a los PLC Compact Logix de Rockwell de TCP/IP",
-    "tags": ["PLC","Siemens"],
-    "date": "2025-09-18T21:44:43.511Z",
+    "tags": ["PLC", "Siemens"],
+    "date": "2026-09-18T21:44:43.511Z",
     "html": "https://fjmduran.com/blog/modbus_compact_logix_rockwell/",
     "metaTags": {
       "title": "Compac Logix Rockwell con Modbus",
-    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
-    "description": "Notas de @fjmduran sobre el módulo MVI69E-MBTCP de ProSoft Technology para dotar a los PLC Compact Logix de Rockwell de TCP/IP"
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
+      "description": "Notas de @fjmduran sobre el módulo MVI69E-MBTCP de ProSoft Technology para dotar a los PLC Compact Logix de Rockwell de TCP/IP"
     }
   },
   {
@@ -61,8 +74,8 @@
     "title": "Comunicando por S7 de Siemens",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
     "description": "Te cuento cómo replicar datos en servidores distintos de MS SQL Server con herramientas nativas de Microsoft",
-    "tags": ["PLC","Siemens"],
-    "date": "2025-09-19T21:44:43.511Z",
+    "tags": ["PLC", "Siemens"],
+    "date": "2026-09-19T21:44:43.511Z",
     "html": "https://fjmduran.com/blog/comunicaciones_siemens_s7/",
     "metaTags": {
       "title": "Comunicando por S7 de Siemens",
@@ -76,7 +89,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1708583278/blog/windowsBatchScript/cover_ixvsab.jpg",
     "description": "Te enseño a hacer peticiones HTTP en Windows sin necesidad de instalar nada, con la PowerShell.",
     "tags": ["Informática", "Windows", "Batch"],
-    "date": "2025-09-12T21:17:43.511Z",
+    "date": "2026-09-12T21:17:43.511Z",
     "html": "https://quiero1app.com/blog/http_request_powershell/",
     "metaTags": {
       "title": "Peticiones HTTP con PowerShell",
@@ -90,7 +103,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715019967/blog/docker-first-steps/cover_enzzo7.jpg",
     "description": "Hace dos semanas tuve que dockerizar una aplicación, te cuento. En 2017                                                                                                                                                                                                                                          comencé la programación de una plataforma de hostelería. Con la llegada del COVID le di un buen empujón porque dicha plataforma le permitía que los usuarios desde casa hacer pedidos al negocio y quedaba registrado e imprimía las comandas después de que el encargado las revisara. Hace dos meses, un negocio de hostelería me pidió la plataforma pero no tenían conexión a internet, así que tuve que hacer una programación paralela que funcionara en local. Durante las primeras semanas todo fue bien, pero un día me llamaron con que había dejado de funcionar. Para no hacértelo muy largo, había llegado el típico cuñado y había descarajado el servidor. Para evitar que me volviera a pasar opté por dockerizar la aplicación para tenerla encapsulada y controlada. Además la dockerización me permitió también simplificar la implementación y actualización de la plataforma. Y de eso te quiero hablar, de cómo instalar Docker. Al turrón.",
     "tags": ["Informática", "Linux", "Docker"],
-    "date": "2025-09-12T21:17:43.511Z",
+    "date": "2026-09-12T21:17:43.511Z",
     "html": "https://quiero1app.com/blog/calendar_angular_18/",
     "metaTags": {
       "title": "Instalando Docker en Windows. Primeros pasos con Docker.",
@@ -104,7 +117,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715019967/blog/docker-first-steps/cover_enzzo7.jpg",
     "description": "Hace dos semanas tuve que dockerizar una aplicación, te cuento. En 2017                                                                                                                                                                                                                                          comencé la programación de una plataforma de hostelería. Con la llegada del COVID le di un buen empujón porque dicha plataforma le permitía que los usuarios desde casa hacer pedidos al negocio y quedaba registrado e imprimía las comandas después de que el encargado las revisara. Hace dos meses, un negocio de hostelería me pidió la plataforma pero no tenían conexión a internet, así que tuve que hacer una programación paralela que funcionara en local. Durante las primeras semanas todo fue bien, pero un día me llamaron con que había dejado de funcionar. Para no hacértelo muy largo, había llegado el típico cuñado y había descarajado el servidor. Para evitar que me volviera a pasar opté por dockerizar la aplicación para tenerla encapsulada y controlada. Además la dockerización me permitió también simplificar la implementación y actualización de la plataforma. Y de eso te quiero hablar, de cómo instalar Docker. Al turrón.",
     "tags": ["Informática", "Linux", "Docker"],
-    "date": "2025-09-12T21:17:43.511Z",
+    "date": "2026-09-12T21:17:43.511Z",
     "html": "https://quiero1app.com/blog/docker_primeros_pasos/",
     "metaTags": {
       "title": "Instalando Docker en Windows. Primeros pasos con Docker.",
@@ -118,7 +131,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715599678/blog/cover_rrlcad.jpg",
     "description": "Te cuento cómo replicar datos en servidores distintos de MS SQL Server con herramientas nativas de Microsoft",
     "tags": ["Informática", "Bases de datos"],
-    "date": "2025-09-19T21:51:43.511Z",
+    "date": "2026-09-19T21:51:43.511Z",
     "html": "https://quiero1app.com/blog/redes_petri/",
     "metaTags": {
       "title": "Replicar datos en Microsoft SQL Server",
@@ -132,7 +145,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715599678/blog/cover_rrlcad.jpg",
     "description": "Te cuento cómo replicar datos en servidores distintos de MS SQL Server con herramientas nativas de Microsoft",
     "tags": ["Informática", "Bases de datos"],
-    "date": "2025-09-19T21:51:43.511Z",
+    "date": "2026-09-19T21:51:43.511Z",
     "html": "https://quiero1app.com/blog/replica_microsoft_sql_server/",
     "metaTags": {
       "title": "Replicar datos en Microsoft SQL Server",
@@ -146,7 +159,7 @@
     "img": "https://github.com/fjmduran/images/blob/master/blog/storeProcedure/cover.jpg?raw=true",
     "description": "¿Qué ventajas y desventajes tienen los procedimientos almacenados en SQL?",
     "tags": ["Bases de datos"],
-    "date": "2025-09-18T21:26:43.511Z",
+    "date": "2026-09-18T21:26:43.511Z",
     "html": "https://quiero1app.com/blog/procedimientos_almacenados_sql/",
     "metaTags": {
       "title": "Procedimientos almacenados en SQL",
