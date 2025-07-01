@@ -56,6 +56,20 @@
     }
   },
   {
+    "id": "cloudflare_firebase_auth_juntos_mala_idea",
+    "title": "Problema con Firebase Auth y Cloudflare",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
+    "description": "Un fin de semana perdido por culpa de Firebase Auth y Cloudflare.",
+    "tags": ["Informática", "Bases de programación"],
+    "date": "2025-07-06T21:29:43.511Z",
+    "html": "https://fjmduran.com/blog/cloudflare_firebase_auth_juntos_mala_idea/",
+    "metaTags": {
+      "title": "Problema con Firebase Auth y Cloudflare",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
+      "description": "Un fin de semana perdido por culpa de Firebase Auth y Cloudflare."
+    }
+  },
+  {
     "id": "modbus_compact_logix_rockwell",
     "title": "Compac Logix Rockwell con Modbus",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
