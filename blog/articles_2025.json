@@ -70,6 +70,20 @@
     }
   },
   {
+    "id": "tia_portal_gestion_memoria",
+    "title": "Cómo gestiona TIA Portal la memoria",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
+    "description": "Te cuento cómo gestiona TIA Portal la memoria de sus PLCs de SIEMENS.",
+    "tags": ["PLC", "Siemens"],
+    "date": "2025-07-20T21:09:43.511Z",
+    "html": "https://fjmduran.com/blog/tia_portal_gestion_memoria/",
+    "metaTags": {
+      "title": "Cómo gestiona TIA Portal la memoria",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
+      "description": "Te cuento cómo gestiona TIA Portal la memoria de sus PLCs de SIEMENS."
+    }
+  },
+  {
     "id": "modbus_compact_logix_rockwell",
     "title": "Compac Logix Rockwell con Modbus",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
