@@ -84,6 +84,20 @@
     }
   },
   {
+    "id": "plc_realimentacion_estado",
+    "title": "Programando una realimentación de estado en un PLC",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1753455847/blog/plcRealimentaci%C3%B3nEstado/cover_xj0rln.jpg",
+    "description": "Te enseño a programar una realimentación de estado en un PLC. Programa como un pro.",
+    "tags": ["PLC", "Siemens"],
+    "date": "2025-07-27T21:05:43.511Z",
+    "html": "https://fjmduran.com/blog/plc_realimentacion_estado/",
+    "metaTags": {
+      "title": "Programando una realimentación de estado en un PLC",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1753455847/blog/plcRealimentaci%C3%B3nEstado/cover_xj0rln.jpg",
+    "description": "Te enseño a programar una realimentación de estado en un PLC. Programa como un pro."
+    }
+  },
+  {
     "id": "modbus_compact_logix_rockwell",
     "title": "Compac Logix Rockwell con Modbus",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
