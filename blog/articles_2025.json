@@ -98,6 +98,20 @@
     }
   },
   {
+    "id": "tia_portal_snapshot_data_block",
+    "title": "Snapshots de bloques de datos en TIA Portal",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1753698342/blog/tiaPortalSnapshotDB/cover_famliz.jpg",
+    "description": "Antes de cargar un programa en un PLC, asegúrate bien que no vas a sobreescribir datos de procesos ya configurados. Te ahorrará muchas canas.",
+    "tags": ["PLC", "Siemens"],
+    "date": "2025-08-03T21:27:43.511Z",
+    "html": "https://fjmduran.com/blog/tia_portal_snapshot_data_block/",
+    "metaTags": {
+      "title": "Snapshots de bloques de datos en TIA Portal",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1753698342/blog/tiaPortalSnapshotDB/cover_famliz.jpg",
+      "description": "Antes de cargar un programa en un PLC, asegúrate bien que no vas a sobreescribir datos de procesos ya configurados. Te ahorrará muchas canas."
+    }
+  },
+  {
     "id": "modbus_compact_logix_rockwell",
     "title": "Compac Logix Rockwell con Modbus",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
