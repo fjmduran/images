@@ -112,6 +112,20 @@
     }
   },
   {
+    "id": "instalando_tia_portal",
+    "title": "Instalando TIA Portal en una máquina virtual",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1759326749/blog/installTiaPortal/cover_c5zbag.jpg",
+    "description": "Te enseño a instalar TIA Portal en una máquina virtual.",
+    "tags": ["PLC", "Siemens"],
+    "date": "2025-10-05T21:41:43.511Z",
+    "html": "https://fjmduran.com/blog/tia_portal_snapshot_data_block/",
+    "metaTags": {
+      "title": "Instalando TIA Portal en una máquina virtual",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1759326749/blog/installTiaPortal/cover_c5zbag.jpg",
+      "description": "Te enseño a instalar TIA Portal en una máquina virtual."
+    }
+  },
+  {
     "id": "modbus_compact_logix_rockwell",
     "title": "Compac Logix Rockwell con Modbus",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
