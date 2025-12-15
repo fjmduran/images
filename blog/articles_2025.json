@@ -58,14 +58,14 @@
   {
     "id": "cloudflare_firebase_auth_juntos_mala_idea",
     "title": "Problema con Firebase Auth y Cloudflare",
-    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1751389956/blog/developerPicoPala_h9qqpd.jpg",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
     "description": "Un fin de semana perdido por culpa de Firebase Auth y Cloudflare.",
     "tags": ["Informática", "Bases de programación"],
     "date": "2025-07-06T21:29:43.511Z",
     "html": "https://fjmduran.com/blog/cloudflare_firebase_auth_juntos_mala_idea/",
     "metaTags": {
       "title": "Problema con Firebase Auth y Cloudflare",
-      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1751389956/blog/developerPicoPala_h9qqpd.jpg",
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1713166025/blog/developer_ib4c9k.jpg",
       "description": "Un fin de semana perdido por culpa de Firebase Auth y Cloudflare."
     }
   },
@@ -93,8 +93,8 @@
     "html": "https://fjmduran.com/blog/plc_realimentacion_estado/",
     "metaTags": {
       "title": "Programando una realimentación de estado en un PLC",
-    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1753455847/blog/plcRealimentaci%C3%B3nEstado/cover_xj0rln.jpg",
-    "description": "Te enseño a programar una realimentación de estado en un PLC. Programa como un pro."
+      "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1753455847/blog/plcRealimentaci%C3%B3nEstado/cover_xj0rln.jpg",
+      "description": "Te enseño a programar una realimentación de estado en un PLC. Programa como un pro."
     }
   },
   {
@@ -125,7 +125,7 @@
       "description": "Te enseño a instalar TIA Portal en una máquina virtual."
     }
   },
-   {
+  {
     "id": "primer_ciberataque_inteligencia_artificial",
     "title": "Primer ciberataque ejecutado por inteligencia artificial",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1763542565/blog/firstAIAttack/cover_nmsg1z.jpg",
@@ -139,13 +139,27 @@
       "description": "Te cuento cómo ha sido el primer ciberataque llevado a cabo por una inteligencia artificial."
     }
   },
+   {
+    "id": "memoria_insuficiente_memory_card_s7_300_siemens",
+    "title": "Memoria insuficiente en Memory Card al cargar programa en S7 300 de Siemens",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1765816157/blog/memory_card_s7300_fail_upload/cover_wtklxs.jpg",
+    "description": "¿Al cargar una pequeña variación de un programa en un PLC S7 300, se produce un error de memoria insuficiente? Te enseño a solucionarlo.",
+    "tags": ["PLC", "Siemens"],
+    "date": "2025-12-20T12:30:43.511Z",
+    "html": "https://fjmduran.com/blog/memoria_insuficiente_memory_card_s7_300_siemens/",
+    "metaTags": {
+      "title": "Memoria insuficiente en Memory Card al cargar programa en S7 300 de Siemens",
+    "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1765816157/blog/memory_card_s7300_fail_upload/cover_wtklxs.jpg",
+    "description": "¿Al cargar una pequeña variación de un programa en un PLC S7 300, se produce un error de memoria insuficiente? Te enseño a solucionarlo."
+    }
+  },
   {
     "id": "modbus_compact_logix_rockwell",
     "title": "Compac Logix Rockwell con Modbus",
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
     "description": "Notas de @fjmduran sobre el módulo MVI69E-MBTCP de ProSoft Technology para dotar a los PLC Compact Logix de Rockwell de TCP/IP",
     "tags": ["PLC", "Siemens"],
-    "date": "2026-09-18T21:44:43.511Z",
+    "date": "2027-09-18T21:44:43.511Z",
     "html": "https://fjmduran.com/blog/modbus_compact_logix_rockwell/",
     "metaTags": {
       "title": "Compac Logix Rockwell con Modbus",
@@ -159,7 +173,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1729845607/blog/hardware_b6cwsp.jpg",
     "description": "Te cuento cómo replicar datos en servidores distintos de MS SQL Server con herramientas nativas de Microsoft",
     "tags": ["PLC", "Siemens"],
-    "date": "2026-09-19T21:44:43.511Z",
+    "date": "2027-09-19T21:44:43.511Z",
     "html": "https://fjmduran.com/blog/comunicaciones_siemens_s7/",
     "metaTags": {
       "title": "Comunicando por S7 de Siemens",
@@ -173,7 +187,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1708583278/blog/windowsBatchScript/cover_ixvsab.jpg",
     "description": "Te enseño a hacer peticiones HTTP en Windows sin necesidad de instalar nada, con la PowerShell.",
     "tags": ["Informática", "Windows", "Batch"],
-    "date": "2026-09-12T21:17:43.511Z",
+    "date": "2027-09-12T21:17:43.511Z",
     "html": "https://quiero1app.com/blog/http_request_powershell/",
     "metaTags": {
       "title": "Peticiones HTTP con PowerShell",
@@ -187,7 +201,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715019967/blog/docker-first-steps/cover_enzzo7.jpg",
     "description": "Hace dos semanas tuve que dockerizar una aplicación, te cuento. En 2017                                                                                                                                                                                                                                          comencé la programación de una plataforma de hostelería. Con la llegada del COVID le di un buen empujón porque dicha plataforma le permitía que los usuarios desde casa hacer pedidos al negocio y quedaba registrado e imprimía las comandas después de que el encargado las revisara. Hace dos meses, un negocio de hostelería me pidió la plataforma pero no tenían conexión a internet, así que tuve que hacer una programación paralela que funcionara en local. Durante las primeras semanas todo fue bien, pero un día me llamaron con que había dejado de funcionar. Para no hacértelo muy largo, había llegado el típico cuñado y había descarajado el servidor. Para evitar que me volviera a pasar opté por dockerizar la aplicación para tenerla encapsulada y controlada. Además la dockerización me permitió también simplificar la implementación y actualización de la plataforma. Y de eso te quiero hablar, de cómo instalar Docker. Al turrón.",
     "tags": ["Informática", "Linux", "Docker"],
-    "date": "2026-09-12T21:17:43.511Z",
+    "date": "2027-09-12T21:17:43.511Z",
     "html": "https://quiero1app.com/blog/calendar_angular_18/",
     "metaTags": {
       "title": "Instalando Docker en Windows. Primeros pasos con Docker.",
@@ -201,7 +215,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715019967/blog/docker-first-steps/cover_enzzo7.jpg",
     "description": "Hace dos semanas tuve que dockerizar una aplicación, te cuento. En 2017                                                                                                                                                                                                                                          comencé la programación de una plataforma de hostelería. Con la llegada del COVID le di un buen empujón porque dicha plataforma le permitía que los usuarios desde casa hacer pedidos al negocio y quedaba registrado e imprimía las comandas después de que el encargado las revisara. Hace dos meses, un negocio de hostelería me pidió la plataforma pero no tenían conexión a internet, así que tuve que hacer una programación paralela que funcionara en local. Durante las primeras semanas todo fue bien, pero un día me llamaron con que había dejado de funcionar. Para no hacértelo muy largo, había llegado el típico cuñado y había descarajado el servidor. Para evitar que me volviera a pasar opté por dockerizar la aplicación para tenerla encapsulada y controlada. Además la dockerización me permitió también simplificar la implementación y actualización de la plataforma. Y de eso te quiero hablar, de cómo instalar Docker. Al turrón.",
     "tags": ["Informática", "Linux", "Docker"],
-    "date": "2026-09-12T21:17:43.511Z",
+    "date": "2027-09-12T21:17:43.511Z",
     "html": "https://quiero1app.com/blog/docker_primeros_pasos/",
     "metaTags": {
       "title": "Instalando Docker en Windows. Primeros pasos con Docker.",
@@ -215,7 +229,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715599678/blog/cover_rrlcad.jpg",
     "description": "Te cuento cómo replicar datos en servidores distintos de MS SQL Server con herramientas nativas de Microsoft",
     "tags": ["Informática", "Bases de datos"],
-    "date": "2026-09-19T21:51:43.511Z",
+    "date": "2027-09-19T21:51:43.511Z",
     "html": "https://quiero1app.com/blog/redes_petri/",
     "metaTags": {
       "title": "Replicar datos en Microsoft SQL Server",
@@ -229,7 +243,7 @@
     "img": "https://res.cloudinary.com/dwufakumj/image/upload/v1715599678/blog/cover_rrlcad.jpg",
     "description": "Te cuento cómo replicar datos en servidores distintos de MS SQL Server con herramientas nativas de Microsoft",
     "tags": ["Informática", "Bases de datos"],
-    "date": "2026-09-19T21:51:43.511Z",
+    "date": "2027-09-19T21:51:43.511Z",
     "html": "https://quiero1app.com/blog/replica_microsoft_sql_server/",
     "metaTags": {
       "title": "Replicar datos en Microsoft SQL Server",
@@ -243,7 +257,7 @@
     "img": "https://github.com/fjmduran/images/blob/master/blog/storeProcedure/cover.jpg?raw=true",
     "description": "¿Qué ventajas y desventajes tienen los procedimientos almacenados en SQL?",
     "tags": ["Bases de datos"],
-    "date": "2026-09-18T21:26:43.511Z",
+    "date": "2027-09-18T21:26:43.511Z",
     "html": "https://quiero1app.com/blog/procedimientos_almacenados_sql/",
     "metaTags": {
       "title": "Procedimientos almacenados en SQL",
